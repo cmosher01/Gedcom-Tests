@@ -1,0 +1,7415 @@
+0 HEAD
+1 SOUR FTW
+1 DEST FTM
+1 DATE 2 Oct 2005
+1 CHAR IBMPC
+1 FILE T:\FTW\DFR\2005\DFR0905.GED
+0 SUBM
+0 @I0001@ INDI
+1 NAME Henry Earl /Goodson/
+1 SEX M
+1 BIRT
+2 DATE 12 Mar 1960
+2 PLAC COLUMBIA, SC
+1 FAMS @F001@
+1 FAMC @F011@
+0 @I0002@ INDI
+1 NAME Brenda Joyce /Goodson/
+1 SEX F
+1 BIRT
+2 DATE 13 Dec 1954
+2 PLAC RICHLAND COUNTY (MIDWIFE)
+1 FAMS @F056@
+1 FAMS @F293@
+1 FAMC @F011@
+0 @I0003@ INDI
+1 NAME Doc Jewel /Davis/
+1 SEX M
+1 BIRT
+2 DATE 22 Jan 1895
+1 DEAT
+2 DATE Feb 1975
+1 FAMS @F074@
+1 FAMC @F015@
+0 @I0004@ INDI
+1 NAME Lawyer /Davis/
+1 SEX M
+1 FAMS @F040@
+1 FAMC @F015@
+0 @I0005@ INDI
+1 NAME Alberta /Davis/
+1 SEX F
+0 @I0006@ INDI
+1 NAME Nancy Pauline Davis /Turner/
+1 SEX F
+1 BIRT
+2 DATE 20 Aug 1900
+1 DEAT
+2 DATE 27 Feb 1957
+1 FAMS @F050@
+1 FAMC @F015@
+0 @I0007@ INDI
+1 NAME Prophet /Davis/
+1 SEX M
+1 BIRT
+2 PLAC Richland County
+1 DEAT
+2 DATE 9 Oct 1977
+2 PLAC Richland County
+1 FAMS @F086@
+1 FAMC @F015@
+0 @I0008@ INDI
+1 NAME Newton Theodore /Davis/
+1 SEX M
+1 BIRT
+2 DATE 27 Mar 1900
+1 FAMS @F093@
+1 FAMC @F015@
+0 @I0009@ INDI
+1 NAME Mamie Davis /Hudson/
+1 SEX F
+1 DEAT
+2 DATE 8 Jan 1987
+1 FAMS @F102@
+1 FAMC @F015@
+0 @I0010@ INDI
+1 NAME Moses /Davis/
+1 SEX M
+1 FAMS @F090@
+1 FAMC @F015@
+0 @I0011@ INDI
+1 NAME Henry /Davis/
+1 SEX M
+1 BIRT
+2 DATE 22 Jan 1905
+2 PLAC Richland County
+1 DEAT
+2 DATE 9 Nov 1983
+2 PLAC Columbia, SC
+1 FAMS @F101@
+1 FAMC @F015@
+0 @I0012@ INDI
+1 NAME Jake /Thompson/
+1 SEX M
+1 FAMS @F027@
+0 @I0013@ INDI
+1 NAME Linda Faye /Goodson/
+1 SEX F
+1 BIRT
+2 DATE 14 May 1956
+2 PLAC OLD COLUMBIA HOSPITAL:Columbia, SC
+1 FAMS @F054@
+1 FAMS @F068@
+1 FAMC @F011@
+0 @I0014@ INDI
+1 NAME Tywon /Harris/
+1 SEX M
+1 BIRT
+2 DATE 13 Nov 1968
+1 FAMC @F082@
+0 @I0015@ INDI
+1 NAME Tommy /Jenkins/
+1 SEX M
+1 BIRT
+2 DATE 10 Mar 1965
+2 PLAC Columbia, SC
+1 FAMS @F016@
+0 @I0016@ INDI
+1 NAME Shaaron Renee /Shell/
+1 SEX F
+1 BIRT
+2 DATE 6 Dec 1968
+1 FAMS @F016@
+1 FAMS @F312@
+1 FAMC @F021@
+0 @I0017@ INDI
+1 NAME Delicia Sada' /Jenkins/
+1 SEX F
+1 BIRT
+2 DATE 27 Jan 1989
+2 PLAC Richland Memorial Hospital (Col. SC)
+1 FAMC @F016@
+0 @I0018@ INDI
+1 NAME Johnny /White/
+1 SEX M
+1 FAMS @F017@
+0 @I0019@ INDI
+1 NAME Alberta /White/
+1 SEX F
+1 FAMS @F018@
+1 FAMC @F017@
+0 @I0020@ INDI
+1 NAME Johny /White/
+1 SEX M
+1 FAMS @F018@
+0 @I0021@ INDI
+1 NAME Florence /Sims/
+1 SEX F
+1 BIRT
+2 DATE 16 Jun 1880
+2 PLAC Union, SC
+1 DEAT
+2 DATE 5 Jun 1972
+1 FAMS @F019@
+0 @I0022@ INDI
+1 NAME Lee Ethel Davis /Bradley/
+1 SEX F
+1 FAMS @F020@
+1 FAMC @F019@
+0 @I0023@ INDI
+1 NAME Alice Johnson /Rucker/
+1 SEX F
+1 FAMC @F019@
+0 @I0024@ INDI
+1 NAME Harriet /Goodson/
+1 SEX F
+1 BIRT
+2 DATE 27 Jul 1957
+1 FAMS @F030@
+1 FAMS @F071@
+1 FAMC @F011@
+0 @I0025@ INDI
+1 NAME Benjamin /Bradley/
+1 SEX M
+1 FAMS @F020@
+0 @I0026@ INDI
+1 NAME Lethel Bradley /Coleman/
+1 SEX F
+1 BIRT
+2 DATE 9 Sep 1923
+1 FAMS @F323@
+1 FAMC @F020@
+0 @I0027@ INDI
+1 NAME Alice Bradley /Thomas/
+1 SEX F
+1 FAMC @F020@
+0 @I0028@ INDI
+1 NAME * Ruthine Johnson /Husband*/
+1 SEX M
+1 FAMS @F022@
+0 @I0029@ INDI
+1 NAME Leanna /Johnson/
+1 SEX F
+1 FAMC @F022@
+0 @I0030@ INDI
+1 NAME Carrie Millings /Johnson/
+1 SEX F
+1 BIRT
+2 PLAC Winnsboro, SC
+1 FAMS @F023@
+0 @I0031@ INDI
+1 NAME Ozzie /Chapppelle/
+1 SEX M
+1 FAMS @F024@
+0 @I0032@ INDI
+1 NAME Wade /Chappelle/
+1 SEX M
+1 FAMS @F025@
+1 FAMC @F024@
+0 @I0033@ INDI
+1 NAME Izetta /Kennedy/
+1 SEX F
+1 FAMS @F025@
+0 @I0034@ INDI
+1 NAME Christine Taylor /Johnson/
+1 SEX F
+1 FAMS @F105@
+0 @I0035@ INDI
+1 NAME James Billy /Shell/
+1 SEX M
+1 FAMS @F021@
+1 FAMC @F315@
+0 @I0036@ INDI
+1 NAME Taff /Wallace/ II
+1 SEX M
+1 FAMS @F115@
+0 @I0037@ INDI
+1 NAME Monroe /Jenkins/
+1 SEX M
+1 FAMS @F044@
+0 @I0038@ INDI
+1 NAME Mary /Jenkins/
+1 SEX F
+1 FAMC @F044@
+0 @I0039@ INDI
+1 NAME Ruth /Jenkins/
+1 SEX F
+1 FAMC @F044@
+0 @I0040@ INDI
+1 NAME Elizabeth Jenkins /Milhouse/
+1 SEX F
+1 FAMC @F044@
+0 @I0041@ INDI
+1 NAME /Eugene/
+1 SEX M
+1 FAMC @F198@
+0 @I0042@ INDI
+1 NAME Detrice M. /George/
+1 SEX F
+1 BIRT
+2 DATE 10 Sep 1969
+1 FAMS @F110@
+1 FAMC @F330@
+0 @I0043@ INDI
+1 NAME Lubium /Jenkins/
+1 SEX M
+1 FAMC @F044@
+0 @I0044@ INDI
+1 NAME Eunice Johnson /Jenkins/
+1 SEX F
+1 FAMS @F044@
+1 FAMC @F014@
+0 @I0045@ INDI
+1 NAME Georgia Ann /Graham/
+1 SEX F
+1 BIRT
+2 DATE 12 Dec 1949
+2 PLAC Columbia, SC
+1 DEAT
+2 DATE 28 Aug 2006
+2 PLAC Columbia, SC
+2 CAUS Cancer
+1 FAMS @F078@
+1 FAMC @F339@
+1 NOTE Story Teller And Performer 
+2 CONT Did Kids Storry telling and Kids Carnivals
+0 @I0046@ INDI
+1 NAME Eugenia Jeter /Davis/
+1 SEX F
+1 DEAT
+2 DATE May 1989
+1 FAMS @F086@
+0 @I0047@ INDI
+1 NAME Prophet /Evans/
+1 SEX M
+1 DEAT
+2 DATE 23 Jun 1963
+1 FAMC @F026@
+0 @I0048@ INDI
+1 NAME Evonne Evans /Adeyinka/
+1 SEX F
+1 FAMS @F038@
+1 FAMC @F026@
+0 @I0049@ INDI
+1 NAME Patricia Evans /Thompson/
+1 SEX F
+1 FAMS @F027@
+1 FAMC @F026@
+0 @I0050@ INDI
+1 NAME David Jerome /Evans/
+1 SEX M
+1 BIRT
+2 DATE 11 May 1958
+2 PLAC Richland County, Columbia, SC
+1 DEAT
+2 DATE 1 May 2000
+2 PLAC Richland County, Columbia, SC
+1 FAMC @F335@
+0 @I0051@ INDI
+1 NAME Benjamin Oliver /King/
+1 SEX M
+1 BIRT
+2 DATE 28 May 1938
+2 PLAC RICHLAND COUNTY
+1 DEAT
+2 DATE 19 Apr 1991
+2 PLAC Richland Memorial Hospital
+1 FAMS @F028@
+0 @I0052@ INDI
+1 NAME Deborah /Gibbs/
+1 SEX F
+1 FAMS @F028@
+0 @I0053@ INDI
+1 NAME Sandra King /Brown/
+1 SEX F
+1 FAMC @F028@
+0 @I0054@ INDI
+1 NAME Kenneth /King/
+1 SEX M
+1 FAMC @F028@
+0 @I0055@ INDI
+1 NAME Felicia /Gibbs/
+1 SEX F
+1 FAMC @F028@
+0 @I0056@ INDI
+1 NAME Kiwana /Gibbs/
+1 SEX F
+1 FAMC @F028@
+0 @I0057@ INDI
+1 NAME Felicia Denise /Shell/
+1 SEX F
+1 BIRT
+2 DATE 8 Sep 1971
+1 FAMC @F021@
+0 @I0058@ INDI
+1 NAME Petra /Gibbs/
+1 SEX F
+1 FAMC @F028@
+0 @I0059@ INDI
+1 NAME Thomas /McNeil/
+1 SEX M
+1 FAMS @F076@
+0 @I0060@ INDI
+1 NAME * Pricilia Clinton /Husband/
+1 SEX M
+1 FAMS @F029@
+0 @I0061@ INDI
+1 NAME Pricilia /Clinton/
+1 SEX F
+1 FAMS @F029@
+0 @I0062@ INDI
+1 NAME Terrell Ja'Quis /Evans/
+1 SEX M
+1 BIRT
+2 DATE 18 Apr 1995
+1 FAMC @F072@
+0 @I0063@ INDI
+1 NAME Briana Shanice La'Shay /Evans/
+1 SEX F
+1 BIRT
+2 DATE 8 Jan 1992
+1 FAMC @F072@
+0 @I0064@ INDI
+1 NAME David /Bookhart/
+1 SEX M
+1 BIRT
+2 DATE 2 Feb 1944
+1 FAMC @F031@
+0 @I0065@ INDI
+1 NAME Rosa Lee /Oliver/
+1 SEX F
+0 @I0066@ INDI
+1 NAME Travis /Evans/
+1 SEX M
+1 FAMC @F038@
+0 @I0067@ INDI
+1 NAME Rosa /Lee/
+1 SEX F
+1 FAMC @F031@
+0 @I0068@ INDI
+1 NAME Roger /Mealing/
+1 SEX M
+1 BIRT
+2 DATE 4 Sep 1956
+1 FAMS @F030@
+1 FAMS @F305@
+1 FAMC @F304@
+0 @I0069@ INDI
+1 NAME Addie Gibson /Johnson/
+1 SEX F
+1 FAMS @F032@
+0 @I0070@ INDI
+1 NAME Louise /Johnson/
+1 SEX F
+1 FAMS @F033@
+1 FAMC @F032@
+0 @I0071@ INDI
+1 NAME Rebecca Johnson /Williams/
+1 SEX F
+1 FAMS @F034@
+1 FAMC @F032@
+0 @I0072@ INDI
+1 NAME Edna /Johnson/
+1 SEX F
+1 FAMS @F035@
+1 FAMC @F032@
+0 @I0073@ INDI
+1 NAME Wardell /Johnson/
+1 SEX M
+1 FAMS @F105@
+1 FAMC @F032@
+0 @I0074@ INDI
+1 NAME Moses /Johnson/
+1 SEX M
+1 DEAT
+2 DATE 1990
+1 FAMC @F032@
+0 @I0075@ INDI
+1 NAME Clarence /Johnson/
+1 SEX M
+1 FAMS @F039@
+1 FAMC @F032@
+0 @I0076@ INDI
+1 NAME Renell /Johnson/
+1 SEX M
+1 FAMC @F032@
+0 @I0077@ INDI
+1 NAME Ruben /Johnson/
+1 SEX M
+1 FAMC @F032@
+0 @I0078@ INDI
+1 NAME Ramon /Johnson/
+1 SEX M
+1 FAMC @F032@
+0 @I0079@ INDI
+1 NAME Tyajuana Lynette /Mealing/
+1 SEX F
+1 BIRT
+2 DATE 31 Aug 1976
+1 FAMS @F070@
+1 FAMC @F030@
+0 @I0080@ INDI
+1 NAME Bobby /Johnson/
+1 SEX M
+1 FAMC @F032@
+0 @I0081@ INDI
+1 NAME Monroe /Johnson/
+1 SEX M
+1 FAMC @F032@
+0 @I0082@ INDI
+1 NAME Frank /Brown/
+1 SEX M
+1 FAMS @F033@
+0 @I0083@ INDI
+1 NAME Debbie /Johnson/
+1 SEX F
+1 FAMC @F033@
+0 @I0084@ INDI
+1 NAME Frank /Johnson/
+1 SEX M
+1 FAMC @F033@
+0 @I0085@ INDI
+1 NAME Heyward /Williams/
+1 SEX M
+1 FAMS @F034@
+0 @I0086@ INDI
+1 NAME Barbara Johnson /Wyle/
+1 SEX F
+1 BIRT
+2 DATE 16 Feb 1953
+1 FAMS @F036@
+1 FAMC @F034@
+0 @I0087@ INDI
+1 NAME Ernest /Buckston/
+1 SEX M
+1 FAMS @F035@
+0 @I0088@ INDI
+1 NAME Michelle /Buckston/
+1 SEX F
+1 FAMC @F035@
+0 @I0089@ INDI
+1 NAME Christopher /Buckston/
+1 SEX M
+1 FAMC @F035@
+0 @I0090@ INDI
+1 NAME Bryan Darnell /Mealing/
+1 SEX M
+1 BIRT
+2 DATE 24 Mar 1978
+1 FAMS @F303@
+1 FAMC @F030@
+0 @I0091@ INDI
+1 NAME Eugene /Wyle/
+1 SEX M
+1 FAMS @F036@
+0 @I0092@ INDI
+1 NAME Michael /Wyle/
+1 SEX M
+1 FAMC @F036@
+0 @I0093@ INDI
+1 NAME Maurice /Wyle/
+1 SEX M
+1 FAMC @F036@
+0 @I0094@ INDI
+1 NAME Jason /Wyle/
+1 SEX M
+1 FAMC @F036@
+0 @I0095@ INDI
+1 NAME Belinda /Wyle/
+1 SEX F
+1 FAMC @F036@
+0 @I0096@ INDI
+1 NAME Quintin /Wyle/
+1 SEX M
+1 FAMC @F036@
+0 @I0097@ INDI
+1 NAME Chris /Taylor/
+1 SEX M
+1 FAMS @F037@
+0 @I0098@ INDI
+1 NAME Watdell /Wyle/
+1 SEX F
+1 FAMS @F037@
+0 @I0099@ INDI
+1 NAME Tony /Wyle/
+1 SEX M
+1 FAMC @F037@
+0 @I0100@ INDI
+1 NAME Barry /Wyle/
+1 SEX M
+1 FAMC @F037@
+0 @I0101@ INDI
+1 NAME Samuel /Thomas/
+1 SEX M
+1 BIRT
+2 PLAC COLUMBIA, SC
+1 FAMS @F054@
+0 @I0102@ INDI
+1 NAME Vary /Wyle/
+1 SEX M
+1 FAMC @F037@
+0 @I0103@ INDI
+1 NAME Sabrian Evans /Adeyinka/
+1 SEX F
+1 FAMC @F038@
+0 @I0104@ INDI
+1 NAME Jennia /Pearson/
+1 SEX F
+1 FAMS @F039@
+0 @I0105@ INDI
+1 NAME Lucille Wallace /Davis/
+1 SEX F
+1 FAMS @F040@
+0 @I0106@ INDI
+1 NAME Mel "Bubba" /Davis/
+1 SEX M
+1 BIRT
+2 DATE 3 Apr
+1 FAMS @F097@
+1 FAMC @F040@
+0 @I0107@ INDI
+1 NAME Patricia /Davis/
+1 SEX F
+1 BIRT
+2 DATE 3 May 1944
+1 FAMC @F040@
+0 @I0108@ INDI
+1 NAME Albert /Davis/
+1 SEX M
+1 BIRT
+2 DATE 2 Jan 1946
+1 FAMS @F096@
+1 FAMC @F040@
+0 @I0109@ INDI
+1 NAME Larry /Davis/, Sr.
+1 SEX M
+1 BIRT
+2 DATE 28 Oct 1949
+1 FAMS @F098@
+1 FAMC @F040@
+0 @I0110@ INDI
+1 NAME Gary /Davis/
+1 SEX M
+1 BIRT
+2 DATE 9 Oct
+1 FAMS @F311@
+1 FAMC @F097@
+0 @I0111@ INDI
+1 NAME Jimmy /Clinton/
+1 SEX M
+1 FAMS @F041@
+0 @I0112@ INDI
+1 NAME Shelia /Smith/
+1 SEX F
+1 BIRT
+2 DATE 7 Sep 1963
+2 PLAC NEW YORK, NEW YORK
+1 FAMS @F067@
+1 FAMS @F001@
+1 FAMC @F012@
+0 @I0113@ INDI
+1 NAME Williams Billy /Adams/
+1 SEX M
+1 FAMS @F278@
+1 FAMC @F128@
+0 @I0114@ INDI
+1 NAME Alberta Davis /Clinton/
+1 SEX F
+1 FAMS @F041@
+1 FAMC @F015@
+0 @I0115@ INDI
+1 NAME James /Clinton/
+1 SEX M
+1 FAMS @F042@
+1 FAMC @F041@
+0 @I0116@ INDI
+1 NAME Thomas /Clinton/, Sr.
+1 SEX M
+1 BIRT
+2 DATE 4 Aug 1922
+1 FAMS @F043@
+1 FAMC @F041@
+0 @I0117@ INDI
+1 NAME Marion /Clinton/
+1 SEX M
+1 FAMC @F041@
+0 @I0118@ INDI
+1 NAME Carrie /Clinton/
+1 SEX F
+1 FAMC @F041@
+0 @I0119@ INDI
+1 NAME Alpha /Clinton/
+1 SEX M
+1 FAMS @F045@
+1 FAMC @F041@
+0 @I0120@ INDI
+1 NAME Mary /Able/
+1 SEX F
+1 FAMS @F042@
+0 @I0121@ INDI
+1 NAME Mary Magdalene /Gibson/
+1 SEX F
+1 FAMS @F043@
+0 @I0122@ INDI
+1 NAME Alice Davis /Holly/
+1 SEX F
+1 FAMS @F100@
+1 FAMC @F099@
+0 @I0123@ INDI
+1 NAME Mildred Able /Clinton/
+1 SEX F
+1 FAMS @F045@
+0 @I0124@ INDI
+1 NAME Pharoah /Manley/
+1 SEX M
+1 FAMS @F196@
+0 @I0125@ INDI
+1 NAME Monroe /Clinton/
+1 SEX M
+1 FAMS @F046@
+1 FAMC @F045@
+0 @I0126@ INDI
+1 NAME Margaret /Clinton/
+1 SEX F
+1 FAMC @F045@
+0 @I0127@ INDI
+1 NAME Alpha /Clinton/, Jr
+1 SEX M
+1 FAMC @F045@
+0 @I0128@ INDI
+1 NAME Priscilla /Clinton/
+1 SEX F
+1 FAMS @F047@
+1 FAMC @F045@
+0 @I0129@ INDI
+1 NAME John /Clinton/
+1 SEX M
+1 FAMS @F048@
+1 FAMC @F045@
+0 @I0130@ INDI
+1 NAME Lottie Rose /McNeil/
+1 SEX F
+1 FAMS @F198@
+1 FAMC @F076@
+0 @I0131@ INDI
+1 NAME Robin /Washington/
+1 SEX F
+1 FAMS @F046@
+0 @I0132@ INDI
+1 NAME Thomasena McNeil /Felder/
+1 SEX F
+1 BIRT
+2 DATE 21 Jan 1930
+1 FAMS @F199@
+1 FAMC @F076@
+0 @I0133@ INDI
+1 NAME Chadwick /Simmons/
+1 SEX M
+1 FAMC @F047@
+0 @I0134@ INDI
+1 NAME Rosemary /Clinton/
+1 SEX F
+1 FAMS @F048@
+0 @I0135@ INDI
+1 NAME Dashia Jody /Wilson/
+1 SEX M
+1 BIRT
+2 DATE 19 Jan 1998
+1 FAMC @F072@
+0 @I0136@ INDI
+1 NAME John /Clinton/
+1 SEX M
+1 FAMC @F048@
+0 @I0137@ INDI
+1 NAME Tamiko /Clinton/
+1 SEX F
+1 FAMC @F048@
+0 @I0138@ INDI
+1 NAME James Eugene /Turner/
+1 SEX M
+1 BIRT
+2 DATE 16 May 1898
+2 PLAC Fairfield County, SC
+1 DEAT
+2 DATE 18 Jan 1967
+1 FAMS @F050@
+0 @I0139@ INDI
+1 NAME Estell Turner /Smith/
+1 SEX F
+1 FAMS @F051@
+1 FAMC @F050@
+0 @I0140@ INDI
+1 NAME Alberta Turner /Sims/
+1 SEX F
+1 BIRT
+2 DATE 31 Aug 1920
+1 FAMS @F123@
+1 FAMC @F050@
+0 @I0141@ INDI
+1 NAME James William /Turner/, Sr.
+1 SEX M
+1 BIRT
+2 DATE 22 Aug 1921
+1 DEAT
+2 DATE 12 Feb 1988
+1 FAMS @F126@
+1 FAMC @F050@
+0 @I0142@ INDI
+1 NAME Alice Turner Adams /Parks/
+1 SEX F
+1 FAMS @F128@
+1 FAMS @F275@
+1 FAMC @F050@
+0 @I0143@ INDI
+1 NAME Ruth /Turner/
+1 SEX F
+1 FAMC @F050@
+0 @I0144@ INDI
+1 NAME Theodore /Smith/
+1 SEX M
+1 BIRT
+2 PLAC Washington, D C
+1 FAMS @F051@
+0 @I0145@ INDI
+1 NAME Quamaine Rashad /Jenkins/
+1 SEX M
+1 BIRT
+2 DATE 8 Mar 1991
+1 FAMC @F016@
+0 @I0146@ INDI
+1 NAME Ollie Mae Thomas /Goodson/
+1 SEX F
+1 BIRT
+2 DATE 6 Sep 1954
+2 PLAC ORANGEBURG, SC
+1 FAMS @F049@
+1 FAMC @F320@
+0 @I0147@ INDI
+1 NAME Yvette Tamishia /Jenkins/
+1 SEX F
+1 BIRT
+2 DATE 28 Jun 1992
+2 PLAC Richland Memorial Hosp. (Columbia, SC)
+1 FAMC @F016@
+0 @I0148@ INDI
+1 NAME Tryone /Johnson/
+1 SEX M
+1 BIRT
+2 DATE 25 Jun 1974
+1 FAMS @F052@
+0 @I0149@ INDI
+1 NAME Shaundalier Nave' /Johnson/
+1 SEX F
+1 BIRT
+2 DATE 10 Nov 1991
+2 PLAC RICHLAND MEMORIAL HOSPITAL, COLUMBIA, SC
+1 FAMC @F052@
+0 @I0150@ INDI
+1 NAME TiQurria De'Asia /Mealing/
+1 SEX F
+1 BIRT
+2 DATE 21 Sep 1997
+1 FAMC @F070@
+0 @I0151@ INDI
+1 NAME Akonke Alberta Smith /Manley/
+1 SEX F
+1 FAMS @F196@
+1 FAMC @F051@
+0 @I0152@ INDI
+1 NAME Orlando Marquis /Goodson/
+1 SEX M
+1 BIRT
+2 DATE 30 Mar 1992
+2 PLAC Richland Memorial Hosp. (Columbia, SC)
+1 FAMC @F053@
+0 @I0153@ INDI
+1 NAME Robert Owen /Goodson/
+1 SEX M
+1 BIRT
+2 DATE 22 Apr 1977
+2 PLAC BAPTIST HOSPITAL: COLUMBIA, SC
+1 FAMS @F322@
+1 FAMC @F049@
+0 @I0154@ INDI
+1 NAME Randy Lewis /Goodson/
+1 SEX M
+1 BIRT
+2 DATE 18 May 1979
+2 PLAC BAPTIST HOSPITAL: COLUMBIA, SC
+1 FAMC @F049@
+0 @I0155@ INDI
+1 NAME Kimmerlisa Monique /Thomas/
+1 SEX F
+1 BIRT
+2 DATE 27 Aug 1978
+1 FAMC @F054@
+0 @I0156@ INDI
+1 NAME Adelia Annette /Thomas/
+1 SEX F
+1 BIRT
+2 DATE 22 Apr 1989
+1 FAMC @F068@
+0 @I0157@ INDI
+1 NAME Alexander /Boyd/
+1 SEX M
+1 FAMS @F055@
+0 @I0158@ INDI
+1 NAME Tyra Lashaun /Goodson/
+1 SEX F
+1 BIRT
+2 DATE 10 Nov 1972
+2 PLAC Columbia, SC
+1 FAMS @F069@
+1 FAMS @F313@
+1 FAMC @F057@
+0 @I0159@ INDI
+1 NAME Reco Larkieth /Smith/
+1 SEX M
+1 BIRT
+2 DATE 21 Apr 1981
+2 PLAC Denmark, SC
+1 FAMC @F001@
+0 @I0160@ INDI
+1 NAME Petrina Laticia /Boyd/
+1 SEX F
+1 BIRT
+2 DATE 8 Jul 1975
+1 FAMS @F052@
+1 FAMS @F302@
+1 FAMC @F055@
+0 @I0161@ INDI
+1 NAME David /Boyd/
+1 SEX M
+1 BIRT
+2 DATE 20 Dec 1952
+1 FAMS @F056@
+0 @I0162@ INDI
+1 NAME Kenyatta Andre' /Goodson/
+1 SEX M
+1 BIRT
+2 DATE 1 Aug 1973
+1 FAMS @F065@
+1 FAMC @F056@
+0 @I0163@ INDI
+1 NAME Kataya Aletha /Goodson/
+1 SEX F
+1 BIRT
+2 DATE 14 Jun 1977
+1 FAMS @F053@
+1 FAMC @F056@
+0 @I0164@ INDI
+1 NAME Christopher /Goodson/
+1 SEX M
+1 BIRT
+2 DATE 26 Nov 1982
+1 FAMC @F056@
+0 @I0165@ INDI
+1 NAME Crystal /Goodson/
+1 SEX F
+1 BIRT
+2 DATE 26 Nov 1982
+1 FAMC @F056@
+0 @I0166@ INDI
+1 NAME Deirdre Renee /Beatty/
+1 SEX F
+1 BIRT
+2 DATE 29 Jun 1982
+2 PLAC COlumbia, South Carolina
+1 FAMC @F030@
+0 @I0167@ INDI
+1 NAME Walter Oliver /White/
+1 SEX M
+1 BIRT
+2 DATE 19 Dec 1954
+2 PLAC COLUMBIA, SC
+1 FAMS @F002@
+1 FAMC @F010@
+0 @I0168@ INDI
+1 NAME Ruby /English/
+1 SEX F
+1 DEAT
+2 DATE Jan 1985
+2 PLAC RICHLAND MEMORIAL HOSPITAL, COLUMBIA, SC
+1 FAMS @F002@
+0 @I0169@ INDI
+1 NAME Shareka Renee /White/
+1 SEX F
+1 BIRT
+2 DATE 13 Oct 1980
+2 PLAC RICHLAND MEMORIAL HOSPITAL, COLUMBIA, SC
+1 FAMS @F209@
+1 FAMS @F299@
+1 FAMC @F002@
+0 @I0170@ INDI
+1 NAME Annyona Naemeko /Smith/
+1 SEX F
+1 BIRT
+2 DATE 16 May 1982
+2 PLAC COLUMBIA , SC
+1 FAMC @F001@
+0 @I0171@ INDI
+1 NAME Walter "Jug" Oliver /White/
+1 SEX M
+1 BIRT
+2 DATE 5 Feb 1982
+1 DEAT
+2 DATE 25 Jun 1997
+1 FAMC @F002@
+0 @I0172@ INDI
+1 NAME Granville Oliver /White/
+1 SEX M
+1 BIRT
+2 DATE 7 Nov 1953
+1 FAMS @F003@
+1 FAMC @F010@
+0 @I0173@ INDI
+1 NAME Dora Lee /Taylor/
+1 SEX F
+1 BIRT
+2 DATE 6 Aug 1955
+1 FAMS @F003@
+0 @I0174@ INDI
+1 NAME Tara Yolanda /Livingston/
+1 SEX F
+1 BIRT
+2 DATE 29 May 1974
+1 FAMC @F003@
+0 @I0175@ INDI
+1 NAME Julius Maurice /Livingston/
+1 SEX M
+1 BIRT
+2 DATE 16 Oct 1975
+1 DEAT
+2 DATE 16 Jan 1994
+1 FAMC @F003@
+0 @I0176@ INDI
+1 NAME James Morris /Livingston/
+1 SEX M
+1 BIRT
+2 DATE 24 Sep 1976
+1 FAMC @F003@
+0 @I0177@ INDI
+1 NAME Jared Marshall /Livingston/
+1 SEX M
+1 BIRT
+2 DATE 13 Dec 1977
+1 FAMC @F003@
+0 @I0178@ INDI
+1 NAME James D. /Lawrence/
+1 SEX M
+1 DEAT
+2 DATE 1986
+1 FAMS @F004@
+0 @I0179@ INDI
+1 NAME Mae lina Oliver /Lawrence/
+1 SEX F
+1 BIRT
+2 DATE 28 Oct 1926
+2 PLAC Richland County, Columbia, SC
+1 DEAT
+2 DATE 24 Dec 1986
+2 PLAC Richland County Columbia, SC
+1 FAMS @F004@
+1 FAMC @F009@
+0 @I0180@ INDI
+1 NAME Marlina /Lawrence/
+1 SEX F
+1 BIRT
+2 DATE 23 Jun 1965
+1 FAMS @F005@
+1 FAMC @F004@
+0 @I0181@ INDI
+1 NAME Robert Billy /Goodson/
+1 SEX M
+1 BIRT
+2 DATE 9 Jun 1920
+2 PLAC Lamar,  SC
+1 DEAT
+2 DATE 5 Jul 1983
+2 PLAC RICHLAND MEMORIAL HOSPITAL (COLUMBIA)
+1 FAMS @F011@
+1 FAMS @F297@
+1 FAMC @F087@
+0 @I0182@ INDI
+1 NAME Tonya /Evans/
+1 SEX F
+1 BIRT
+2 DATE 17 Dec 1975
+1 FAMS @F072@
+1 FAMS @F073@
+1 FAMC @F038@
+0 @I0183@ INDI
+1 NAME Therion Brooks /Lawrence/
+1 SEX M
+1 BIRT
+2 DATE 6 Dec 1985
+1 FAMC @F005@
+0 @I0184@ INDI
+1 NAME Makail Tashaundra /Lawrence/
+1 SEX F
+1 BIRT
+2 DATE 10 Oct 1988
+1 FAMC @F005@
+0 @I0185@ INDI
+1 NAME Sa'De Lakia /Lawrence/
+1 SEX F
+1 BIRT
+2 DATE 9 Dec 1989
+2 PLAC RICHLAND MEMORIAL HOSPITAL, COLUMBIA, SC
+1 FAMC @F005@
+0 @I0186@ INDI
+1 NAME Marvin Andrew /White/
+1 SEX M
+1 BIRT
+2 DATE 20 Dec 1950
+2 PLAC RICHLAND COUNTY
+1 FAMS @F006@
+1 FAMS @F007@
+1 FAMC @F010@
+0 @I0187@ INDI
+1 NAME Ann /Parker/
+1 SEX F
+1 FAMS @F006@
+0 @I0188@ INDI
+1 NAME Delia /White/
+1 SEX F
+1 FAMS @F092@
+1 FAMC @F006@
+0 @I0189@ INDI
+1 NAME Ann Parker /White/
+1 SEX F
+1 FAMS @F007@
+0 @I0190@ INDI
+1 NAME Tiffany /Sims/
+1 SEX F
+1 FAMC @F197@
+0 @I0191@ INDI
+1 NAME Sidney /Green/
+1 ALIA /Buster/
+1 SEX M
+1 BIRT
+2 DATE 12 Jan 1958
+2 PLAC BAPTIST HOSPITAL in Columbia Sc
+1 DEAT
+2 DATE 19 Oct 2000
+2 PLAC BAPTIST HOSPITAL in Columbia Sc
+1 FAMS @F008@
+1 FAMS @F181@
+1 FAMC @F182@
+0 @I0192@ INDI
+1 NAME Henrietta /Oliver/
+1 SEX F
+1 BIRT
+2 DATE 1 Mar 1931
+2 PLAC COLUMBIA, SC
+1 DEAT
+2 DATE 23 Jun 1999
+2 PLAC Columbia, SC
+1 FAMS @F011@
+1 FAMC @F009@
+0 @I0193@ INDI
+1 NAME Sandra White /Green/
+1 SEX F
+1 BIRT
+2 DATE 17 May 1964
+2 PLAC Richland Memorial Hospital, Columbia SC
+1 FAMS @F008@
+1 FAMC @F010@
+0 @I0194@ INDI
+1 NAME Shania Yvette /Green/
+1 SEX F
+1 BIRT
+2 DATE 10 Dec 1982
+1 FAMC @F008@
+0 @I0195@ INDI
+1 NAME Vonda /Green/
+1 SEX F
+1 BIRT
+2 DATE 19 Jan 1987
+1 FAMC @F008@
+0 @I0196@ INDI
+1 NAME Grandville /Oliver/
+1 SEX M
+1 BIRT
+2 DATE 25 Nov 1895
+2 PLAC Georgia
+1 DEAT
+2 DATE 12 Jul 1969
+2 PLAC Columbia, SC
+1 FAMS @F009@
+0 @I0197@ INDI
+1 NAME Mattie Davis /Oliver/
+1 SEX F
+1 BIRT
+2 DATE 17 Dec 1898
+1 DEAT
+2 DATE 16 Feb 1975
+2 PLAC Columbia, SC
+1 FAMS @F009@
+1 FAMC @F015@
+0 @I0198@ INDI
+1 NAME Leroy /Oliver/
+1 SEX M
+1 BIRT
+2 DATE 4 Jun 1919
+1 DEAT
+2 DATE 29 Mar 1966
+1 FAMS @F031@
+1 FAMC @F009@
+0 @I0199@ INDI
+1 NAME Carrie Oliver /Harris/
+1 SEX F
+1 BIRT
+2 DATE 1 Jun 1921
+1 DEAT
+2 DATE 3 Jun 1994
+1 FAMS @F079@
+1 FAMC @F009@
+0 @I0200@ INDI
+1 NAME Leether Oliver /Taylor/
+1 SEX F
+1 FAMC @F009@
+0 @I0201@ INDI
+1 NAME Preston /Evans/
+1 SEX M
+1 DEAT
+2 DATE 1994
+1 FAMS @F026@
+0 @I0202@ INDI
+1 NAME Sydney /Hart/
+1 SEX M
+1 BIRT
+2 DATE 6 Nov 1966
+1 FAMS @F202@
+1 FAMC @F200@
+0 @I0203@ INDI
+1 NAME Mattie Roberta /Goodson/
+1 SEX F
+1 BIRT
+2 DATE 23 Jun 1950
+2 PLAC RICHLAND COUNTY (MIDWIFE)
+1 DEAT
+2 DATE 14 Feb 2000
+2 PLAC Richland Memorial Hospital-Columbia, SC
+1 FAMS @F021@
+1 FAMC @F011@
+0 @I0204@ INDI
+1 NAME Margaret /White/
+1 SEX F
+1 BIRT
+2 DATE 18 Jul 1925
+1 DEAT
+2 DATE 13 Jan 1990
+1 FAMS @F010@
+1 FAMC @F009@
+0 @I0205@ INDI
+1 NAME Nancy Oliver /Evans/
+1 SEX F
+1 BIRT
+2 DATE 12 Feb 1929
+1 FAMS @F026@
+1 FAMS @F335@
+1 FAMS @F339@
+1 FAMC @F009@
+0 @I0206@ INDI
+1 NAME Darrell /Warner/
+1 SEX M
+1 BIRT
+2 DATE 23 Oct 1960
+1 FAMS @F201@
+1 FAMC @F200@
+0 @I0207@ INDI
+1 NAME Alicia Hilda /Harris-Warner/
+1 SEX F
+1 BIRT
+2 DATE 6 Mar 1943
+1 FAMS @F200@
+1 FAMC @F199@
+0 @I0208@ INDI
+1 NAME Rev Charles /White/
+1 SEX M
+1 FAMS @F010@
+0 @I0209@ INDI
+1 NAME Vincent /Harris/
+1 SEX M
+1 BIRT
+2 DATE 31 Jul 1970
+2 PLAC Columbia, SC
+1 FAMC @F082@
+0 @I0210@ INDI
+1 NAME Margo Faust /Smith/
+1 SEX F
+1 FAMS @F012@
+1 FAMC @F306@
+0 @I0211@ INDI
+1 NAME William Nicholas /Davis/
+1 ALIA /William/
+1 SEX M
+1 BIRT
+2 DATE 16 Mar 1847
+2 PLAC Fairfield County
+1 DEAT
+2 DATE 16 Mar 1910
+1 FAMS @F013@
+1 FAMC @F099@
+0 @I0212@ INDI
+1 NAME Suzanna /Johnson/
+1 SEX F
+1 BIRT
+2 DATE 1854
+2 PLAC Lexington County (Actually Sumpter, SC)
+1 FAMS @F013@
+1 FAMS @F338@
+0 @I0213@ INDI
+1 NAME Robert Billy /Goodson/, Jr.
+1 SEX M
+1 BIRT
+2 DATE 24 Dec 1952
+1 FAMS @F049@
+1 FAMC @F011@
+0 @I0214@ INDI
+1 NAME Eskie /Johnson/
+1 SEX M
+1 BIRT
+2 DATE 25 Sep 1877
+1 DEAT
+2 DATE 26 Feb 1917
+1 FAMS @F014@
+1 FAMC @F013@
+0 @I0215@ INDI
+1 NAME Anna Davis /Gill/
+1 SEX F
+1 FAMS @F150@
+1 FAMC @F013@
+0 @I0216@ INDI
+1 NAME Henry /Davis/
+1 SEX M
+1 BIRT
+2 DATE 1877
+1 FAMS @F151@
+1 FAMC @F013@
+0 @I0217@ INDI
+1 NAME Lucy /Davis/
+1 SEX F
+1 FAMS @F109@
+1 FAMC @F013@
+0 @I0218@ INDI
+1 NAME Johnny /Davis/
+1 SEX M
+1 BIRT
+2 DATE 1875
+1 FAMS @F131@
+1 FAMC @F013@
+0 @I0219@ INDI
+1 NAME Harrison /Davis/
+1 SEX M
+1 FAMS @F015@
+1 FAMC @F013@
+0 @I0220@ INDI
+1 NAME Lelia /Davis/
+1 SEX F
+1 BIRT
+2 DATE 19 Jun
+1 FAMS @F165@
+1 FAMC @F013@
+0 @I0221@ INDI
+1 NAME Lula /Burrell/
+1 SEX F
+1 FAMS @F014@
+0 @I0222@ INDI
+1 NAME Lelia /Johnson/
+1 SEX F
+1 FAMS @F017@
+1 FAMC @F014@
+0 @I0223@ INDI
+1 NAME Johnny /Johnson/
+1 SEX M
+1 FAMS @F019@
+1 FAMC @F014@
+0 @I0224@ INDI
+1 NAME Barbara Ann /Goodson/
+1 SEX F
+1 BIRT
+2 DATE 19 Nov 1951
+2 PLAC RICHLAND COUNTY  (MIDWIFE)
+1 FAMS @F055@
+1 FAMS @F057@
+1 FAMC @F011@
+0 @I0225@ INDI
+1 NAME Ruthine /Johnson/
+1 SEX F
+1 FAMS @F022@
+1 FAMC @F014@
+0 @I0226@ INDI
+1 NAME George /Johnson/
+1 SEX M
+1 FAMS @F023@
+1 FAMC @F014@
+0 @I0227@ INDI
+1 NAME Maggie /Johnson/
+1 SEX F
+1 FAMS @F024@
+1 FAMC @F014@
+0 @I0228@ INDI
+1 NAME Suzanna /Johnson/
+1 SEX F
+1 FAMS @F107@
+1 FAMC @F014@
+0 @I0229@ INDI
+1 NAME Lula /Johnson/
+1 SEX F
+1 FAMS @F108@
+1 FAMC @F014@
+0 @I0230@ INDI
+1 NAME Tony /Johnson/
+1 SEX M
+1 FAMC @F105@
+0 @I0231@ INDI
+1 NAME Lonnie /Johnson/
+1 SEX M
+1 FAMS @F032@
+1 FAMC @F014@
+0 @I0232@ INDI
+1 NAME Earlene /Johnson/
+1 SEX F
+1 FAMS @F106@
+1 FAMC @F014@
+0 @I0233@ INDI
+1 NAME Carrie /Moore/
+1 SEX F
+1 BIRT
+2 PLAC Fairfield County
+1 FAMS @F015@
+0 @I0234@ INDI
+1 NAME Harrison /Davis/, Jr
+1 SEX M
+1 FAMS @F132@
+1 FAMC @F015@
+0 @I0235@ INDI
+1 NAME ShaQueen Tyasia /Johnson/
+1 SEX F
+1 BIRT
+2 DATE 29 Sep 1994
+1 FAMC @F052@
+0 @I0236@ INDI
+1 NAME Jaquan Kentrell /Ashford/
+1 SEX M
+1 BIRT
+2 DATE 12 Apr 1997
+1 FAMC @F052@
+0 @I0237@ INDI
+1 NAME Shantia Henrietta LaPree /Goodson/
+1 SEX F
+1 BIRT
+2 DATE 18 Mar 1995
+1 FAMC @F069@
+0 @I0238@ INDI
+1 NAME Daren /Harris/
+1 SEX M
+1 BIRT
+2 DATE 29 Jan 1974
+2 PLAC Columbia, SC
+1 FAMS @F085@
+1 FAMC @F082@
+0 @I0239@ INDI
+1 NAME Jamile /Goodson/
+1 SEX F
+1 BIRT
+2 DATE 28 Oct 1997
+1 FAMC @F065@
+0 @I0240@ INDI
+1 NAME Orlando /Gladney/
+1 SEX M
+1 FAMS @F070@
+0 @I0241@ INDI
+1 NAME Ava /Green/
+1 SEX F
+1 BIRT
+2 DATE 10 Sep 1993
+1 FAMC @F008@
+0 @I0242@ INDI
+1 NAME Joyd Isiah /Wilson/
+1 SEX M
+1 FAMS @F072@
+0 @I0243@ INDI
+1 NAME Roland /Camps/
+1 SEX M
+1 FAMS @F073@
+0 @I0244@ INDI
+1 NAME Derick B. /Beatty/
+1 SEX M
+1 FAMS @F071@
+0 @I0245@ INDI
+1 NAME Julia /Davis/
+1 SEX F
+1 BIRT
+2 DATE 7 Aug 1922
+1 FAMS @F113@
+1 FAMC @F074@
+0 @I0246@ INDI
+1 NAME Alberta Davis /Boyd/
+1 SEX F
+1 BIRT
+2 DATE 7 Nov 1919
+1 FAMS @F117@
+1 FAMC @F074@
+0 @I0247@ INDI
+1 NAME William Daniel /Davis/
+1 SEX M
+1 BIRT
+2 DATE 26 Jan 1932
+1 FAMS @F119@
+1 FAMC @F074@
+0 @I0248@ INDI
+1 NAME Marie Davis /Dixon/
+1 SEX F
+1 BIRT
+2 DATE 20 Nov 1921
+1 FAMS @F122@
+1 FAMC @F074@
+0 @I0249@ INDI
+1 NAME Elizabeth Davis /Griffin/
+1 SEX F
+1 BIRT
+2 DATE 20 Aug 1936
+1 FAMS @F133@
+1 FAMC @F074@
+0 @I0250@ INDI
+1 NAME Nancy Davis /Richardson/
+1 SEX F
+1 BIRT
+2 DATE 7 Nov 1920
+1 FAMS @F120@
+1 FAMC @F074@
+0 @I0251@ INDI
+1 NAME Darryl V. /Graham/
+1 SEX M
+1 BIRT
+2 DATE 10 May 1970
+1 FAMC @F078@
+0 @I0252@ INDI
+1 NAME Curtis L. /Graham/
+1 SEX M
+1 BIRT
+2 DATE 20 Sep 1977
+1 FAMC @F078@
+0 @I0253@ INDI
+1 NAME Grandville H. /Harris/
+1 SEX M
+1 FAMS @F083@
+1 FAMC @F079@
+0 @I0254@ INDI
+1 NAME Phillip Odell /Harris/, Jr
+1 SEX M
+1 BIRT
+2 DATE 24 Aug 1941
+1 DEAT
+2 DATE 11 Jun 1996
+2 PLAC Richland Memorial Hospital, Columbia SC
+1 FAMS @F081@
+1 FAMC @F079@
+0 @I0255@ INDI
+1 NAME Calvin /Harris/
+1 SEX M
+1 BIRT
+2 DATE 12 May 1948
+2 PLAC Columbia, SC
+1 DEAT
+2 DATE 12 Dec 1999
+2 PLAC Dorn VA Medical Center in  Columbia, SC
+1 FAMS @F082@
+1 FAMC @F079@
+0 @I0256@ INDI
+1 NAME Charles /Harris/
+1 SEX M
+1 FAMS @F084@
+1 FAMC @F079@
+0 @I0257@ INDI
+1 NAME Bernard /Harris/
+1 SEX M
+1 FAMS @F292@
+1 FAMC @F079@
+0 @I0258@ INDI
+1 NAME Phillip Odell Harris /Sr./
+1 SEX M
+1 FAMS @F079@
+0 @I0259@ INDI
+1 NAME Lisa Lannette /Harris/
+1 SEX F
+1 FAMC @F081@
+0 @I0260@ INDI
+1 NAME Phillip Odell /Harris/ III
+1 SEX M
+1 FAMC @F081@
+0 @I0261@ INDI
+1 NAME Emory /Cameron/
+1 SEX M
+1 FAMC @F081@
+0 @I0262@ INDI
+1 NAME Kelvin /Cameron/
+1 SEX M
+1 FAMC @F081@
+0 @I0263@ INDI
+1 NAME Gary Arnee /Harris/
+1 SEX M
+1 FAMC @F082@
+0 @I0264@ INDI
+1 NAME Diane Stewart /Harris/
+1 SEX F
+1 FAMS @F082@
+0 @I0265@ INDI
+1 NAME Lethel Bookert /Harris/
+1 SEX F
+1 BIRT
+2 DATE 22 Jan 1947
+1 FAMS @F083@
+0 @I0266@ INDI
+1 NAME Lisa /Harris/
+1 SEX F
+1 FAMS @F084@
+0 @I0267@ INDI
+1 NAME Christel Goodwin /Harris/
+1 SEX F
+1 BIRT
+2 DATE 10 Jan 1975
+2 PLAC Columbia, SC
+1 FAMS @F085@
+0 @I0268@ INDI
+1 NAME Prophet /Davis/, Jr.
+1 SEX M
+1 FAMS @F137@
+1 FAMC @F086@
+0 @I0269@ INDI
+1 NAME Timothy /Davis/
+1 SEX M
+1 FAMS @F138@
+1 FAMC @F086@
+0 @I0270@ INDI
+1 NAME Moses /Davis/
+1 SEX M
+1 FAMS @F103@
+1 FAMC @F086@
+0 @I0271@ INDI
+1 NAME Elijah /Davis/
+1 SEX M
+1 BIRT
+2 DATE 8 Jun 1943
+1 FAMS @F088@
+1 FAMC @F086@
+0 @I0272@ INDI
+1 NAME Elisha /Davis/
+1 SEX M
+1 BIRT
+2 DATE 16 Jun 1949
+1 FAMS @F104@
+1 FAMS @F283@
+1 FAMC @F086@
+0 @I0273@ INDI
+1 NAME Walter /Davis/
+1 SEX M
+1 BIRT
+2 DATE 2 Jun
+1 FAMS @F139@
+1 FAMC @F086@
+0 @I0274@ INDI
+1 NAME Berniece Davis /Smith/
+1 SEX F
+1 FAMS @F142@
+1 FAMC @F086@
+0 @I0275@ INDI
+1 NAME Mattie /Davis/
+1 SEX F
+1 BIRT
+2 DATE 8 Apr
+1 FAMC @F086@
+0 @I0276@ INDI
+1 NAME Naomi Davis /Hollins/
+1 SEX F
+1 BIRT
+2 DATE 8 Feb
+1 FAMS @F111@
+1 FAMC @F086@
+0 @I0277@ INDI
+1 NAME Alberta Davis /Knox/
+1 SEX F
+1 FAMS @F112@
+1 FAMC @F086@
+0 @I0278@ INDI
+1 NAME Iola Davis /Harley/
+1 SEX F
+1 FAMS @F143@
+1 FAMC @F086@
+0 @I0279@ INDI
+1 NAME Thomasena Jackson /Davis/
+1 SEX F
+1 BIRT
+2 DATE 28 Jun 1945
+1 FAMS @F088@
+0 @I0280@ INDI
+1 NAME Eugenia Marie  Davis /Eargle/
+1 SEX F
+1 BIRT
+2 DATE 8 Jan 1971
+1 FAMS @F089@
+1 FAMC @F088@
+0 @I0281@ INDI
+1 NAME Althea Laverne /Davis/
+1 SEX F
+1 BIRT
+2 DATE 13 Dec 1972
+1 FAMC @F088@
+0 @I0282@ INDI
+1 NAME Elijah Tyrone /Davis/
+1 SEX M
+1 BIRT
+2 DATE 26 Jul 1978
+1 FAMS @F329@
+1 FAMC @F088@
+0 @I0283@ INDI
+1 NAME Michael /Eargle/
+1 SEX M
+1 BIRT
+2 DATE 20 Feb 1972
+1 FAMS @F089@
+1 FAMC @F308@
+0 @I0284@ INDI
+1 NAME Michael Gabriel /Eargle/
+1 SEX M
+1 BIRT
+2 DATE 4 Oct 1997
+1 FAMC @F089@
+0 @I0285@ INDI
+1 NAME Deedrick Q. /Goodwin/
+1 SEX M
+1 BIRT
+2 DATE 18 Jan 1994
+1 FAMC @F085@
+0 @I0286@ INDI
+1 NAME Annie B. Robertson /Davis/
+1 SEX F
+1 FAMS @F090@
+0 @I0287@ INDI
+1 NAME Mozelle Davis /Pearson/
+1 SEX F
+1 BIRT
+2 DATE 7 Sep 1938
+1 DEAT
+2 DATE 25 May 1998
+2 PLAC Winnsboro, SC
+1 FAMS @F091@
+1 FAMC @F090@
+0 @I0288@ INDI
+1 NAME Johnnie /Pearson/
+1 SEX M
+1 FAMS @F091@
+0 @I0289@ INDI
+1 NAME Gwendolyn Pearson /Way/
+1 SEX F
+1 FAMC @F091@
+0 @I0290@ INDI
+1 NAME Gloria Pearson /Holley/
+1 SEX F
+1 FAMS @F341@
+1 FAMC @F091@
+0 @I0291@ INDI
+1 NAME Paden /White/
+1 SEX M
+1 FAMC @F092@
+0 @I0292@ INDI
+1 NAME Raymond /Wood/
+1 SEX M
+1 FAMS @F057@
+0 @I0293@ INDI
+1 NAME Evelyn Davis /Beresford/
+1 SEX F
+1 BIRT
+2 DATE 24 Mar 1933
+1 FAMS @F281@
+1 FAMC @F093@
+0 @I0294@ INDI
+1 NAME Brenda /Davis/
+1 SEX F
+1 BIRT
+2 DATE 20 Jan 1950
+1 FAMC @F093@
+0 @I0295@ INDI
+1 NAME Fred /Davis/
+1 SEX M
+1 BIRT
+2 DATE 14 Apr 1931
+1 FAMS @F062@
+1 FAMC @F093@
+0 @I0296@ INDI
+1 NAME Sidney H. /Davis/
+1 SEX M
+1 BIRT
+2 DATE 8 Jan 1938
+1 FAMC @F093@
+0 @I0297@ INDI
+1 NAME LaTanya /Davis/
+1 SEX F
+1 FAMC @F130@
+0 @I0298@ INDI
+1 NAME Alberta Leatha /Davis/
+1 SEX M
+1 BIRT
+2 DATE 16 May 1929
+1 FAMC @F093@
+0 @I0299@ INDI
+1 NAME Theodore /Davis/
+1 SEX M
+1 BIRT
+2 DATE 2 Apr 1935
+1 FAMS @F094@
+1 FAMC @F093@
+0 @I0300@ INDI
+1 NAME Jean /Davis/
+1 SEX F
+1 FAMS @F094@
+0 @I0301@ INDI
+1 NAME Theodore N. /Davis/, Jr.
+1 SEX M
+1 FAMS @F095@
+1 FAMC @F094@
+0 @I0302@ INDI
+1 NAME Lee /Davis/
+1 SEX M
+1 FAMC @F095@
+0 @I0303@ INDI
+1 NAME Carrie /Davis/
+1 SEX F
+1 BIRT
+2 DATE 8 Dec 1945
+1 FAMS @F096@
+0 @I0304@ INDI
+1 NAME Pauline /Davis/
+1 SEX F
+1 BIRT
+2 DATE 3 Nov
+1 DEAT
+2 DATE 7 Jun 2005
+1 FAMS @F097@
+0 @I0305@ INDI
+1 NAME Rodney /Davis/
+1 SEX M
+1 BIRT
+2 DATE 22 Sep
+1 FAMC @F097@
+0 @I0306@ INDI
+1 NAME Travis /Davis/
+1 SEX M
+1 FAMC @F093@
+0 @I0307@ INDI
+1 NAME Larry /Davis/, Jr.
+1 SEX M
+1 BIRT
+2 DATE 9 Sep 1974
+1 FAMC @F098@
+0 @I0308@ INDI
+1 NAME Marcus T. /Davis/
+1 SEX M
+1 BIRT
+2 DATE 23 Apr 1977
+1 FAMC @F098@
+0 @I0309@ INDI
+1 NAME Jeff /Davis/
+1 SEX M
+1 BIRT
+2 DATE 4 Apr
+1 FAMC @F097@
+0 @I0310@ INDI
+1 NAME Lillie Mae Gibson /Davis/
+1 SEX F
+1 FAMS @F101@
+0 @I0311@ INDI
+1 NAME Phillippia Hudson /Oree/
+1 SEX F
+1 FAMS @F291@
+1 FAMC @F102@
+0 @I0312@ INDI
+1 NAME Phillip C. /Hudson/
+1 SEX M
+1 FAMS @F102@
+0 @I0313@ INDI
+1 NAME Moses /Davis/, Jr.
+1 SEX M
+1 FAMC @F103@
+0 @I0314@ INDI
+1 NAME Aaron /Davis/
+1 SEX M
+1 FAMC @F103@
+0 @I0315@ INDI
+1 NAME Fannie Robinson /Davis/
+1 SEX F
+1 FAMS @F103@
+0 @I0316@ INDI
+1 NAME Tyrone Shunta /Davis/
+1 SEX M
+1 BIRT
+2 DATE 27 Apr 1977
+1 FAMC @F283@
+0 @I0317@ INDI
+1 NAME Marcus A. /Davis/
+1 SEX M
+1 BIRT
+2 DATE 28 Aug 1978
+1 FAMC @F283@
+0 @I0318@ INDI
+1 NAME Daven /Davis/
+1 SEX M
+1 FAMC @F283@
+0 @I0319@ INDI
+1 NAME Whitney /Davis/
+1 SEX M
+1 BIRT
+2 DATE 2 Apr 1975
+1 FAMC @F283@
+0 @I0320@ INDI
+1 NAME Monica Davis /Robinson/
+1 SEX F
+1 BIRT
+2 DATE 30 Aug
+1 FAMS @F286@
+1 FAMC @F283@
+0 @I0321@ INDI
+1 NAME John /Hollins/
+1 SEX M
+1 FAMS @F111@
+0 @I0322@ INDI
+1 NAME Terri /Hollins/
+1 SEX F
+1 FAMC @F111@
+0 @I0323@ INDI
+1 NAME Sherry /Hollins/
+1 SEX F
+1 FAMS @F287@
+1 FAMC @F111@
+0 @I0324@ INDI
+1 NAME Jerry L. /Hollins/
+1 SEX M
+1 FAMC @F111@
+0 @I0325@ INDI
+1 NAME Jerry /Knox/
+1 SEX M
+1 FAMS @F112@
+0 @I0326@ INDI
+1 NAME Shelby Davis /Henderson/
+1 SEX F
+1 FAMS @F333@
+1 FAMC @F093@
+0 @I0327@ INDI
+1 NAME Annie Lois /Davis/
+1 SEX F
+1 FAMS @F093@
+0 @I0328@ INDI
+1 NAME Teresa Pearson /Boyd/
+1 SEX F
+1 FAMC @F091@
+0 @I0329@ INDI
+1 NAME Sharon /Pearon/
+1 SEX F
+1 FAMC @F091@
+0 @I0330@ INDI
+1 NAME Virginia /Pearson/
+1 SEX F
+1 FAMC @F091@
+0 @I0331@ INDI
+1 NAME Timothy /Pearson/
+1 SEX M
+1 FAMC @F091@
+0 @I0332@ INDI
+1 NAME Alonzo /Pearson/
+1 SEX M
+1 FAMC @F091@
+0 @I0333@ INDI
+1 NAME Gregory /Pearson/
+1 SEX M
+1 FAMC @F091@
+0 @I0334@ INDI
+1 NAME Harry /Davis/
+1 SEX M
+1 FAMS @F114@
+1 FAMC @F113@
+0 @I0335@ INDI
+1 NAME Joe /Davis/
+1 SEX M
+1 FAMC @F113@
+0 @I0336@ INDI
+1 NAME Pearl Davis /Stewart/
+1 SEX F
+1 FAMS @F116@
+1 FAMC @F113@
+0 @I0337@ INDI
+1 NAME Linda /Davis/
+1 SEX F
+1 FAMS @F114@
+0 @I0338@ INDI
+1 NAME James R. /Stewart/
+1 SEX M
+1 FAMS @F116@
+0 @I0339@ INDI
+1 NAME James R. /Stewart/, Jr.
+1 SEX M
+1 FAMC @F116@
+0 @I0340@ INDI
+1 NAME Eugene /Boyd/
+1 SEX M
+1 FAMS @F118@
+1 FAMC @F117@
+0 @I0341@ INDI
+1 NAME Sharon /Boyd/
+1 SEX F
+1 FAMS @F118@
+0 @I0342@ INDI
+1 NAME Nathaniel /Davis/
+1 SEX M
+1 BIRT
+2 DATE 25 Oct 1954
+1 FAMS @F337@
+1 FAMC @F119@
+0 @I0343@ INDI
+1 NAME Carl /Davis/
+1 SEX M
+1 FAMC @F119@
+0 @I0344@ INDI
+1 NAME Williams /Davis/, Jr
+1 SEX M
+1 FAMC @F119@
+0 @I0345@ INDI
+1 NAME Catherine /Davis/
+1 SEX F
+1 BIRT
+2 DATE 29 Jan 1961
+1 FAMC @F119@
+0 @I0346@ INDI
+1 NAME Robert Bobby /Davis/
+1 SEX M
+1 BIRT
+2 DATE 12 May 1942
+1 FAMC @F120@
+0 @I0347@ INDI
+1 NAME Margaret Davis /Boyd/
+1 SEX F
+1 BIRT
+2 DATE 25 Apr 1947
+2 PLAC Columbia, SC
+1 FAMS @F121@
+1 FAMC @F120@
+0 @I0348@ INDI
+1 NAME Bernard /Richardson/
+1 SEX M
+1 BIRT
+2 DATE 12 Jul 1957
+1 FAMS @F066@
+1 FAMC @F120@
+0 @I0349@ INDI
+1 NAME James Edward /Boyd/
+1 SEX M
+1 BIRT
+2 DATE 21 Jun 1946
+1 FAMS @F121@
+0 @I0350@ INDI
+1 NAME Amos /Griffin/
+1 SEX M
+1 FAMS @F133@
+0 @I0351@ INDI
+1 NAME Charles /Sims/
+1 SEX M
+1 BIRT
+2 DATE 12 Jan 1943
+1 FAMS @F124@
+1 FAMS @F211@
+1 FAMC @F123@
+0 @I0352@ INDI
+1 NAME Nancy Veronica /Sims/
+1 SEX F
+1 BIRT
+2 DATE 24 Apr 1947
+1 FAMS @F125@
+1 FAMC @F123@
+0 @I0353@ INDI
+1 NAME Machico /Cappucino/
+1 SEX F
+1 FAMS @F124@
+0 @I0354@ INDI
+1 NAME Ayesha /Sims/
+1 SEX F
+1 BIRT
+2 DATE 26 Aug 1981
+1 FAMS @F080@
+1 FAMC @F211@
+0 @I0355@ INDI
+1 NAME Malkia Kokuyamba /Lydia/
+1 SEX F
+1 BIRT
+2 DATE 18 Jul 1970
+1 FAMC @F125@
+0 @I0356@ INDI
+1 NAME Kemba Soyini /Lydia/
+1 SEX F
+1 BIRT
+2 DATE 7 Oct 1971
+1 FAMC @F125@
+0 @I0357@ INDI
+1 NAME Esi Akua Afi /Lydia/
+1 SEX F
+1 BIRT
+2 DATE 24 Oct 1973
+2 PLAC Washington, DC
+1 FAMS @F310@
+1 FAMC @F125@
+0 @I0358@ INDI
+1 NAME Charles /Sims/ III
+1 SEX M
+1 FAMS @F197@
+1 FAMC @F124@
+0 @I0359@ INDI
+1 NAME Charles E. /Sims/, Sr.
+1 SEX M
+1 FAMS @F123@
+0 @I0360@ INDI
+1 NAME Edell /Lydia/
+1 SEX M
+1 FAMS @F125@
+0 @I0361@ INDI
+1 NAME Patricia Turner /Dreher/
+1 SEX F
+1 FAMS @F127@
+1 FAMC @F126@
+0 @I0362@ INDI
+1 NAME Samuel T. /Dreher/
+1 SEX M
+1 FAMS @F127@
+0 @I0363@ INDI
+1 NAME Harriett /Turner/
+1 SEX F
+1 FAMS @F249@
+1 FAMC @F127@
+0 @I0364@ INDI
+1 NAME /Ny'ee/
+1 SEX F
+1 FAMC @F249@
+0 @I0365@ INDI
+1 NAME Willy Donald /Turner/
+1 SEX M
+1 FAMS @F250@
+1 FAMC @F126@
+0 @I0366@ INDI
+1 NAME Calvin /Turner/
+1 SEX M
+1 FAMS @F252@
+1 FAMC @F126@
+0 @I0367@ INDI
+1 NAME Mae Turner /Hopkins/
+1 SEX F
+1 FAMS @F255@
+1 FAMC @F126@
+0 @I0368@ INDI
+1 NAME Mae Frances Sims /Childs/
+1 SEX F
+1 BIRT
+2 DATE 16 Sep 1940
+1 FAMS @F241@
+1 FAMC @F123@
+0 @I0369@ INDI
+1 NAME Thomas /McNeil/
+1 SEX M
+1 FAMC @F076@
+0 @I0370@ INDI
+1 NAME Mary Louise Adams /Basketville/
+1 SEX F
+1 FAMS @F276@
+1 FAMC @F128@
+0 @I0371@ INDI
+1 NAME Daisy /Davis/
+1 SEX F
+1 FAMS @F132@
+0 @I0372@ INDI
+1 NAME Doris Davis /Tarter/
+1 SEX F
+1 FAMC @F132@
+0 @I0373@ INDI
+1 NAME Clara Davis /Patton/
+1 SEX F
+1 FAMS @F243@
+1 FAMC @F132@
+0 @I0374@ INDI
+1 NAME /Patton/
+1 SEX M
+1 FAMS @F243@
+0 @I0375@ INDI
+1 NAME /Banks/
+1 SEX M
+1 FAMS @F244@
+0 @I0376@ INDI
+1 NAME James W. /Dixon/, Jr.
+1 SEX M
+1 FAMS @F075@
+1 FAMC @F122@
+0 @I0377@ INDI
+1 NAME Pearl Bright /Davis/
+1 SEX F
+1 BIRT
+2 DATE 15 Mar 1900
+1 FAMS @F074@
+0 @I0378@ INDI
+1 NAME Eloise /Boyd/
+1 SEX M
+1 FAMS @F117@
+0 @I0379@ INDI
+1 NAME Daniel /Boyd/
+1 SEX M
+1 FAMC @F117@
+0 @I0380@ INDI
+1 NAME Thomasina Jackson /Davis/
+1 SEX F
+1 FAMS @F119@
+0 @I0381@ INDI
+1 NAME James W. /Dixon/
+1 SEX M
+1 DEAT
+2 DATE 1988
+1 FAMS @F122@
+0 @I0382@ INDI
+1 NAME Cordelia /Griffin/
+1 SEX F
+1 FAMC @F133@
+0 @I0383@ INDI
+1 NAME John /Richardson/
+1 SEX M
+1 FAMS @F120@
+0 @I0384@ INDI
+1 NAME Robert /Davis/
+1 SEX M
+1 BIRT
+2 DATE 12 May 1942
+1 FAMS @F336@
+1 FAMC @F120@
+0 @I0385@ INDI
+1 NAME Doc /Davis/, Jr
+1 SEX M
+1 BIRT
+2 DATE 26 Apr 1925
+1 FAMS @F134@
+1 FAMC @F074@
+0 @I0386@ INDI
+1 NAME Betty Brown /Davis/
+1 SEX F
+1 FAMS @F134@
+0 @I0387@ INDI
+1 NAME Harrison /Davis/
+1 SEX M
+1 BIRT
+2 DATE 29 Mar 1929
+1 FAMS @F135@
+1 FAMC @F074@
+0 @I0388@ INDI
+1 NAME Helen Richardson /Davis/
+1 SEX F
+1 FAMS @F135@
+0 @I0389@ INDI
+1 NAME Frances Davis /Young/
+1 SEX F
+1 BIRT
+2 DATE 26 May 1926
+1 DEAT
+2 DATE 1997
+1 FAMS @F136@
+1 FAMC @F074@
+0 @I0390@ INDI
+1 NAME Robert /Young/
+1 SEX M
+1 FAMS @F136@
+0 @I0391@ INDI
+1 NAME Brenda /Young-Moore/
+1 SEX F
+1 FAMC @F136@
+0 @I0392@ INDI
+1 NAME Henry /Davis/
+1 SEX M
+1 BIRT
+2 DATE 13 Aug 1920
+1 FAMC @F074@
+0 @I0393@ INDI
+1 NAME Thomas /Clinton/, Jr
+1 SEX M
+1 DEAT
+2 DATE 18 Feb 2001
+1 FAMC @F043@
+0 @I0394@ INDI
+1 NAME Henry James /Clinton/
+1 SEX M
+1 FAMC @F043@
+0 @I0395@ INDI
+1 NAME Alice Crawford /Davis/
+1 SEX F
+1 FAMS @F137@
+0 @I0396@ INDI
+1 NAME Amenia /Davis/
+1 SEX F
+1 FAMS @F138@
+0 @I0397@ INDI
+1 NAME Abdula /Davis/
+1 SEX M
+1 FAMC @F138@
+0 @I0398@ INDI
+1 NAME Haasan /Davis/
+1 SEX F
+1 FAMC @F138@
+0 @I0399@ INDI
+1 NAME Zikayyah /Davis/
+1 SEX F
+1 FAMC @F138@
+0 @I0400@ INDI
+1 NAME Zakiyaah /Davis/
+1 SEX F
+1 FAMC @F138@
+0 @I0401@ INDI
+1 NAME Bettty Bookert /Davis/
+1 SEX F
+1 FAMS @F104@
+0 @I0402@ INDI
+1 NAME Terry /Robinson/
+1 SEX M
+0 @I0403@ INDI
+1 NAME Terry /Robinson/
+1 SEX M
+1 FAMS @F286@
+0 @I0404@ INDI
+1 NAME Ethel Etheridge /Davis/
+1 SEX F
+1 FAMS @F283@
+0 @I0405@ INDI
+1 NAME Etheridge /Davis/
+1 SEX M
+1 FAMC @F283@
+0 @I0406@ INDI
+1 NAME Darrell /Davis/
+1 SEX M
+1 FAMC @F283@
+0 @I0407@ INDI
+1 NAME Darrell /Etheridge/
+1 SEX M
+0 @I0408@ INDI
+1 NAME Estell Nipson /Davis/
+1 SEX F
+1 FAMS @F139@
+0 @I0409@ INDI
+1 NAME Latash Davis /Joyner/
+1 SEX F
+1 BIRT
+2 DATE 8 Mar
+1 FAMS @F141@
+1 FAMC @F139@
+0 @I0410@ INDI
+1 NAME Walter /Davis/, Jr.
+1 SEX M
+1 FAMC @F139@
+0 @I0411@ INDI
+1 NAME Lamont /Davis/
+1 SEX M
+1 FAMC @F139@
+0 @I0412@ INDI
+1 NAME Joshena /Davis/
+1 SEX M
+1 FAMC @F139@
+0 @I0413@ INDI
+1 NAME Patrick /Joyner/
+1 SEX M
+1 FAMS @F141@
+0 @I0414@ INDI
+1 NAME Bruce /Smith/
+1 SEX M
+1 FAMS @F142@
+0 @I0415@ INDI
+1 NAME Eugene /Moses/
+1 SEX M
+1 FAMC @F142@
+0 @I0416@ INDI
+1 NAME Stacey /Hollins/
+1 SEX M
+1 FAMC @F111@
+0 @I0417@ INDI
+1 NAME Jerry /Knox/, Jr
+1 SEX M
+1 FAMC @F112@
+0 @I0418@ INDI
+1 NAME Carlos J. /Knox/
+1 SEX M
+1 FAMC @F112@
+0 @I0419@ INDI
+1 NAME Carlotta /Knox/
+1 SEX M
+1 FAMC @F112@
+0 @I0420@ INDI
+1 NAME Roston /Knox/
+1 SEX M
+1 FAMC @F112@
+0 @I0421@ INDI
+1 NAME Kimberly (Timber) /Knox/
+1 SEX F
+1 FAMC @F112@
+0 @I0422@ INDI
+1 NAME John /Harley/
+1 SEX M
+1 FAMS @F143@
+0 @I0423@ INDI
+1 NAME Audra /Harley/
+1 SEX F
+1 FAMC @F143@
+0 @I0424@ INDI
+1 NAME Audrina /Harley/
+1 SEX F
+1 FAMC @F143@
+0 @I0425@ INDI
+1 NAME Mary Ella Clinton /Myers/
+1 SEX F
+1 FAMC @F043@
+0 @I0426@ INDI
+1 NAME Thomasina /Clinton/
+1 SEX F
+1 FAMC @F043@
+0 @I0427@ INDI
+1 NAME Barbara Ann /Clinton/
+1 SEX F
+1 FAMC @F043@
+0 @I0428@ INDI
+1 NAME Malverce /Clinton/
+1 SEX M
+1 FAMC @F043@
+0 @I0429@ INDI
+1 NAME Carrie Clinton /Jenkins/
+1 SEX F
+1 FAMS @F301@
+1 FAMC @F043@
+0 @I0430@ INDI
+1 NAME Isaac /Clinton/
+1 SEX F
+1 FAMC @F043@
+0 @I0431@ INDI
+1 NAME Maggie L Clinton /Samuel/
+1 SEX F
+1 FAMC @F043@
+0 @I0432@ INDI
+1 NAME Alfred /Clinton/
+1 SEX M
+1 FAMC @F042@
+0 @I0433@ INDI
+1 NAME Mary /Clinton/
+1 SEX F
+1 FAMC @F042@
+0 @I0434@ INDI
+1 NAME Evelyn Davis /Bethel/
+1 SEX F
+1 FAMS @F146@
+1 FAMC @F086@
+0 @I0435@ INDI
+1 NAME Daniel /Bethel/
+1 SEX M
+1 FAMS @F146@
+0 @I0436@ INDI
+1 NAME James /Bethel/
+1 SEX M
+1 FAMS @F147@
+1 FAMS @F288@
+1 FAMC @F146@
+0 @I0437@ INDI
+1 NAME Grant /Bethel/
+1 SEX F
+1 FAMS @F288@
+0 @I0438@ INDI
+1 NAME Juanita /Bethel/
+1 SEX F
+1 FAMC @F147@
+0 @I0439@ INDI
+1 NAME Stephaie /Bethel/
+1 SEX F
+1 FAMC @F147@
+0 @I0440@ INDI
+1 NAME James /Bethel/, Jr.
+1 SEX M
+1 FAMC @F147@
+0 @I0441@ INDI
+1 NAME Daniel /Bethel/, Jr
+1 SEX M
+1 FAMS @F148@
+1 FAMC @F146@
+0 @I0442@ INDI
+1 NAME Willie Mae /Bethel/
+1 SEX F
+1 FAMS @F148@
+0 @I0443@ INDI
+1 NAME Tonya Novetta /Bethel/
+1 SEX F
+1 FAMC @F148@
+0 @I0444@ INDI
+1 NAME Latonya /Bethel/
+1 SEX F
+1 FAMC @F148@
+0 @I0445@ INDI
+1 NAME Johnny /Bethel/
+1 SEX M
+1 FAMS @F149@
+1 FAMC @F146@
+0 @I0446@ INDI
+1 NAME Linda /Bethel/
+1 SEX F
+1 FAMS @F149@
+0 @I0447@ INDI
+1 NAME Michael /Bethel/
+1 SEX M
+1 FAMC @F149@
+0 @I0448@ INDI
+1 NAME Tyra /Bethel/
+1 SEX F
+1 FAMC @F149@
+0 @I0449@ INDI
+1 NAME Shanika /Bethel/
+1 SEX F
+1 FAMC @F149@
+0 @I0450@ INDI
+1 NAME /Stacey/
+1 SEX M
+1 FAMC @F289@
+0 @I0451@ INDI
+1 NAME /Tory/
+1 SEX M
+1 FAMC @F289@
+0 @I0452@ INDI
+1 NAME /Calvin/
+1 SEX M
+1 FAMC @F289@
+0 @I0453@ INDI
+1 NAME /Tony/
+1 SEX M
+1 FAMC @F289@
+0 @I0454@ INDI
+1 NAME Sarah Ann Bethel /Roberts/
+1 SEX F
+1 FAMS @F290@
+1 FAMC @F146@
+0 @I0455@ INDI
+1 NAME Stacey /Roberts/
+1 SEX M
+0 @I0456@ INDI
+1 NAME Betty /Bethel/
+1 SEX F
+1 FAMS @F289@
+1 FAMC @F146@
+0 @I0457@ INDI
+1 NAME Mr. /Gill/
+1 SEX M
+1 FAMS @F150@
+0 @I0458@ INDI
+1 NAME Maria /Gill/
+1 SEX F
+1 FAMC @F150@
+0 @I0459@ INDI
+1 NAME Ella /McCrocken/
+1 SEX F
+1 FAMS @F151@
+0 @I0460@ INDI
+1 NAME Esther Mae Davis /Evans/
+1 SEX F
+1 FAMS @F152@
+1 FAMC @F151@
+0 @I0461@ INDI
+1 NAME James /Evans/
+1 SEX M
+1 FAMS @F152@
+0 @I0462@ INDI
+1 NAME James /Evans/, Jr.
+1 SEX M
+1 FAMS @F153@
+1 FAMC @F152@
+0 @I0463@ INDI
+1 NAME Evelyn /Evans/
+1 SEX F
+1 FAMS @F153@
+0 @I0464@ INDI
+1 NAME Helen Evans /Wallace-Njoku/
+1 SEX F
+1 BIRT
+2 DATE 23 Apr 1938
+1 FAMS @F115@
+1 FAMS @F154@
+1 FAMC @F152@
+0 @I0465@ INDI
+1 NAME Raymond /Njoku/
+1 SEX M
+1 FAMS @F154@
+0 @I0466@ INDI
+1 NAME Taft /Wallace/ III
+1 SEX M
+1 BIRT
+2 DATE 13 Jun 1960
+1 FAMS @F110@
+1 FAMC @F115@
+0 @I0467@ INDI
+1 NAME Debbie Wallace /Pridgen/
+1 SEX F
+1 BIRT
+2 DATE 30 Nov 1957
+1 FAMS @F155@
+1 FAMC @F115@
+0 @I0468@ INDI
+1 NAME Billy /Pridgen/, Sr.
+1 SEX M
+1 FAMS @F155@
+0 @I0469@ INDI
+1 NAME Billy /Pridgen/, Jr.
+1 SEX M
+1 BIRT
+2 DATE 13 Apr 1980
+1 FAMC @F155@
+0 @I0470@ INDI
+1 NAME Jasmine /Pridgen/
+1 SEX M
+1 BIRT
+2 DATE 2 Mar 1985
+1 FAMC @F155@
+0 @I0471@ INDI
+1 NAME Daisy Bell Evans-Tidwell /Mack/
+1 SEX F
+1 BIRT
+2 DATE 25 Jul 1926
+1 DEAT
+2 DATE 9 Jul 1995
+2 PLAC Columbia, SC
+1 FAMS @F156@
+1 FAMC @F152@
+0 @I0472@ INDI
+1 NAME John /Mack/
+1 SEX M
+1 BIRT
+2 DATE 1927
+1 DEAT
+2 DATE 18 Jun 1995
+2 PLAC Columbia, SC
+1 FAMS @F156@
+0 @I0473@ INDI
+1 NAME Doris Mack /Ruff/
+1 SEX F
+1 BIRT
+2 DATE 3 Nov 1947
+1 FAMS @F157@
+1 FAMC @F156@
+0 @I0474@ INDI
+1 NAME James /Ruff/ II
+1 SEX M
+1 BIRT
+2 DATE 28 Apr 1940
+1 FAMS @F157@
+0 @I0475@ INDI
+1 NAME James /Ruff/ III
+1 SEX M
+1 BIRT
+2 DATE 20 Apr 1978
+1 FAMC @F157@
+0 @I0476@ INDI
+1 NAME April /Ruff/
+1 SEX F
+1 BIRT
+2 DATE 22 Sep 1980
+1 FAMC @F157@
+0 @I0477@ INDI
+1 NAME John Louis /Mack/, Jr.
+1 SEX M
+1 BIRT
+2 DATE 1952
+1 FAMS @F158@
+1 FAMC @F156@
+0 @I0478@ INDI
+1 NAME Grace /Mack/
+1 SEX F
+1 FAMS @F158@
+0 @I0479@ INDI
+1 NAME Kimberly /Mack/
+1 SEX F
+1 FAMC @F158@
+0 @I0480@ INDI
+1 NAME Melba Mack /Hardy/
+1 SEX F
+1 BIRT
+2 DATE 26 Nov 1957
+1 FAMS @F159@
+1 FAMC @F156@
+0 @I0481@ INDI
+1 NAME Marcus /Hardy/
+1 SEX M
+1 BIRT
+2 DATE 29 Jun 1954
+1 FAMS @F159@
+0 @I0482@ INDI
+1 NAME Rachel L. /Mack/
+1 SEX F
+1 BIRT
+2 DATE 15 Jul 1961
+1 FAMC @F156@
+0 @I0483@ INDI
+1 NAME Delma Evans /Bolden/
+1 SEX F
+1 FAMS @F160@
+1 FAMC @F152@
+0 @I0484@ INDI
+1 NAME Robert /Bolden/
+1 SEX M
+1 FAMS @F160@
+0 @I0485@ INDI
+1 NAME Lisa /Bolden/
+1 SEX F
+1 BIRT
+2 DATE 10 Oct 1969
+1 FAMC @F160@
+0 @I0486@ INDI
+1 NAME Kenneth Evans /Bolden/
+1 SEX M
+1 BIRT
+2 DATE 12 Jul 1971
+1 FAMC @F160@
+0 @I0487@ INDI
+1 NAME Allen /Evans/
+1 SEX M
+1 FAMS @F161@
+1 FAMC @F152@
+0 @I0488@ INDI
+1 NAME Katie Jackson /Evans/
+1 SEX F
+1 FAMS @F161@
+0 @I0489@ INDI
+1 NAME Allen /Evans/, Jr
+1 SEX M
+1 FAMC @F161@
+0 @I0490@ INDI
+1 NAME Jason /Evans/
+1 SEX M
+1 FAMC @F161@
+0 @I0491@ INDI
+1 NAME Derrick /Evans/
+1 SEX M
+1 FAMC @F161@
+0 @I0492@ INDI
+1 NAME Frances Davis /Parker/
+1 SEX F
+1 FAMS @F162@
+1 FAMC @F151@
+0 @I0493@ INDI
+1 NAME Henrietta /Davis/
+1 SEX F
+1 FAMS @F163@
+1 FAMC @F151@
+0 @I0494@ INDI
+1 NAME James /Parker/
+1 SEX M
+1 FAMS @F144@
+1 FAMC @F162@
+0 @I0495@ INDI
+1 NAME Benjamin /Parker/
+1 SEX M
+1 FAMS @F145@
+1 FAMC @F162@
+0 @I0496@ INDI
+1 NAME John Earl Evans /Cooglear/
+1 SEX M
+1 FAMS @F163@
+0 @I0497@ INDI
+1 NAME Benjamin King /Oliver/
+1 SEX M
+1 BIRT
+2 DATE 1938
+1 DEAT
+2 DATE 1991
+1 FAMS @F164@
+1 FAMC @F009@
+0 @I0498@ INDI
+1 NAME Deborah Gibbs /King/
+1 SEX F
+1 FAMS @F164@
+0 @I0499@ INDI
+1 NAME Mary Belle /Holly/
+1 SEX F
+1 FAMS @F334@
+1 FAMC @F100@
+0 @I0500@ INDI
+1 NAME Lottie Rose /Holly/
+1 SEX F
+1 FAMS @F205@
+1 FAMC @F100@
+0 @I0501@ INDI
+1 NAME Alice Holly /McNeil/
+1 SEX F
+1 BIRT
+2 DATE 23 Oct 1898
+1 FAMS @F076@
+1 FAMC @F100@
+0 @I0502@ INDI
+1 NAME Mr /Holly/
+1 SEX M
+1 FAMS @F100@
+0 @I0503@ INDI
+1 NAME John /Davis/
+1 SEX M
+1 FAMS @F212@
+1 FAMC @F099@
+0 @I0504@ INDI
+1 NAME Benjamin /Gibbs/
+1 SEX M
+1 FAMC @F164@
+0 @I0505@ INDI
+1 NAME Wade /Myers/
+1 SEX M
+1 FAMS @F165@
+0 @I0506@ INDI
+1 NAME Pearl /Myers/
+1 SEX F
+1 FAMC @F165@
+0 @I0507@ INDI
+1 NAME Sadie /Myers/
+1 SEX F
+1 FAMC @F165@
+0 @I0508@ INDI
+1 NAME Lula Estell /Myers/
+1 SEX F
+1 BIRT
+2 DATE 12 Feb 1911
+2 PLAC Richland County, Columbia, SC
+1 DEAT
+2 DATE 28 Dec 2002
+2 PLAC Richland Count, Columbia, SC
+1 FAMS @F166@
+1 FAMC @F165@
+0 @I0509@ INDI
+1 NAME Gary /Myers/, Sr.
+1 SEX M
+1 BIRT
+2 DATE 24 Feb
+1 FAMS @F167@
+1 FAMC @F166@
+0 @I0510@ INDI
+1 NAME Ruden Washington /Myers/
+1 SEX F
+1 FAMS @F167@
+0 @I0511@ INDI
+1 NAME Gary /Myers/, Jr.
+1 SEX M
+1 FAMS @F168@
+1 FAMS @F172@
+1 FAMC @F167@
+0 @I0512@ INDI
+1 NAME Karen Myers /Mack/
+1 SEX F
+1 FAMS @F169@
+1 FAMC @F167@
+0 @I0513@ INDI
+1 NAME Michael /Myers/
+1 SEX M
+1 BIRT
+2 DATE 7 Dec 1959
+1 FAMS @F170@
+1 FAMC @F167@
+0 @I0514@ INDI
+1 NAME Bruce /Myers/
+1 SEX M
+1 FAMC @F167@
+0 @I0515@ INDI
+1 NAME Tevera Myers /Hamilton/
+1 SEX F
+1 FAMS @F171@
+1 FAMC @F167@
+0 @I0516@ INDI
+1 NAME Lorna Green /Myers/
+1 SEX F
+1 FAMS @F168@
+0 @I0517@ INDI
+1 NAME Gary /Myers/ III
+1 SEX M
+1 FAMC @F168@
+0 @I0518@ INDI
+1 NAME Christopher /Myers/
+1 SEX M
+1 FAMC @F168@
+0 @I0519@ INDI
+1 NAME Courtney /Myers/
+1 SEX F
+1 FAMC @F168@
+0 @I0520@ INDI
+1 NAME Shelley /Myers/
+1 SEX F
+1 FAMC @F168@
+0 @I0521@ INDI
+1 NAME Donald /Mack/, Sr.
+1 SEX M
+1 FAMS @F169@
+0 @I0522@ INDI
+1 NAME Donald /Mack/, Jr.
+1 SEX M
+1 FAMC @F169@
+0 @I0523@ INDI
+1 NAME Kara /Mack/
+1 SEX F
+1 FAMC @F169@
+0 @I0524@ INDI
+1 NAME Brenda Gordon /Myers/
+1 SEX F
+1 BIRT
+2 DATE 5 Jun 1962
+1 FAMS @F170@
+0 @I0525@ INDI
+1 NAME Sean /Hamilton/
+1 SEX M
+1 FAMS @F171@
+0 @I0526@ INDI
+1 NAME Wade /Myers/, Jr
+1 SEX M
+1 FAMC @F165@
+0 @I0527@ INDI
+1 NAME Gardenia Williams /Myers/
+1 SEX F
+1 FAMS @F294@
+0 @I0528@ INDI
+1 NAME Gardenia Myers /Javis/
+1 SEX F
+1 FAMS @F173@
+1 FAMC @F294@
+0 @I0529@ INDI
+1 NAME Williams /Javis/
+1 SEX M
+1 FAMS @F173@
+0 @I0530@ INDI
+1 NAME Tracie /Javis/
+1 SEX F
+1 FAMS @F174@
+1 FAMC @F173@
+0 @I0531@ INDI
+1 NAME Theandra /Javis/
+1 SEX F
+1 FAMC @F173@
+0 @I0532@ INDI
+1 NAME LaSonya Domonique /Javis/
+1 SEX F
+1 FAMC @F174@
+0 @I0533@ INDI
+1 NAME Williams Nicholas /Myers/
+1 SEX M
+1 BIRT
+2 DATE 1917
+1 DEAT
+2 DATE 1989
+1 FAMS @F175@
+1 FAMC @F165@
+0 @I0534@ INDI
+1 NAME Daisy Brown /Myers/
+1 SEX F
+1 FAMS @F175@
+0 @I0535@ INDI
+1 NAME Willene Myers /Ross/
+1 SEX F
+1 BIRT
+2 DATE 7 Oct 1946
+1 FAMS @F176@
+1 FAMC @F175@
+0 @I0536@ INDI
+1 NAME Marvin /Ross/
+1 SEX M
+1 BIRT
+2 DATE 13 Feb 1946
+1 FAMS @F176@
+0 @I0537@ INDI
+1 NAME Jacqualine D. /Myers/
+1 SEX F
+1 BIRT
+2 DATE 5 Jan 1951
+1 FAMC @F175@
+0 @I0538@ INDI
+1 NAME Joseph Matthew /Myers/
+1 SEX M
+1 BIRT
+2 DATE 19 Feb 1919
+1 DEAT
+2 DATE 19 Aug 1994
+2 PLAC Mercer County Hopsital, Trenton, NJ
+1 FAMS @F177@
+1 FAMC @F165@
+0 @I0539@ INDI
+1 NAME Joseph "Kirk" /Myers/
+1 SEX M
+1 FAMS @F178@
+1 FAMC @F177@
+0 @I0540@ INDI
+1 NAME Onica Fields /Myers/
+1 SEX F
+1 FAMS @F178@
+0 @I0541@ INDI
+1 NAME Brandon /Myers/
+1 SEX M
+1 FAMC @F178@
+0 @I0542@ INDI
+1 NAME Josef /Myers/
+1 SEX M
+1 FAMC @F178@
+0 @I0543@ INDI
+1 NAME Evelyn Myers /Casey/
+1 SEX F
+1 BIRT
+2 DATE 8 Aug 1921
+1 FAMS @F179@
+1 FAMC @F165@
+0 @I0544@ INDI
+1 NAME Willie /Casey/
+1 SEX M
+1 BIRT
+2 DATE 1 Oct 1914
+1 FAMS @F179@
+0 @I0545@ INDI
+1 NAME Leila Ann Casey /Whitner/
+1 SEX F
+1 BIRT
+2 DATE 24 Nov 1940
+1 FAMS @F180@
+1 FAMC @F179@
+0 @I0546@ INDI
+1 NAME Ernest L. /Whitner/
+1 SEX M
+1 BIRT
+2 DATE 15 Jan 1937
+1 FAMS @F180@
+1 FAMC @F324@
+0 @I0547@ INDI
+1 NAME Syvonne Whitner /Cooper/
+1 SEX F
+1 BIRT
+2 DATE 18 Feb 1961
+1 FAMS @F183@
+1 FAMS @F300@
+1 FAMC @F180@
+0 @I0548@ INDI
+1 NAME Robert /Cooper/
+1 SEX M
+0 @I0549@ INDI
+1 NAME Aneisha Cherice /Johnson/
+1 SEX F
+1 BIRT
+2 DATE 19 Jul 1984
+1 FAMC @F183@
+0 @I0550@ INDI
+1 NAME Marve G. /Johnson/
+1 SEX M
+1 FAMS @F183@
+0 @I0551@ INDI
+1 NAME Terrell Davon /Cooper/
+1 SEX M
+1 BIRT
+2 DATE 25 Feb 1993
+1 FAMC @F183@
+0 @I0552@ INDI
+1 NAME Wendy /Whitner/
+1 SEX F
+1 BIRT
+2 DATE 10 Dec 1968
+1 FAMS @F184@
+1 FAMC @F180@
+0 @I0553@ INDI
+1 NAME Kaila N. /Whitner-Brown/
+1 SEX F
+1 BIRT
+2 DATE 19 Jun 1991
+1 FAMC @F184@
+0 @I0554@ INDI
+1 NAME Erma Whitner /Shell/
+1 SEX F
+1 BIRT
+2 DATE 13 Jul 1970
+1 FAMS @F185@
+1 FAMC @F180@
+0 @I0555@ INDI
+1 NAME Anthony Donnell /Shell/, Sr.
+1 SEX M
+1 FAMS @F185@
+0 @I0556@ INDI
+1 NAME Anthony /Shell/, Jr.
+1 SEX M
+1 BIRT
+2 DATE 15 Nov 1988
+1 FAMC @F185@
+0 @I0557@ INDI
+1 NAME Ernest Austin /Shell/
+1 SEX M
+1 BIRT
+2 DATE 13 Sep 1992
+1 FAMC @F185@
+0 @I0558@ INDI
+1 NAME Armia Danielle /Shell/
+1 SEX F
+1 BIRT
+2 DATE 5 Feb 1998
+1 FAMC @F185@
+0 @I0559@ INDI
+1 NAME Willie /Casey/, Jr.
+1 SEX M
+1 BIRT
+2 DATE 25 Jan 1942
+1 FAMS @F186@
+1 FAMC @F179@
+0 @I0560@ INDI
+1 NAME Barbara Miller /Casey/
+1 SEX F
+1 FAMS @F186@
+0 @I0561@ INDI
+1 NAME Ronald /Casey/
+1 SEX M
+1 BIRT
+2 DATE 19 Jun 1963
+1 FAMS @F187@
+1 FAMC @F186@
+0 @I0562@ INDI
+1 NAME Monica H. /Casey/
+1 SEX F
+1 BIRT
+2 DATE 8 Oct 1967
+1 FAMS @F187@
+0 @I0563@ INDI
+1 NAME Octavia /Harmon/
+1 SEX F
+1 BIRT
+2 DATE 20 Aug 1990
+1 FAMC @F187@
+0 @I0564@ INDI
+1 NAME Portia /Harmon/
+1 SEX F
+1 BIRT
+2 DATE 18 Sep 1988
+1 FAMC @F187@
+0 @I0565@ INDI
+1 NAME Tamiko P. Casey /Jordan/
+1 SEX F
+1 BIRT
+2 DATE 8 Aug 1971
+1 FAMS @F188@
+1 FAMC @F186@
+0 @I0566@ INDI
+1 NAME Tyrone /Jordan/
+1 SEX M
+1 FAMS @F188@
+0 @I0567@ INDI
+1 NAME Tilah A. /Jordan/
+1 SEX F
+1 BIRT
+2 DATE 3 Nov 1991
+1 FAMC @F188@
+0 @I0568@ INDI
+1 NAME Caleb Byrce /Jordan/
+1 SEX M
+1 BIRT
+2 DATE 20 Apr 1998
+1 FAMC @F188@
+0 @I0569@ INDI
+1 NAME Willie Rashad /Casey/
+1 SEX M
+1 BIRT
+2 DATE 15 Feb 1979
+1 FAMS @F189@
+1 FAMC @F186@
+0 @I0570@ INDI
+1 NAME DeShawn /Casey/
+1 SEX M
+1 BIRT
+2 DATE 21 Jan 1998
+1 FAMC @F189@
+0 @I0571@ INDI
+1 NAME Nathaniel /Casey/
+1 SEX M
+1 BIRT
+2 DATE 20 Aug 1944
+1 FAMS @F190@
+1 FAMC @F179@
+0 @I0572@ INDI
+1 NAME Mary Hodges /Casey/
+1 SEX F
+1 BIRT
+2 DATE 11 Aug
+1 FAMS @F190@
+0 @I0573@ INDI
+1 NAME Natalie M. /Casey/
+1 SEX F
+1 BIRT
+2 DATE 25 Mar 1982
+1 FAMC @F190@
+0 @I0574@ INDI
+1 NAME Lula M. Casey /Thompson/
+1 SEX F
+1 BIRT
+2 DATE 1 Jan 1946
+1 FAMS @F191@
+1 FAMC @F179@
+0 @I0575@ INDI
+1 NAME Ernest /Thompson/
+1 SEX M
+1 BIRT
+2 DATE 1945
+1 FAMS @F191@
+0 @I0576@ INDI
+1 NAME LaTanya /Thompson/
+1 SEX F
+1 BIRT
+2 DATE 29 Aug 1972
+1 FAMS @F192@
+1 FAMS @F332@
+1 FAMC @F191@
+0 @I0577@ INDI
+1 NAME Aria Mariel /Durant/
+1 SEX F
+1 BIRT
+2 DATE 29 May 1996
+1 FAMC @F192@
+0 @I0578@ INDI
+1 NAME Pearl Louise /Casey/
+1 SEX F
+1 BIRT
+2 DATE 21 Nov 1947
+1 FAMS @F193@
+1 FAMC @F179@
+0 @I0579@ INDI
+1 NAME Raquel Keisha /Casey/
+1 SEX F
+1 BIRT
+2 DATE 2 Feb 1970
+1 FAMS @F194@
+1 FAMC @F193@
+0 @I0580@ INDI
+1 NAME Asia Ja'Niece /Casey/
+1 SEX F
+1 BIRT
+2 DATE 21 Dec 1992
+1 FAMC @F194@
+0 @I0581@ INDI
+1 NAME James Matthew /Casey/
+1 SEX M
+1 BIRT
+2 DATE 9 Jun 1950
+1 FAMS @F195@
+1 FAMC @F179@
+0 @I0582@ INDI
+1 NAME LaKetta V. Long /Casey/
+1 SEX F
+1 BIRT
+2 DATE 12 May 1961
+1 FAMS @F195@
+0 @I0583@ INDI
+1 NAME Ashley /Evans/
+1 SEX F
+1 BIRT
+2 DATE 3 Jan 1984
+1 FAMC @F195@
+0 @I0584@ INDI
+1 NAME Alice /Myers/
+1 SEX F
+1 FAMC @F165@
+0 @I0585@ INDI
+1 NAME Serita /Hart/
+1 SEX F
+1 BIRT
+2 DATE 23 Oct 1967
+1 FAMS @F203@
+1 FAMC @F200@
+0 @I0586@ INDI
+1 NAME Selena Tania /Hart-Stevens/
+1 SEX F
+1 BIRT
+2 DATE 13 Dec 1968
+1 FAMS @F204@
+1 FAMC @F200@
+0 @I0587@ INDI
+1 NAME Shaeem /Warner/
+1 SEX M
+1 FAMC @F201@
+0 @I0588@ INDI
+1 NAME Taquana /Hart/
+1 SEX F
+1 FAMC @F202@
+0 @I0589@ INDI
+1 NAME Wendell /Hart/
+1 SEX M
+1 FAMC @F202@
+0 @I0590@ INDI
+1 NAME Toni /Hart/
+1 SEX F
+1 FAMS @F340@
+1 FAMC @F202@
+0 @I0591@ INDI
+1 NAME Tamika /Hart/
+1 SEX F
+1 FAMC @F202@
+0 @I0592@ INDI
+1 NAME Tyshaun /Hart/
+1 SEX M
+1 FAMC @F202@
+0 @I0593@ INDI
+1 NAME Daquan /Demetrius/
+1 SEX M
+1 FAMC @F202@
+0 @I0594@ INDI
+1 NAME Sha'tiqua /Flemming/
+1 SEX F
+1 FAMC @F202@
+0 @I0595@ INDI
+1 NAME Cha'longe A'riel /Hart/
+1 SEX F
+1 BIRT
+2 DATE 11 Aug 1990
+1 FAMC @F203@
+0 @I0596@ INDI
+1 NAME Tania Lakia Deloris /Stevens/
+1 SEX F
+1 BIRT
+2 DATE 1 Feb 1998
+1 FAMC @F204@
+0 @I0597@ INDI
+1 NAME La'tey Zelice /Stevens/
+1 SEX F
+1 BIRT
+2 DATE 12 Mar 1990
+1 FAMC @F204@
+0 @I0598@ INDI
+1 NAME Asya Alicia /Stevens/
+1 SEX F
+1 BIRT
+2 DATE 16 Sep 1991
+1 FAMC @F204@
+0 @I0599@ INDI
+1 NAME /Shana/
+1 SEX F
+1 FAMC @F202@
+0 @I0600@ INDI
+1 NAME Ruby Holly Bradley /Williams/
+1 SEX F
+1 FAMS @F208@
+1 FAMC @F205@
+0 @I0601@ INDI
+1 NAME Catherine Holly /Jackson/
+1 SEX F
+1 DEAT
+2 DATE 1996
+1 FAMS @F129@
+1 FAMC @F205@
+0 @I0602@ INDI
+1 NAME /Williams/
+1 SEX M
+1 FAMC @F205@
+0 @I0603@ INDI
+1 NAME /Alice/
+1 SEX F
+1 FAMC @F205@
+0 @I0604@ INDI
+1 NAME /Georgia/
+1 SEX M
+1 FAMC @F205@
+0 @I0605@ INDI
+1 NAME /James/
+1 SEX M
+1 FAMC @F205@
+0 @I0606@ INDI
+1 NAME Dimetrius G. /Jackson/
+1 SEX M
+1 BIRT
+2 DATE 22 Mar 1947
+2 PLAC Capitol Heights, Maryland
+1 FAMS @F207@
+1 FAMC @F129@
+0 @I0607@ INDI
+1 NAME Orville L. /Jackson/
+1 SEX M
+1 BIRT
+2 DATE 2 Feb 1924
+1 DEAT
+2 DATE 1998
+1 FAMS @F129@
+0 @I0608@ INDI
+1 NAME Jarron /Jackson/
+1 SEX M
+1 BIRT
+2 DATE 1 Mar 1980
+1 FAMC @F207@
+0 @I0609@ INDI
+1 NAME Theophilus /Jackson/
+1 SEX M
+1 BIRT
+2 DATE 26 Apr 1987
+1 FAMC @F207@
+0 @I0610@ INDI
+1 NAME /Gladys/
+1 SEX F
+1 FAMC @F205@
+0 @I0611@ INDI
+1 NAME Henry /Williams/
+1 SEX M
+1 FAMS @F208@
+0 @I0612@ INDI
+1 NAME Lottie /Martins/
+1 SEX F
+1 FAMC @F208@
+0 @I0613@ INDI
+1 NAME Michael /Martins/
+1 SEX M
+1 FAMC @F208@
+0 @I0614@ INDI
+1 NAME Antonio /Williams/
+1 SEX M
+1 FAMC @F208@
+0 @I0615@ INDI
+1 NAME Daryl /Williams/
+1 SEX M
+1 FAMC @F208@
+0 @I0616@ INDI
+1 NAME Theophilus /Jackson/
+1 SEX M
+1 FAMC @F129@
+0 @I0617@ INDI
+1 NAME Idella /Davis/
+1 SEX F
+1 FAMS @F212@
+0 @I0618@ INDI
+1 NAME Mamie (Molly)  Davis /Harper/
+1 SEX F
+1 FAMS @F213@
+1 FAMC @F212@
+0 @I0619@ INDI
+1 NAME Annie-Bell Davis /Wilson/
+1 SEX F
+1 FAMS @F218@
+1 FAMC @F212@
+0 @I0620@ INDI
+1 NAME Maggie Davis /Fowler/
+1 SEX F
+1 FAMS @F229@
+1 FAMC @F212@
+0 @I0621@ INDI
+1 NAME Rebecca /Davis/
+1 SEX F
+1 FAMS @F230@
+1 FAMC @F212@
+0 @I0622@ INDI
+1 NAME Della /Davis/
+1 SEX F
+1 FAMC @F212@
+0 @I0623@ INDI
+1 NAME Alberta Davis /Riley/
+1 SEX F
+1 FAMS @F236@
+1 FAMC @F212@
+0 @I0624@ INDI
+1 NAME Carrie Davis /Dent/
+1 SEX F
+1 FAMS @F238@
+1 FAMC @F212@
+0 @I0625@ INDI
+1 NAME Richard /Davis/
+1 SEX M
+1 FAMC @F212@
+0 @I0626@ INDI
+1 NAME Fred /Harper/
+1 SEX M
+1 FAMS @F213@
+0 @I0627@ INDI
+1 NAME Fred /Harper/, Jr
+1 SEX M
+1 FAMC @F213@
+0 @I0628@ INDI
+1 NAME Samuel /Harper/
+1 SEX M
+1 FAMC @F213@
+0 @I0629@ INDI
+1 NAME Dorothy Harper /Brooks/
+1 SEX F
+1 BIRT
+2 DATE 12 Jan 1918
+1 FAMS @F214@
+1 FAMC @F213@
+0 @I0630@ INDI
+1 NAME Thelma Harper /Robins/
+1 SEX F
+1 BIRT
+2 DATE 12 Apr
+1 FAMS @F140@
+1 FAMC @F213@
+0 @I0631@ INDI
+1 NAME Willie (Bill) /Harper/
+1 SEX M
+1 BIRT
+2 DATE 14 Sep
+1 FAMS @F215@
+1 FAMC @F213@
+0 @I0632@ INDI
+1 NAME James /Harper/
+1 SEX M
+1 BIRT
+2 DATE 27 May
+1 FAMS @F216@
+1 FAMC @F213@
+0 @I0633@ INDI
+1 NAME Charles /Brooks/
+1 SEX M
+1 BIRT
+2 DATE 6 May 1943
+1 FAMS @F328@
+1 FAMC @F214@
+0 @I0634@ INDI
+1 NAME Aletha /Brooks/
+1 SEX F
+1 BIRT
+2 DATE 12 Apr 1944
+1 FAMS @F327@
+1 FAMC @F214@
+0 @I0635@ INDI
+1 NAME Brenda Brooks /Blackmon/
+1 SEX F
+1 BIRT
+2 DATE 23 Jun 1945
+1 DEAT
+2 DATE 29 Feb 2004
+1 FAMC @F214@
+0 @I0636@ INDI
+1 NAME David Larry /Brooks/
+1 SEX M
+1 BIRT
+2 DATE 13 Aug 1952
+1 FAMC @F214@
+0 @I0637@ INDI
+1 NAME Barbara Jean /Brooks/
+1 SEX F
+1 BIRT
+2 DATE 19 Nov 1948
+1 FAMS @F058@
+1 FAMC @F214@
+0 @I0638@ INDI
+1 NAME James Earl /Brooks/
+1 SEX M
+1 BIRT
+2 DATE 18 Dec 1947
+1 FAMS @F326@
+1 FAMC @F214@
+0 @I0639@ INDI
+1 NAME Mary /Harper/
+1 SEX F
+1 FAMC @F140@
+0 @I0640@ INDI
+1 NAME Phillip /Harper/
+1 ALIA /Buck/
+1 SEX M
+1 FAMC @F140@
+0 @I0641@ INDI
+1 NAME Earl /Harper/
+1 SEX M
+1 FAMC @F140@
+0 @I0642@ INDI
+1 NAME Annie /Harper/
+1 SEX F
+1 BIRT
+2 DATE 10 Oct 1920
+1 FAMS @F215@
+0 @I0643@ INDI
+1 NAME Lena /Harper/
+1 SEX F
+1 FAMS @F216@
+0 @I0644@ INDI
+1 NAME Wilma /Harper/
+1 SEX F
+1 FAMS @F217@
+1 FAMC @F216@
+0 @I0645@ INDI
+1 NAME James /Harper/, Jr
+1 SEX M
+1 FAMC @F216@
+0 @I0646@ INDI
+1 NAME Leon /Harper/
+1 SEX M
+1 FAMC @F216@
+0 @I0647@ INDI
+1 NAME Donnie /Harper/
+1 SEX M
+1 FAMC @F216@
+0 @I0648@ INDI
+1 NAME Markus /\\/
+1 SEX M
+1 FAMC @F217@
+0 @I0649@ INDI
+1 NAME Marcia /\\/
+1 SEX F
+1 FAMC @F217@
+0 @I0650@ INDI
+1 NAME Troy /Wilson/
+1 SEX M
+1 FAMS @F218@
+0 @I0651@ INDI
+1 NAME Ore Lee /Wilson/
+1 SEX F
+1 FAMS @F219@
+1 FAMC @F218@
+0 @I0652@ INDI
+1 NAME Gertrude /Alston/
+1 SEX F
+1 FAMS @F227@
+1 FAMC @F218@
+0 @I0653@ INDI
+1 NAME Norma Wilson /Brown/
+1 SEX F
+1 FAMS @F220@
+1 FAMC @F219@
+0 @I0654@ INDI
+1 NAME Bernice /Cohen/
+1 SEX F
+1 BIRT
+2 DATE 24 Sep 1950
+1 FAMS @F221@
+1 FAMC @F219@
+0 @I0655@ INDI
+1 NAME /Willie/
+1 SEX M
+1 FAMS @F223@
+1 FAMC @F219@
+0 @I0656@ INDI
+1 NAME /Jean/
+1 SEX F
+1 FAMS @F224@
+1 FAMC @F219@
+0 @I0657@ INDI
+1 NAME Rita /Harris/
+1 SEX F
+1 BIRT
+2 DATE 1 Oct
+1 FAMS @F226@
+1 FAMC @F219@
+0 @I0658@ INDI
+1 NAME Sandye /Wilson/
+1 SEX F
+1 BIRT
+2 DATE 26 Jul 1963
+1 FAMC @F220@
+0 @I0659@ INDI
+1 NAME Stanley /Wilson/
+1 SEX M
+1 BIRT
+2 DATE 27 Jul 1964
+1 FAMC @F220@
+0 @I0660@ INDI
+1 NAME Eddie /Cohen/
+1 SEX M
+1 BIRT
+2 DATE 16 Mar 1948
+1 FAMS @F221@
+0 @I0661@ INDI
+1 NAME /Eddie/
+1 SEX M
+1 BIRT
+2 DATE 13 Aug
+1 FAMS @F222@
+1 FAMC @F221@
+0 @I0662@ INDI
+1 NAME Yolanda /Cohen/
+1 SEX F
+1 FAMC @F221@
+0 @I0663@ INDI
+1 NAME /Caitlyn/
+1 SEX F
+1 FAMC @F222@
+0 @I0664@ INDI
+1 NAME Carroll /Thomas/
+1 SEX F
+1 FAMS @F223@
+0 @I0665@ INDI
+1 NAME /Cassandra/
+1 SEX F
+1 FAMS @F225@
+1 FAMC @F224@
+0 @I0666@ INDI
+1 NAME /Shanterrian/
+1 SEX F
+1 FAMC @F225@
+0 @I0667@ INDI
+1 NAME /Marcus/
+1 SEX M
+1 FAMC @F225@
+0 @I0668@ INDI
+1 NAME /Jasmine/
+1 SEX F
+1 FAMC @F225@
+0 @I0669@ INDI
+1 NAME /Larvetta/
+1 SEX F
+1 FAMC @F226@
+0 @I0670@ INDI
+1 NAME /Seth/
+1 SEX M
+1 FAMC @F226@
+0 @I0671@ INDI
+1 NAME Ann /Carol/
+1 SEX F
+1 FAMS @F228@
+1 FAMC @F227@
+0 @I0672@ INDI
+1 NAME /Tracy/
+1 SEX F
+1 FAMC @F228@
+0 @I0673@ INDI
+1 NAME /Stacy/
+1 SEX F
+1 FAMC @F228@
+0 @I0674@ INDI
+1 NAME William /Fowler/
+1 SEX M
+1 FAMS @F229@
+0 @I0675@ INDI
+1 NAME Elizabeth /Fowler/
+1 SEX F
+1 FAMC @F229@
+0 @I0676@ INDI
+1 NAME Heyward (Prince) /Davis/
+1 SEX M
+1 FAMS @F231@
+1 FAMC @F230@
+0 @I0677@ INDI
+1 NAME Rudyne Davis /Brown/
+1 SEX F
+1 BIRT
+2 DATE 7 Nov 1934
+1 FAMS @F232@
+1 FAMC @F231@
+0 @I0678@ INDI
+1 NAME Felton /Brown/
+1 SEX M
+1 FAMS @F233@
+1 FAMC @F232@
+0 @I0679@ INDI
+1 NAME Kim /Brown/
+1 SEX F
+1 BIRT
+2 DATE 13 Sep 1969
+1 FAMC @F232@
+0 @I0680@ INDI
+1 NAME /Taila/
+1 SEX F
+1 FAMC @F233@
+0 @I0681@ INDI
+1 NAME Marian /Davis/
+1 SEX F
+1 FAMC @F231@
+0 @I0682@ INDI
+1 NAME Jennie Mae /Davis/
+1 SEX F
+1 FAMS @F234@
+1 FAMC @F230@
+0 @I0683@ INDI
+1 NAME Vivian /Williams/
+1 SEX F
+1 BIRT
+2 DATE 25 May
+1 FAMS @F235@
+1 FAMC @F234@
+0 @I0684@ INDI
+1 NAME /Buddy/
+1 SEX M
+1 DEAT
+2 DATE 1997
+1 FAMC @F234@
+0 @I0685@ INDI
+1 NAME Travis /Williams/
+1 SEX M
+1 BIRT
+2 DATE 22 May 1969
+1 FAMC @F235@
+0 @I0686@ INDI
+1 NAME Ryan /Williams/
+1 SEX M
+1 BIRT
+2 DATE 20 Jun 1975
+1 FAMC @F235@
+0 @I0687@ INDI
+1 NAME Bubba /Riley/
+1 SEX M
+1 FAMS @F236@
+0 @I0688@ INDI
+1 NAME Pat /Riley/
+1 SEX F
+1 FAMC @F236@
+0 @I0689@ INDI
+1 NAME Bettie /Riley/
+1 SEX F
+1 FAMC @F236@
+0 @I0690@ INDI
+1 NAME Rose /Riley/
+1 SEX F
+1 FAMS @F237@
+1 FAMC @F236@
+0 @I0691@ INDI
+1 NAME /Phyllis/
+1 SEX F
+1 FAMC @F237@
+0 @I0692@ INDI
+1 NAME /Phillip/
+1 SEX M
+1 FAMC @F237@
+0 @I0693@ INDI
+1 NAME Richard (Bubbie) /Dent/
+1 SEX M
+1 FAMS @F238@
+0 @I0694@ INDI
+1 NAME Ernest /Dent/
+1 SEX M
+1 FAMC @F238@
+0 @I0695@ INDI
+1 NAME Margaret Dent /Black/
+1 SEX F
+1 FAMS @F239@
+1 FAMC @F238@
+0 @I0696@ INDI
+1 NAME Catherine /Dent/
+1 SEX F
+1 FAMS @F240@
+1 FAMC @F238@
+0 @I0697@ INDI
+1 NAME /Dana/
+1 SEX F
+1 FAMC @F239@
+0 @I0698@ INDI
+1 NAME /Patricia/
+1 SEX F
+1 FAMC @F240@
+0 @I0699@ INDI
+1 NAME /Mildred/
+1 SEX F
+1 FAMC @F240@
+0 @I0700@ INDI
+1 NAME /Wanda/
+1 SEX F
+1 FAMC @F240@
+0 @I0701@ INDI
+1 NAME Robert Rudolph /Childs/
+1 SEX M
+1 FAMS @F241@
+0 @I0702@ INDI
+1 NAME Monique Felecia /Childs/
+1 SEX F
+1 FAMC @F241@
+0 @I0703@ INDI
+1 NAME Marlene Angela /Childs/
+1 SEX F
+1 FAMC @F241@
+0 @I0704@ INDI
+1 NAME Myra Natalie /Childs/
+1 SEX F
+1 FAMS @F242@
+1 FAMC @F241@
+0 @I0705@ INDI
+1 NAME Aric Howard /Childs/
+1 SEX F
+1 FAMC @F242@
+0 @I0706@ INDI
+1 NAME George /Turner/
+1 SEX M
+1 FAMC @F050@
+0 @I0707@ INDI
+1 NAME Demetrice Davis /Banks/
+1 SEX F
+1 FAMS @F244@
+1 FAMC @F132@
+0 @I0708@ INDI
+1 NAME Sheree /Davis/
+1 SEX F
+1 CHR
+2 PLAC website: www.sherriedwards.com
+1 FAMC @F132@
+0 @I0709@ INDI
+1 NAME Kimberly /Banks/
+1 SEX F
+1 FAMC @F244@
+0 @I0710@ INDI
+1 NAME Barbara /Dixon/
+1 SEX F
+1 FAMS @F075@
+0 @I0711@ INDI
+1 NAME Joy /Dixon/
+1 SEX F
+1 BIRT
+2 DATE 4 May 1998
+1 FAMC @F075@
+0 @I0712@ INDI
+1 NAME Bob /Davis/
+1 SEX M
+1 BIRT
+2 DATE 8 Jul 1958
+1 FAMC @F119@
+0 @I0713@ INDI
+1 NAME Rick /Davis/
+1 SEX M
+0 @I0714@ INDI
+1 NAME Joseph /Turner/
+1 SEX M
+1 FAMC @F050@
+0 @I0715@ INDI
+1 NAME Beverly Smith /Vaughn/
+1 SEX F
+1 FAMS @F245@
+1 FAMC @F051@
+0 @I0716@ INDI
+1 NAME Nancy Smith /Williams/
+1 SEX F
+1 FAMS @F247@
+1 FAMC @F051@
+0 @I0717@ INDI
+1 NAME Warren /Vaughn/
+1 SEX M
+1 FAMS @F245@
+0 @I0718@ INDI
+1 NAME Cherri Sharon Vaughn /Thompson/
+1 SEX F
+1 FAMS @F246@
+1 FAMC @F245@
+0 @I0719@ INDI
+1 NAME Juan /Thompson/
+1 SEX M
+1 FAMC @F245@
+0 @I0720@ INDI
+1 NAME Miquel /Thompson/
+1 SEX M
+1 FAMC @F246@
+0 @I0721@ INDI
+1 NAME Anthony /Thompson/
+1 SEX M
+1 FAMC @F246@
+0 @I0722@ INDI
+1 NAME John Javis /Williams/
+1 SEX M
+1 FAMS @F247@
+0 @I0723@ INDI
+1 NAME Twinda /Williams/
+1 SEX F
+1 FAMC @F247@
+0 @I0724@ INDI
+1 NAME Jaris /Williams/
+1 SEX M
+1 FAMS @F248@
+1 FAMC @F247@
+0 @I0725@ INDI
+1 NAME Nailah /Williams/
+1 SEX M
+1 FAMC @F247@
+0 @I0726@ INDI
+1 NAME Agyei /Williams/
+1 SEX F
+1 FAMC @F247@
+0 @I0727@ INDI
+1 NAME Hashim /Williams/
+1 SEX F
+1 FAMC @F247@
+0 @I0728@ INDI
+1 NAME Demetrius /Williams/
+1 SEX M
+1 FAMC @F248@
+0 @I0729@ INDI
+1 NAME Jerard /Williams/
+1 SEX M
+1 FAMC @F248@
+0 @I0730@ INDI
+1 NAME Asshams /Manley/
+1 SEX M
+1 FAMC @F196@
+0 @I0731@ INDI
+1 NAME Biko Mandela R. /Manley/
+1 SEX M
+1 FAMC @F196@
+0 @I0732@ INDI
+1 NAME Lattie Belle Anderson /Turner/
+1 SEX F
+1 FAMS @F126@
+0 @I0733@ INDI
+1 NAME Bettie Lee Turner /Morgan/
+1 SEX F
+1 BIRT
+2 DATE 20 Jan 1943
+1 DEAT
+2 DATE 9 May 1991
+1 FAMS @F257@
+1 FAMC @F126@
+0 @I0734@ INDI
+1 NAME James Melvin /Turner/, Sr.
+1 SEX M
+1 BIRT
+2 DATE 15 Jul 1945
+1 DEAT
+2 DATE 8 Aug 1994
+1 FAMS @F261@
+1 FAMC @F126@
+0 @I0735@ INDI
+1 NAME Butler L. /Turner/
+1 SEX M
+1 FAMS @F262@
+1 FAMC @F126@
+0 @I0736@ INDI
+1 NAME Rudolph Williams /Turner/
+1 SEX M
+1 FAMS @F269@
+1 FAMC @F126@
+0 @I0737@ INDI
+1 NAME Charles /Turner/
+1 SEX M
+1 FAMS @F270@
+1 FAMC @F126@
+0 @I0738@ INDI
+1 NAME Harrison G. /Turner/
+1 SEX M
+1 FAMS @F271@
+1 FAMC @F126@
+0 @I0739@ INDI
+1 NAME Alice B. Turner /Wilson/
+1 SEX F
+1 FAMS @F272@
+1 FAMC @F126@
+0 @I0740@ INDI
+1 NAME Nancy /Turner/
+1 SEX F
+1 FAMC @F126@
+0 @I0741@ INDI
+1 NAME Paul P. /Turner/
+1 SEX M
+1 FAMS @F273@
+1 FAMC @F126@
+0 @I0742@ INDI
+1 NAME Martha Turner /Bryson/
+1 SEX F
+1 FAMS @F274@
+1 FAMC @F126@
+0 @I0743@ INDI
+1 NAME /Keenya/
+1 SEX M
+1 FAMC @F249@
+0 @I0744@ INDI
+1 NAME /Tojuan/
+1 SEX M
+1 FAMC @F249@
+0 @I0745@ INDI
+1 NAME Willie /Turner/
+1 SEX M
+1 FAMC @F250@
+0 @I0746@ INDI
+1 NAME Roshon /Turner/
+1 SEX M
+1 FAMC @F250@
+0 @I0747@ INDI
+1 NAME Donna Turner /McIntosh/
+1 SEX F
+1 FAMS @F251@
+1 FAMC @F250@
+0 @I0748@ INDI
+1 NAME /McIntosh/
+1 SEX M
+1 FAMS @F251@
+0 @I0749@ INDI
+1 NAME Kenneth /McIntosh/
+1 SEX M
+1 FAMC @F251@
+0 @I0750@ INDI
+1 NAME Kendell /McIntosh/
+1 SEX M
+1 FAMC @F251@
+0 @I0751@ INDI
+1 NAME Mary /Turner/
+1 SEX F
+1 FAMS @F252@
+0 @I0752@ INDI
+1 NAME Ronald /Turner/
+1 SEX M
+1 FAMS @F253@
+1 FAMC @F252@
+0 @I0753@ INDI
+1 NAME Nichelle /Turner/
+1 SEX F
+1 FAMC @F252@
+0 @I0754@ INDI
+1 NAME Tonia /Turner/
+1 SEX F
+1 FAMC @F252@
+0 @I0755@ INDI
+1 NAME Calvin L. /Turner/
+1 SEX M
+1 FAMC @F252@
+0 @I0756@ INDI
+1 NAME Michelle Turner /Miles/
+1 SEX F
+1 FAMS @F254@
+1 FAMC @F252@
+0 @I0757@ INDI
+1 NAME Ronald /Turner/, Jr.
+1 SEX M
+1 FAMC @F253@
+0 @I0758@ INDI
+1 NAME Ronika /Turner/
+1 SEX F
+1 FAMC @F253@
+0 @I0759@ INDI
+1 NAME /Miles/
+1 SEX M
+1 FAMS @F254@
+0 @I0760@ INDI
+1 NAME Brandon /Miles/
+1 SEX M
+1 FAMC @F254@
+0 @I0761@ INDI
+1 NAME Dusty /Miles/
+1 SEX M
+1 FAMC @F254@
+0 @I0762@ INDI
+1 NAME John /Johnson/
+1 SEX M
+1 FAMC @F252@
+0 @I0763@ INDI
+1 NAME Frank /Hopkins/
+1 SEX M
+1 FAMS @F255@
+0 @I0764@ INDI
+1 NAME Sean /Hopkins/
+1 SEX M
+1 FAMS @F256@
+1 FAMC @F255@
+0 @I0765@ INDI
+1 NAME Malcolm /Hopkins/
+1 SEX M
+1 FAMC @F255@
+0 @I0766@ INDI
+1 NAME Roger /Hopkins/
+1 SEX M
+1 FAMC @F255@
+0 @I0767@ INDI
+1 NAME Rosean /Hopkins/
+1 SEX F
+1 FAMC @F256@
+0 @I0768@ INDI
+1 NAME Shantia /Hopkins/
+1 SEX F
+1 FAMC @F256@
+0 @I0769@ INDI
+1 NAME Sean /Hopkins/, Jr
+1 SEX M
+1 FAMC @F256@
+0 @I0770@ INDI
+1 NAME Marvin /Morgan/
+1 SEX M
+1 FAMS @F257@
+0 @I0771@ INDI
+1 NAME Marvin /Morgan/, Jr
+1 SEX M
+1 FAMC @F257@
+0 @I0772@ INDI
+1 NAME Barry /Morgan/
+1 SEX M
+1 FAMS @F258@
+1 FAMC @F257@
+0 @I0773@ INDI
+1 NAME Stephanie /Morgan/
+1 SEX F
+1 FAMS @F259@
+1 FAMC @F257@
+0 @I0774@ INDI
+1 NAME Misty /Morgan/
+1 SEX F
+1 FAMS @F260@
+1 FAMC @F257@
+0 @I0775@ INDI
+1 NAME Tianna /Morgan/
+1 SEX F
+1 FAMC @F258@
+0 @I0776@ INDI
+1 NAME Asatina /Morgan/
+1 SEX F
+1 FAMC @F258@
+0 @I0777@ INDI
+1 NAME /Shawnice/
+1 SEX F
+1 FAMC @F259@
+0 @I0778@ INDI
+1 NAME /Charles/
+1 SEX M
+1 FAMC @F259@
+0 @I0779@ INDI
+1 NAME /Blake/
+1 SEX M
+1 FAMC @F259@
+0 @I0780@ INDI
+1 NAME /DeWayne/
+1 SEX M
+1 FAMC @F260@
+0 @I0781@ INDI
+1 NAME Timothy /Miller/
+1 SEX M
+1 FAMC @F261@
+0 @I0782@ INDI
+1 NAME Damon /Fuller/
+1 SEX M
+1 FAMC @F261@
+0 @I0783@ INDI
+1 NAME James /Turner/, Jr.
+1 SEX M
+1 FAMC @F261@
+0 @I0784@ INDI
+1 NAME Daniel /Lark/
+1 SEX F
+1 FAMC @F261@
+0 @I0785@ INDI
+1 NAME Tamiko /Turner/
+1 SEX F
+1 FAMS @F263@
+1 FAMC @F262@
+0 @I0786@ INDI
+1 NAME Tamara /Turner/
+1 SEX F
+1 FAMS @F264@
+1 FAMC @F262@
+0 @I0787@ INDI
+1 NAME Timothy /Edwards/
+1 SEX M
+1 FAMS @F265@
+1 FAMC @F262@
+0 @I0788@ INDI
+1 NAME Allisons /Edwards/
+1 SEX M
+1 FAMC @F262@
+0 @I0789@ INDI
+1 NAME Trulaine /Edwards/
+1 SEX F
+1 FAMS @F266@
+1 FAMC @F262@
+0 @I0790@ INDI
+1 NAME Latressa /Render/
+1 SEX F
+1 FAMS @F267@
+1 FAMC @F262@
+0 @I0791@ INDI
+1 NAME Allison /Youngblood/
+1 SEX F
+1 FAMS @F268@
+1 FAMC @F262@
+0 @I0792@ INDI
+1 NAME /Anthony/
+1 SEX M
+1 FAMC @F263@
+0 @I0793@ INDI
+1 NAME /Kyelle/
+1 SEX F
+1 FAMC @F264@
+0 @I0794@ INDI
+1 NAME Champagne /Edwards/
+1 SEX F
+1 FAMC @F265@
+0 @I0795@ INDI
+1 NAME /Ja'neka/
+1 SEX F
+1 FAMC @F266@
+0 @I0796@ INDI
+1 NAME /Ja'lan/
+1 SEX F
+1 FAMC @F266@
+0 @I0797@ INDI
+1 NAME /Rashad/
+1 SEX M
+1 FAMC @F267@
+0 @I0798@ INDI
+1 NAME /D'Mari/
+1 SEX F
+1 FAMC @F268@
+0 @I0799@ INDI
+1 NAME /Skyler/
+1 SEX M
+1 FAMC @F268@
+0 @I0800@ INDI
+1 NAME Lil /Chip/
+1 SEX F
+1 FAMC @F268@
+0 @I0801@ INDI
+1 NAME /Meesha/
+1 SEX F
+1 FAMC @F268@
+0 @I0802@ INDI
+1 NAME /Alicia/
+1 SEX F
+1 FAMC @F268@
+0 @I0803@ INDI
+1 NAME /Toi/
+1 SEX M
+1 FAMC @F268@
+0 @I0804@ INDI
+1 NAME Emma /Johnson/
+1 SEX F
+1 FAMS @F269@
+0 @I0805@ INDI
+1 NAME Donte /Turner/
+1 SEX M
+1 FAMC @F269@
+0 @I0806@ INDI
+1 NAME Jabbar /Turner/
+1 SEX M
+1 FAMC @F269@
+0 @I0807@ INDI
+1 NAME Sara /Turner/
+1 SEX F
+1 FAMC @F269@
+0 @I0808@ INDI
+1 NAME Alfie /Turner/
+1 SEX F
+1 FAMC @F270@
+0 @I0809@ INDI
+1 NAME Charles S. /Turner/
+1 SEX M
+1 FAMC @F270@
+0 @I0810@ INDI
+1 NAME Gordon /Turner/
+1 SEX M
+1 FAMC @F270@
+0 @I0811@ INDI
+1 NAME Damon /Turner/
+1 SEX M
+1 FAMC @F271@
+0 @I0812@ INDI
+1 NAME Tanquetta /Turner/
+1 SEX F
+1 FAMC @F271@
+0 @I0813@ INDI
+1 NAME Harrison L. /Turner/
+1 SEX M
+1 FAMC @F271@
+0 @I0814@ INDI
+1 NAME Kwana /Turner/
+1 SEX F
+1 FAMC @F271@
+0 @I0815@ INDI
+1 NAME Kendra /Turner/
+1 SEX F
+1 FAMC @F271@
+0 @I0816@ INDI
+1 NAME Kimeko /Wilson/
+1 SEX M
+1 FAMC @F272@
+0 @I0817@ INDI
+1 NAME Tyann /Wilson/
+1 SEX F
+1 FAMC @F272@
+0 @I0818@ INDI
+1 NAME Morris /Wilson/
+1 SEX M
+1 FAMC @F272@
+0 @I0819@ INDI
+1 NAME Paul /Davis/
+1 SEX M
+1 FAMC @F273@
+0 @I0820@ INDI
+1 NAME Shennay /Davis/
+1 SEX F
+1 FAMC @F273@
+0 @I0821@ INDI
+1 NAME /Bryson/
+1 SEX M
+1 FAMS @F274@
+0 @I0822@ INDI
+1 NAME William /Adams/
+1 SEX M
+1 FAMS @F128@
+0 @I0823@ INDI
+1 NAME Albert /Parks/
+1 SEX M
+1 FAMS @F275@
+0 @I0824@ INDI
+1 NAME Steven /Parks/
+1 SEX M
+1 FAMS @F279@
+1 FAMC @F275@
+0 @I0825@ INDI
+1 NAME Twinda Parks /Anderson/
+1 SEX F
+1 FAMS @F280@
+1 FAMC @F275@
+0 @I0826@ INDI
+1 NAME Paul L. /Baskerville/
+1 SEX M
+1 FAMS @F276@
+0 @I0827@ INDI
+1 NAME Pemeco /Baskerville/
+1 SEX F
+1 FAMS @F277@
+1 FAMC @F276@
+0 @I0828@ INDI
+1 NAME /Cheleseaya/
+1 SEX F
+1 FAMC @F277@
+0 @I0829@ INDI
+1 NAME /Akiaya/
+1 SEX F
+1 FAMC @F277@
+0 @I0830@ INDI
+1 NAME Da'Vee'B /Baskerville/
+1 SEX M
+1 BIRT
+2 DATE 6 Nov 1966
+1 FAMC @F276@
+0 @I0831@ INDI
+1 NAME Paul L. Jr. /Baskerville/
+1 SEX M
+1 BIRT
+2 DATE 1 Nov 1971
+1 FAMS @F061@
+1 FAMC @F276@
+0 @I0832@ INDI
+1 NAME Barbara Kelly /Adams/
+1 SEX F
+1 FAMS @F278@
+0 @I0833@ INDI
+1 NAME Stephanie /Adams/
+1 SEX F
+1 FAMC @F278@
+0 @I0834@ INDI
+1 NAME Wiliam /Adams/
+1 SEX M
+1 FAMC @F278@
+0 @I0835@ INDI
+1 NAME Michael /Adams/
+1 SEX M
+1 FAMC @F278@
+0 @I0836@ INDI
+1 NAME Virginia /Hamilton/
+1 SEX F
+1 FAMC @F278@
+0 @I0837@ INDI
+1 NAME Curtis /Jamison/
+1 SEX M
+1 FAMC @F278@
+0 @I0838@ INDI
+1 NAME Sandra Nelson /Parks/
+1 SEX F
+1 FAMS @F279@
+0 @I0839@ INDI
+1 NAME Matthew /Parks/
+1 SEX M
+1 FAMC @F279@
+0 @I0840@ INDI
+1 NAME Steven /Parks/, Jr.
+1 SEX M
+1 FAMC @F279@
+0 @I0841@ INDI
+1 NAME James /Anderson/
+1 SEX M
+1 FAMS @F280@
+0 @I0842@ INDI
+1 NAME Jessica K. /Anderson/
+1 SEX F
+1 FAMC @F280@
+0 @I0843@ INDI
+1 NAME Anthony /Thompson/
+1 SEX M
+1 FAMS @F246@
+0 @I0844@ INDI
+1 NAME Michael /Davis/
+1 SEX M
+1 FAMS @F284@
+1 FAMC @F104@
+0 @I0845@ INDI
+1 NAME Demetrius /Davis/
+1 SEX F
+1 FAMC @F104@
+0 @I0846@ INDI
+1 NAME Tony /Davis/
+1 SEX M
+1 FAMC @F104@
+0 @I0847@ INDI
+1 NAME Dwight /Davis/
+1 SEX M
+1 FAMC @F104@
+0 @I0848@ INDI
+1 NAME Rosalyn /Davis/
+1 SEX F
+1 FAMS @F284@
+0 @I0849@ INDI
+1 NAME Michael /Davis/, Jr.
+1 SEX M
+1 FAMC @F284@
+0 @I0850@ INDI
+1 NAME Justin Rashaud /Hollins/
+1 SEX M
+1 FAMC @F287@
+0 @I0851@ INDI
+1 NAME Alexander M. /Hollins/
+1 SEX M
+1 FAMC @F287@
+0 @I0852@ INDI
+1 NAME Mary F. Dvis /Bethel/
+1 SEX F
+1 FAMS @F147@
+0 @I0853@ INDI
+1 NAME David /Roberts/
+1 SEX M
+1 FAMC @F290@
+0 @I0854@ INDI
+1 NAME Deborah /Roberts/
+1 SEX F
+1 FAMC @F290@
+0 @I0855@ INDI
+1 NAME Evelyn /Roberts/
+1 SEX F
+1 FAMC @F290@
+0 @I0856@ INDI
+1 NAME Brenda /Roberts/
+1 SEX F
+1 FAMC @F290@
+0 @I0857@ INDI
+1 NAME Mike /Oree/
+1 SEX M
+1 FAMS @F291@
+0 @I0858@ INDI
+1 NAME Phillipa /Oree/
+1 SEX F
+1 FAMC @F291@
+0 @I0859@ INDI
+1 NAME Melissa /Oree/
+1 SEX F
+1 FAMC @F291@
+0 @I0860@ INDI
+1 NAME Tina /Harris/
+1 SEX F
+1 FAMC @F083@
+0 @I0861@ INDI
+1 NAME Grandville /Harris/, Jr
+1 SEX M
+1 BIRT
+2 DATE 31 Dec 1975
+1 FAMC @F083@
+0 @I0862@ INDI
+1 NAME Travis /Slayer/
+1 SEX F
+1 FAMC @F292@
+0 @I0863@ INDI
+1 NAME LaSheka /White/
+1 SEX F
+1 FAMC @F003@
+0 @I0864@ INDI
+1 NAME Keyma /Whita/
+1 SEX F
+1 FAMC @F003@
+0 @I0865@ INDI
+1 NAME David /White/
+1 SEX F
+1 FAMC @F003@
+0 @I0866@ INDI
+1 NAME David Ezekiel /Sims/
+1 SEX M
+1 BIRT
+2 DATE 2 Dec 1963
+1 FAMS @F293@
+1 FAMC @F298@
+0 @I0867@ INDI
+1 NAME Vicki Davis /James/
+1 SEX F
+1 BIRT
+2 DATE 16 Sep
+1 FAMS @F077@
+1 FAMC @F097@
+0 @I0868@ INDI
+1 NAME Donald /James/
+1 SEX M
+1 BIRT
+2 DATE 25 Mar
+1 FAMS @F077@
+0 @I0869@ INDI
+1 NAME Tiffany /James/
+1 SEX F
+1 BIRT
+2 DATE 11 May 1983
+1 FAMC @F077@
+0 @I0870@ INDI
+1 NAME Tonya /Davis/
+1 SEX F
+1 BIRT
+2 DATE 24 Oct
+1 FAMC @F097@
+0 @I0871@ INDI
+1 NAME Gwendolyn /Davis/
+1 SEX F
+1 BIRT
+2 DATE 6 Feb
+1 DEAT
+2 DATE 9 Jul 1993
+1 FAMS @F210@
+1 FAMC @F097@
+0 @I0872@ INDI
+1 NAME Gwendolyn P. /Davis/
+1 SEX F
+1 BIRT
+2 DATE 22 Sep
+1 FAMC @F210@
+0 @I0873@ INDI
+1 NAME Cheryl Clinton /Sims/
+1 SEX F
+1 BIRT
+2 DATE 9 Jan
+1 FAMS @F211@
+0 @I0874@ INDI
+1 NAME Rick /Davis/
+1 SEX M
+1 FAMC @F281@
+0 @I0875@ INDI
+1 NAME Yvonne Davis /Haggan/
+1 SEX F
+1 BIRT
+2 DATE 1 Sep 1941
+1 FAMS @F282@
+1 FAMC @F093@
+0 @I0876@ INDI
+1 NAME Sonya /Haggan/
+1 SEX F
+1 FAMC @F282@
+0 @I0877@ INDI
+1 NAME Mitchum /Davis/
+1 SEX M
+1 FAMS @F063@
+1 FAMC @F062@
+0 @I0878@ INDI
+1 NAME Jessica /Davis/
+1 SEX F
+1 FAMS @F130@
+1 FAMC @F063@
+0 @I0879@ INDI
+1 NAME Stephen /Davis/
+1 SEX M
+1 FAMC @F062@
+0 @I0880@ INDI
+1 NAME Barry /Johnson/
+1 SEX M
+1 FAMC @F105@
+0 @I0881@ INDI
+1 NAME Vary /Johnson/
+1 SEX M
+1 FAMC @F105@
+0 @I0882@ INDI
+1 NAME Eddie /Wyle/
+1 SEX M
+1 FAMS @F106@
+0 @I0883@ INDI
+1 NAME Nathaniel /Johnson/
+1 SEX M
+1 FAMC @F106@
+0 @I0884@ INDI
+1 NAME Walter /McGill/
+1 SEX M
+1 FAMS @F107@
+0 @I0885@ INDI
+1 NAME Nehemiah /McGras/
+1 SEX M
+1 FAMS @F108@
+0 @I0886@ INDI
+1 NAME /Twitty/
+1 SEX M
+1 FAMS @F109@
+0 @I0887@ INDI
+1 NAME Maria /Twitty/
+1 SEX F
+1 FAMC @F109@
+0 @I0888@ INDI
+1 NAME Valarie /Evans/
+1 SEX F
+1 FAMC @F153@
+0 @I0889@ INDI
+1 NAME /Parker/
+1 SEX M
+1 FAMS @F162@
+0 @I0890@ INDI
+1 NAME Sharee /Parker/
+1 SEX F
+1 FAMC @F144@
+0 @I0891@ INDI
+1 NAME Vaughn /Parker/
+1 SEX M
+1 FAMC @F145@
+0 @I0892@ INDI
+1 NAME Rosalind /Parker/
+1 SEX F
+1 FAMC @F145@
+0 @I0893@ INDI
+1 NAME Ryan Burton /Myers/
+1 SEX M
+1 FAMS @F294@
+1 FAMC @F165@
+0 @I0894@ INDI
+1 NAME Susie /Rouse/
+1 SEX F
+1 FAMS @F177@
+0 @I0895@ INDI
+1 NAME David /Myers/
+1 SEX F
+1 FAMC @F165@
+0 @I0896@ INDI
+1 NAME James /Williams/
+1 SEX M
+1 BIRT
+2 DATE 19 Sep
+1 FAMS @F235@
+0 @I0897@ INDI
+1 NAME Diamond /Smith/
+1 SEX F
+1 FAMC @F067@
+0 @I0898@ INDI
+1 NAME Ruby Sharee /Edmonds/
+1 SEX F
+1 BIRT
+2 DATE 7 Feb 1999
+1 FAMC @F209@
+0 @I0899@ INDI
+1 NAME Khaliah Kiasha /Caldwell/
+1 SEX F
+1 BIRT
+2 DATE 11 Jan 2001
+1 FAMC @F209@
+0 @I0900@ INDI
+1 NAME David /Edmonds/
+1 SEX M
+1 FAMS @F209@
+0 @I0901@ INDI
+1 NAME Mr /Caldwell/
+1 SEX M
+1 FAMS @F299@
+0 @I0902@ INDI
+1 NAME Robert Vernon /Cooper/
+1 SEX M
+1 FAMS @F300@
+0 @I0903@ INDI
+1 NAME Annette /Smith/
+1 SEX F
+1 FAMC @F012@
+0 @I0904@ INDI
+1 NAME Wendy Smith /Jones/
+1 SEX F
+1 FAMS @F307@
+1 FAMC @F012@
+0 @I0905@ INDI
+1 NAME Ricky /Smith/
+1 SEX M
+1 FAMC @F012@
+0 @I0906@ INDI
+1 NAME Dwight /Faust/
+1 SEX M
+1 FAMC @F012@
+0 @I0907@ INDI
+1 NAME Jannie /Faust/
+1 SEX M
+1 FAMS @F306@
+0 @I0908@ INDI
+1 NAME John /Jones/
+1 SEX M
+1 FAMS @F307@
+0 @I0909@ INDI
+1 NAME Precius /Jones/
+1 SEX M
+1 FAMC @F307@
+0 @I0910@ INDI
+1 NAME Quan /Jones/
+1 SEX M
+1 FAMC @F307@
+0 @I0911@ INDI
+1 NAME Latitia Jones /Walden/
+1 SEX F
+1 FAMC @F307@
+0 @I0912@ INDI
+1 NAME James /Miller/
+1 SEX M
+1 FAMS @F068@
+0 @I0913@ INDI
+1 NAME Mickel Xazier /Eargle/
+1 SEX M
+1 BIRT
+2 DATE 13 Oct 2000
+1 FAMC @F089@
+0 @I0914@ INDI
+1 NAME Mabel D. /Eargle/
+1 SEX F
+1 FAMS @F308@
+0 @I0915@ INDI
+1 NAME Charles /McCollum/
+1 SEX M
+1 FAMS @F069@
+0 @I0916@ INDI
+1 NAME Ella Ruth /Sims/
+1 SEX F
+1 BIRT
+2 DATE 13 Jun 1944
+2 PLAC Mullins, SC
+1 DEAT
+2 DATE 14 Jun 1999
+1 FAMS @F298@
+1 FAMS @F316@
+1 FAMC @F309@
+0 @I0917@ INDI
+1 NAME Hattie Mae /Hayes/
+1 SEX F
+1 BIRT
+2 DATE 8 Aug 1928
+2 PLAC Mullins, SC
+1 DEAT
+2 DATE 4 Dec 1999
+2 PLAC Lackland AFB in Texas
+1 FAMS @F309@
+1 FAMC @F317@
+0 @I0918@ INDI
+1 NAME Elizabeth Sims /Bull/
+1 SEX F
+1 FAMC @F309@
+0 @I0919@ INDI
+1 NAME Donnie Sims /McPhail/
+1 SEX F
+1 FAMC @F309@
+0 @I0920@ INDI
+1 NAME Thomasina Sims /Patterson/
+1 SEX F
+1 FAMC @F309@
+0 @I0921@ INDI
+1 NAME Doretha Sims /Williamson/
+1 SEX F
+1 FAMC @F309@
+0 @I0922@ INDI
+1 NAME Jerry /Sims/
+1 SEX F
+1 FAMC @F309@
+0 @I0923@ INDI
+1 NAME Albert /Sims/
+1 SEX F
+1 FAMC @F309@
+0 @I0924@ INDI
+1 NAME Alphonso /Sims/
+1 SEX F
+1 FAMC @F309@
+0 @I0925@ INDI
+1 NAME Sylvia Ann Sims /Bookert/
+1 SEX F
+1 FAMC @F309@
+0 @I0926@ INDI
+1 NAME Serwah Ntriwah /Lydia/
+1 SEX F
+1 BIRT
+2 DATE 14 Apr 1999
+1 FAMC @F310@
+0 @I0927@ INDI
+1 NAME Soyini Nacala /Lydia/
+1 SEX F
+1 BIRT
+2 DATE 14 Apr 1999
+1 FAMC @F310@
+0 @I0928@ INDI
+1 NAME Thaderius /Daniels/
+1 SEX M
+1 FAMS @F312@
+0 @I0929@ INDI
+1 NAME Moody /Daniels/
+1 SEX F
+1 FAMC @F312@
+0 @I0930@ INDI
+1 NAME Aubria N. /Myers/
+1 SEX F
+1 BIRT
+2 DATE 23 Dec 1995
+1 FAMC @F170@
+0 @I0931@ INDI
+1 NAME Brenay S. /Myers/
+1 SEX M
+1 BIRT
+2 DATE 20 Nov 1991
+1 FAMC @F170@
+0 @I0932@ INDI
+1 NAME William /Visor/
+1 SEX M
+1 FAMS @F313@
+0 @I0933@ INDI
+1 NAME Zhana Shakier /Visor/
+1 SEX F
+1 BIRT
+2 DATE 15 Dec 1999
+1 FAMC @F313@
+0 @I0934@ INDI
+1 NAME /Charles/
+1 SEX M
+1 FAMS @F067@
+0 @I0935@ INDI
+1 NAME Shellie Goodson /Huff/
+1 SEX F
+1 FAMS @F087@
+0 @I0936@ INDI
+1 NAME Druetta /Prey/
+1 SEX F
+1 FAMS @F297@
+0 @I0937@ INDI
+1 NAME Lillie /Huff/
+1 SEX F
+1 FAMC @F087@
+0 @I0938@ INDI
+1 NAME Ella Jane /Prescott/
+1 SEX F
+1 FAMC @F087@
+0 @I0939@ INDI
+1 NAME Rosa Mae /Bethea/
+1 SEX F
+1 FAMC @F087@
+0 @I0940@ INDI
+1 NAME Draford Huff /Jr./
+1 SEX M
+1 FAMC @F087@
+0 @I0941@ INDI
+1 NAME Frank /Huff/
+1 SEX M
+1 FAMC @F087@
+0 @I0942@ INDI
+1 NAME Marvin /Dixon/
+1 SEX M
+1 FAMC @F087@
+0 @I0943@ INDI
+1 NAME Draford Huff /Sr./
+1 SEX M
+1 FAMS @F087@
+0 @I0944@ INDI
+1 NAME Lela Bell /Mitchell/
+1 SEX F
+1 FAMS @F181@
+0 @I0945@ INDI
+1 NAME Randel /Mitchell/
+1 SEX M
+1 FAMC @F181@
+0 @I0946@ INDI
+1 NAME Telia /Mitchell/
+1 SEX F
+1 FAMC @F181@
+0 @I0947@ INDI
+1 NAME Onesimus /Richardson/
+1 SEX M
+1 FAMS @F182@
+0 @I0948@ INDI
+1 NAME Katherine Darby /Wilson/
+1 SEX F
+1 FAMS @F182@
+1 FAMS @F314@
+0 @I0949@ INDI
+1 NAME George Lee /Wilson/
+1 SEX M
+1 FAMS @F314@
+0 @I0950@ INDI
+1 NAME Laura /Darby/
+1 SEX F
+1 FAMC @F182@
+0 @I0951@ INDI
+1 NAME Tina /Darby/
+1 SEX F
+1 FAMC @F182@
+0 @I0952@ INDI
+1 NAME Keith /Bethel/
+1 SEX F
+1 FAMC @F182@
+0 @I0953@ INDI
+1 NAME Minnie /Shell/
+1 SEX F
+1 FAMS @F315@
+0 @I0954@ INDI
+1 NAME Alphonso /Shell/
+1 SEX F
+1 FAMC @F315@
+0 @I0955@ INDI
+1 NAME Gwendolyn /Shell/
+1 SEX F
+1 FAMC @F315@
+0 @I0956@ INDI
+1 NAME Alex /Shell/
+1 SEX F
+1 FAMC @F315@
+0 @I0957@ INDI
+1 NAME Gloria /Shell/
+1 SEX F
+1 FAMC @F315@
+0 @I0958@ INDI
+1 NAME Deborah /Shell/
+1 SEX F
+1 FAMC @F315@
+0 @I0959@ INDI
+1 NAME Mattie Lee /Shell/
+1 SEX F
+1 FAMC @F315@
+0 @I0960@ INDI
+1 NAME Jeannie /Shell/
+1 SEX F
+1 FAMC @F315@
+0 @I0961@ INDI
+1 NAME Rene /Sims/
+1 SEX F
+1 FAMC @F298@
+0 @I0962@ INDI
+1 NAME Ruth Arnice /Sims/
+1 SEX F
+1 FAMS @F318@
+1 FAMC @F298@
+0 @I0963@ INDI
+1 NAME Joseph /Myers/
+1 SEX M
+1 FAMS @F316@
+0 @I0964@ INDI
+1 NAME Tomekia /Myers/
+1 SEX F
+1 FAMS @F319@
+1 FAMC @F316@
+0 @I0965@ INDI
+1 NAME Joseph Jarrad /Myers/
+1 SEX M
+1 FAMC @F316@
+0 @I0966@ INDI
+1 NAME Thomas /J./
+1 SEX M
+1 FAMS @F309@
+0 @I0967@ INDI
+1 NAME Hattie /Hodges/
+1 SEX F
+1 FAMS @F317@
+0 @I0968@ INDI
+1 NAME Haron /Hayes/
+1 SEX M
+1 FAMS @F317@
+0 @I0969@ INDI
+1 NAME Skaketa /Belton/
+1 SEX F
+1 FAMC @F318@
+0 @I0970@ INDI
+1 NAME Russell /Belton/
+1 SEX M
+1 FAMS @F318@
+0 @I0971@ INDI
+1 NAME Brandon /Belton/
+1 SEX M
+1 FAMC @F318@
+0 @I0972@ INDI
+1 NAME TYmeisha /Myers/
+1 SEX F
+1 FAMC @F319@
+0 @I0973@ INDI
+1 NAME Mavis /Thomas/
+1 SEX F
+1 FAMS @F320@
+0 @I0974@ INDI
+1 NAME Madell W. /Jennings/
+1 ALIA /Rita/
+1 SEX F
+1 BIRT
+2 DATE 12 May 1945
+2 PLAC Orangeburg, SC
+1 DEAT
+2 DATE 30 Nov 1999
+2 PLAC Orangeburg, SC
+1 FAMS @F321@
+1 FAMC @F320@
+0 @I0975@ INDI
+1 NAME Catherine Thomas /Long/
+1 SEX F
+1 FAMC @F320@
+0 @I0976@ INDI
+1 NAME E. /Thomas/
+1 SEX M
+1 FAMS @F320@
+0 @I0977@ INDI
+1 NAME Deloris Thomas /Mason/
+1 SEX F
+1 FAMC @F320@
+0 @I0978@ INDI
+1 NAME Charles /Thomas/
+1 SEX M
+1 FAMC @F320@
+0 @I0979@ INDI
+1 NAME Victoria Thomas /Stevenson/
+1 SEX F
+1 FAMC @F320@
+0 @I0980@ INDI
+1 NAME George /Jennings/
+1 SEX M
+1 FAMS @F321@
+0 @I0981@ INDI
+1 NAME Altheresa Jennings /Buskey/
+1 SEX F
+1 FAMC @F321@
+0 @I0982@ INDI
+1 NAME Jennifer /Jennings/
+1 SEX F
+1 FAMC @F321@
+0 @I0983@ INDI
+1 NAME Donn R. /Jennings/
+1 SEX M
+1 FAMC @F321@
+0 @I0984@ INDI
+1 NAME Tahchee' /Wilson/
+1 SEX F
+1 FAMS @F322@
+1 FAMC @F295@
+0 @I0985@ INDI
+1 NAME Betty J. /Wilson/
+1 SEX F
+1 FAMS @F295@
+1 FAMC @F296@
+0 @I0986@ INDI
+1 NAME Maggie /Pitts/
+1 SEX F
+1 FAMS @F296@
+0 @I0987@ INDI
+1 NAME Michael A. /Harris/
+1 SEX M
+1 BIRT
+2 DATE 26 Nov 1976
+1 FAMC @F083@
+0 @I0988@ INDI
+1 NAME Yuvette /Harris/
+1 ALIA Dang /Dang/
+1 SEX F
+1 BIRT
+2 DATE 20 Aug 1966
+1 FAMS @F060@
+1 FAMC @F083@
+0 @I0989@ INDI
+1 NAME Emanuel W. /Highley/
+1 SEX M
+1 BIRT
+2 DATE 3 Oct 1962
+1 FAMS @F060@
+0 @I0990@ INDI
+1 NAME Quentin Jamar /Harris/
+1 SEX M
+1 BIRT
+2 DATE 1 Nov 1985
+1 FAMC @F060@
+0 @I0991@ INDI
+1 NAME Emanuel Jr. W. /Highley/
+1 SEX M
+1 BIRT
+2 DATE 10 May 1988
+1 FAMC @F060@
+0 @I0992@ INDI
+1 NAME Britanny W. /Highley/
+1 SEX F
+1 BIRT
+2 DATE 15 Jun 1992
+1 FAMC @F060@
+0 @I0993@ INDI
+1 NAME Darryl /Coleman/
+1 SEX M
+1 BIRT
+2 DATE 25 Jun 1948
+1 FAMC @F323@
+0 @I0994@ INDI
+1 NAME Shedria /Coleman/
+1 SEX F
+1 BIRT
+2 DATE 5 Dec 1944
+1 FAMC @F323@
+0 @I0995@ INDI
+1 NAME Ruth Ann Coleman /Whitby/
+1 SEX F
+1 BIRT
+2 DATE 20 Nov 1950
+1 FAMC @F323@
+0 @I0996@ INDI
+1 NAME Wille /Whitner/
+1 SEX M
+1 FAMS @F324@
+0 @I0997@ INDI
+1 NAME /Suber/
+1 SEX F
+1 FAMS @F324@
+0 @I0998@ INDI
+1 NAME Melvin /Jenins/
+1 SEX M
+1 FAMS @F301@
+0 @I0999@ INDI
+1 NAME Brianna /Mealing/
+1 SEX F
+1 BIRT
+2 DATE 12 Apr 2001
+1 FAMC @F303@
+0 @I1000@ INDI
+1 NAME Antwon /Gallman/
+1 SEX M
+1 FAMS @F302@
+0 @I1001@ INDI
+1 NAME Antwon /Gallman/
+1 SEX M
+1 BIRT
+2 DATE 6 Oct 1999
+1 FAMC @F302@
+0 @I1002@ INDI
+1 NAME Bryan Mealing /Jr./
+1 SEX M
+1 BIRT
+2 DATE 29 Dec 2002
+1 FAMC @F303@
+0 @I1003@ INDI
+1 NAME Alicia /Richardson/
+1 SEX F
+1 BIRT
+2 DATE 1 Jan 1976
+1 FAMS @F303@
+0 @I1004@ INDI
+1 NAME Lillie /Mealing/
+1 SEX F
+1 FAMS @F304@
+0 @I1005@ INDI
+1 NAME Cynthia /Buckner/
+1 SEX F
+1 FAMS @F305@
+0 @I1006@ INDI
+1 NAME Krystle /Buckner/
+1 SEX F
+1 FAMC @F305@
+0 @I1007@ INDI
+1 NAME Keenan /Moore/
+1 SEX M
+1 BIRT
+2 DATE 2 Feb 1999
+1 FAMC @F065@
+0 @I1008@ INDI
+1 NAME Yolanda /Moore/
+1 SEX F
+1 FAMS @F065@
+0 @I1009@ INDI
+1 NAME Nathan /Pelzer/
+1 SEX M
+1 BIRT
+2 DATE 18 Sep 1968
+1 FAMS @F059@
+1 FAMC @F058@
+0 @I1010@ INDI
+1 NAME Nicole /Boular/
+1 SEX F
+1 BIRT
+2 DATE 5 May 1980
+1 FAMC @F059@
+0 @I1011@ INDI
+1 NAME Kimberley /Pelzer/
+1 SEX F
+1 BIRT
+2 DATE 5 Jul
+1 FAMC @F059@
+0 @I1012@ INDI
+1 NAME Lawandra /Cherry/
+1 SEX F
+1 FAMS @F059@
+0 @I1013@ INDI
+1 NAME Shonda Brooks /Ashby/
+1 SEX F
+1 BIRT
+2 DATE 7 Sep 1972
+1 FAMS @F331@
+1 FAMC @F326@
+0 @I1014@ INDI
+1 NAME Starlette /Brooks/
+1 SEX F
+1 BIRT
+2 DATE 15 Jul 1976
+1 FAMS @F285@
+1 FAMC @F326@
+0 @I1015@ INDI
+1 NAME Shelia /Brooks/
+1 SEX F
+1 BIRT
+2 DATE 19 Apr 1961
+1 FAMC @F327@
+0 @I1016@ INDI
+1 NAME Sharon /Brooks/
+1 SEX F
+1 BIRT
+2 DATE 19 Apr 1961
+1 FAMC @F327@
+0 @I1017@ INDI
+1 NAME Charlene /Brooks/
+1 SEX F
+1 BIRT
+2 DATE 26 Aug
+1 FAMC @F328@
+0 @I1018@ INDI
+1 NAME Henry /Brooks/
+1 SEX M
+1 BIRT
+2 DATE 10 Oct
+1 FAMS @F214@
+0 @I1019@ INDI
+1 NAME Mikayla Eugenia /Eargle/
+1 SEX F
+1 BIRT
+2 DATE 22 Jul 2002
+1 FAMC @F089@
+0 @I1020@ INDI
+1 NAME Ta'nya /Davis/
+1 SEX F
+1 BIRT
+2 DATE 16 Dec 2000
+1 FAMC @F329@
+0 @I1021@ INDI
+1 NAME Monique /Adams/
+1 SEX F
+1 FAMS @F329@
+0 @I1022@ INDI
+1 NAME Johnathan /Harris/
+1 SEX M
+1 BIRT
+2 DATE 4 Feb 1998
+1 FAMC @F285@
+0 @I1023@ INDI
+1 NAME Taft U. /Wallace/ IV
+1 SEX M
+1 BIRT
+2 DATE 9 Apr 2002
+1 FAMC @F110@
+0 @I1024@ INDI
+1 NAME Preston A /George/, Jr
+1 SEX M
+1 BIRT
+2 DATE 23 Mar 1971
+1 FAMC @F330@
+0 @I1025@ INDI
+1 NAME Preston A. /George/, sr
+1 SEX M
+1 BIRT
+2 DATE 26 Jul 1939
+1 FAMS @F330@
+0 @I1026@ INDI
+1 NAME Davian /Perry/
+1 SEX M
+1 BIRT
+2 DATE 22 Jul 1988
+1 FAMC @F331@
+0 @I1027@ INDI
+1 NAME Mr. /Durant/
+1 SEX M
+1 FAMS @F192@
+0 @I1028@ INDI
+1 NAME Asanti /Price/
+1 SEX M
+1 BIRT
+2 DATE 27 Aug 2001
+1 FAMC @F332@
+0 @I1029@ INDI
+1 NAME Jada /Ashby/
+1 SEX F
+1 BIRT
+2 DATE 29 Aug 1997
+1 FAMC @F331@
+0 @I1030@ INDI
+1 NAME Lula /Richardson/
+1 SEX F
+1 BIRT
+2 DATE 2 Sep 1948
+1 FAMS @F330@
+0 @I1031@ INDI
+1 NAME Darius /Perry/
+1 SEX M
+1 BIRT
+2 DATE 19 Sep 1992
+1 FAMC @F331@
+0 @I1032@ INDI
+1 NAME Sandra /M./
+1 SEX F
+1 BIRT
+2 DATE 28 Dec 1947
+1 FAMS @F326@
+0 @I1033@ INDI
+1 NAME Brianna /Sims/
+1 SEX F
+1 BIRT
+2 DATE 30 Aug 2001
+1 FAMC @F080@
+0 @I1034@ INDI
+1 NAME Aiyo /Price/
+1 SEX F
+1 BIRT
+2 DATE 16 Sep 2004
+1 FAMC @F332@
+0 @I1035@ INDI
+1 NAME Mr /Price/
+1 SEX M
+1 FAMS @F332@
+0 @I1036@ INDI
+1 NAME Quiyamah Niarie /Stevens/
+1 SEX F
+1 BIRT
+2 DATE 11 Nov 1994
+1 FAMC @F204@
+0 @I1037@ INDI
+1 NAME Lakim /Stevens/
+1 SEX M
+1 FAMS @F204@
+0 @I1038@ INDI
+1 NAME Sa'De Brianna /Stevens/
+1 SEX F
+1 BIRT
+2 DATE 3 Dec 1996
+1 FAMC @F204@
+0 @I1039@ INDI
+1 NAME Nadya Juvenia /Stevens/
+1 SEX F
+1 BIRT
+2 DATE 21 Apr 1993
+1 FAMC @F204@
+0 @I1040@ INDI
+1 NAME Danielle Alicia /Warner/
+1 SEX F
+1 BIRT
+2 DATE 9 Sep 1962
+1 CHR
+2 PLAC Nurse
+1 FAMC @F200@
+0 @I1041@ INDI
+1 NAME /Mss/
+1 SEX F
+1 FAMS @F311@
+0 @I1042@ INDI
+1 NAME Shauna Boyd /Wagner/
+1 SEX F
+1 BIRT
+2 DATE 25 Apr 1973
+2 PLAC Columbia, SC
+1 FAMS @F064@
+1 FAMC @F121@
+0 @I1043@ INDI
+1 NAME Prentice Lavell /Boyd/
+1 SEX M
+1 BIRT
+2 DATE 12 Sep 1977
+2 PLAC Columbia, SC
+1 FAMS @F325@
+1 FAMC @F121@
+0 @I1044@ INDI
+1 NAME Petrore Pierre /Boyd/
+1 SEX M
+1 BIRT
+2 DATE 23 Mar 1971
+2 PLAC Columbia, SC
+1 FAMS @F206@
+1 FAMC @F121@
+0 @I1045@ INDI
+1 NAME /Sylvia/
+1 SEX F
+1 FAMS @F131@
+0 @I1046@ INDI
+1 NAME Charles /Davis/
+1 SEX M
+1 FAMC @F131@
+0 @I1047@ INDI
+1 NAME Henry /Davis/
+1 SEX M
+1 FAMC @F131@
+0 @I1048@ INDI
+1 NAME Samual /Davis/
+1 SEX M
+1 BIRT
+2 DATE 1805
+2 PLAC SC
+1 FAMS @F099@
+0 @I1049@ INDI
+1 NAME Ivy /Henderson/
+1 SEX F
+1 FAMC @F333@
+0 @I1050@ INDI
+1 NAME Melody Renee /Davis/
+1 SEX F
+1 BIRT
+2 DATE 26 Jul 1966
+1 FAMC @F336@
+0 @I1051@ INDI
+1 NAME James Robert /Boyd/
+1 SEX M
+1 BIRT
+2 DATE 7 Jul 1985
+1 FAMC @F121@
+0 @I1052@ INDI
+1 NAME Chazmine Tiarra /Boyd/
+1 SEX F
+1 BIRT
+2 DATE 19 Aug 1991
+1 FAMC @F206@
+0 @I1053@ INDI
+1 NAME Tara Tiera /Boyd/
+1 SEX F
+1 BIRT
+2 DATE 4 Feb 1993
+1 FAMC @F206@
+0 @I1054@ INDI
+1 NAME Jamie Lee /Monroe/
+1 SEX F
+1 FAMS @F206@
+0 @I1055@ INDI
+1 NAME Jalen Shaqull /Boyd/
+1 SEX M
+1 BIRT
+2 DATE 25 Sep 1994
+1 FAMC @F325@
+0 @I1056@ INDI
+1 NAME Shaquetta /Thorton/
+1 SEX F
+1 FAMS @F325@
+0 @I1057@ INDI
+1 NAME Deasia /Boyd/
+1 SEX F
+1 BIRT
+2 DATE 8 Aug 1996
+1 FAMC @F325@
+0 @I1058@ INDI
+1 NAME Jarean /Boyd/
+1 SEX M
+1 BIRT
+2 DATE 2 Oct 1998
+1 FAMC @F325@
+0 @I1059@ INDI
+1 NAME Jeremiah /Boyd/
+1 SEX F
+1 BIRT
+2 DATE 20 Mar 2001
+1 FAMC @F325@
+0 @I1060@ INDI
+1 NAME Jefferson /Wagner/
+1 SEX M
+1 BIRT
+2 DATE 28 Sep 1971
+1 FAMS @F064@
+0 @I1061@ INDI
+1 NAME Deletha /Vivens/
+1 SEX F
+1 FAMS @F066@
+0 @I1062@ INDI
+1 NAME Torrah Daniel /Richardson/
+1 SEX F
+1 BIRT
+2 DATE 30 Mar 1986
+1 FAMC @F066@
+0 @I1063@ INDI
+1 NAME Devin Bernard /Richardson/
+1 SEX M
+1 BIRT
+2 DATE 21 Dec 1990
+1 FAMC @F066@
+0 @I1064@ INDI
+1 NAME Kim /Davis/
+1 SEX F
+1 FAMC @F337@
+0 @I1065@ INDI
+1 NAME George /Evans/
+1 SEX M
+1 FAMS @F339@
+0 @I1066@ INDI
+1 NAME Charles /Lyles/
+1 SEX M
+1 FAMS @F338@
+0 @I1067@ INDI
+1 NAME /Cheyenne/
+1 SEX F
+1 FAMC @F202@
+0 @I1068@ INDI
+1 NAME Tiana /Hart/
+1 SEX F
+1 BIRT
+2 DATE 21 Sep 2004
+1 FAMC @F340@
+0 @I1069@ INDI
+1 NAME Lisa /Conners/
+1 SEX F
+1 BIRT
+2 DATE 26 Sep 1968
+1 FAMS @F202@
+0 @I1070@ INDI
+1 NAME Agnes /Davis/
+1 SEX F
+1 BIRT
+2 DATE 1804
+2 PLAC VA
+1 FAMS @F099@
+0 @I1071@ INDI
+1 NAME Mr /Brown/
+1 SEX M
+1 FAMS @F334@
+0 @I1072@ INDI
+1 NAME Matthew /Davis/
+1 SEX M
+1 FAMC @F134@
+0 @I1073@ INDI
+1 NAME Isiah Ivere /Davis/
+1 ALIA /Punch/
+1 SEX M
+1 FAMC @F134@
+0 @I1074@ INDI
+1 NAME Thomas /Davis/
+1 SEX M
+1 FAMC @F134@
+0 @I1075@ INDI
+1 NAME Timmothy /Davis/
+1 SEX M
+1 FAMC @F134@
+0 @I1076@ INDI
+1 NAME Daniel /Davis/
+1 SEX M
+1 FAMC @F134@
+0 @I1077@ INDI
+1 NAME David /Davis/
+1 SEX M
+1 FAMC @F134@
+0 @I1078@ INDI
+1 NAME James Robert /Davis/
+1 SEX M
+1 FAMC @F134@
+0 @I1079@ INDI
+1 NAME Titus /Davis/
+1 SEX M
+1 FAMC @F134@
+0 @I1080@ INDI
+1 NAME Samuel /Davis/
+1 SEX M
+1 FAMC @F134@
+0 @I1081@ INDI
+1 NAME Betty Pearline /Davis/
+1 SEX F
+1 FAMC @F134@
+0 @I1082@ INDI
+1 NAME Vickie Marie /Davis/
+1 SEX F
+1 FAMC @F134@
+0 @I1083@ INDI
+1 NAME Jesi /Myers/
+1 SEX F
+1 FAMS @F172@
+0 @I1084@ INDI
+1 NAME Peter David /Smith/
+1 SEX M
+1 FAMS @F335@
+0 @I1085@ INDI
+1 NAME Lisa /Pearson/
+1 SEX F
+1 FAMC @F341@
+0 @I1086@ INDI
+1 NAME Herbert Lee /Goodson/
+1 SEX M
+1 BIRT
+2 DATE 30 Sep 1999
+1 FAMC @F322@
+0 @I1087@ INDI
+1 NAME Thelma A. /Baskerville/
+1 SEX F
+1 FAMS @F061@
+0 @I1088@ INDI
+1 NAME Shanquitta /Baskerville/
+1 SEX F
+1 BIRT
+2 DATE 3 May 1991
+1 FAMC @F061@
+0 @I1089@ INDI
+1 NAME Paul L. III /Baskerville/
+1 SEX M
+1 BIRT
+2 DATE 6 Apr 1996
+1 FAMC @F061@
+0 @F001@ FAM
+1 HUSB @I0001@
+1 WIFE @I0112@
+1 CHIL @I0159@
+1 CHIL @I0170@
+1 MARR
+2 DATE 10 Oct 1984
+2 PLAC WEST COLUMBIA, SOUTH CAROLINA
+0 @F002@ FAM
+1 HUSB @I0167@
+1 WIFE @I0168@
+1 CHIL @I0169@
+1 CHIL @I0171@
+0 @F003@ FAM
+1 HUSB @I0172@
+1 WIFE @I0173@
+1 CHIL @I0174@
+1 CHIL @I0175@
+1 CHIL @I0176@
+1 CHIL @I0177@
+1 CHIL @I0863@
+1 CHIL @I0864@
+1 CHIL @I0865@
+1 MARR
+2 DATE 3 Aug 1984
+2 PLAC RICHLAND COUNTY
+0 @F004@ FAM
+1 HUSB @I0178@
+1 WIFE @I0179@
+1 CHIL @I0180@
+0 @F005@ FAM
+1 WIFE @I0180@
+1 CHIL @I0183@
+1 CHIL @I0184@
+1 CHIL @I0185@
+0 @F006@ FAM
+1 HUSB @I0186@
+1 WIFE @I0187@
+1 CHIL @I0188@
+0 @F007@ FAM
+1 HUSB @I0186@
+1 WIFE @I0189@
+0 @F008@ FAM
+1 HUSB @I0191@
+1 WIFE @I0193@
+1 CHIL @I0194@
+1 CHIL @I0195@
+1 CHIL @I0241@
+0 @F009@ FAM
+1 HUSB @I0196@
+1 WIFE @I0197@
+1 CHIL @I0198@
+1 CHIL @I0199@
+1 CHIL @I0204@
+1 CHIL @I0179@
+1 CHIL @I0205@
+1 CHIL @I0192@
+1 CHIL @I0200@
+1 CHIL @I0497@
+1 MARR
+2 DATE 11 Apr 1917
+0 @F010@ FAM
+1 HUSB @I0208@
+1 WIFE @I0204@
+1 CHIL @I0186@
+1 CHIL @I0172@
+1 CHIL @I0167@
+1 CHIL @I0193@
+0 @F011@ FAM
+1 HUSB @I0181@
+1 WIFE @I0192@
+1 CHIL @I0203@
+1 CHIL @I0224@
+1 CHIL @I0213@
+1 CHIL @I0002@
+1 CHIL @I0013@
+1 CHIL @I0024@
+1 CHIL @I0001@
+1 MARR
+2 PLAC COLUMBIA, SC
+0 @F012@ FAM
+1 WIFE @I0210@
+1 CHIL @I0112@
+1 CHIL @I0903@
+1 CHIL @I0904@
+1 CHIL @I0905@
+1 CHIL @I0906@
+0 @F013@ FAM
+1 HUSB @I0211@
+1 WIFE @I0212@
+1 CHIL @I0214@
+1 CHIL @I0215@
+1 CHIL @I0216@
+1 CHIL @I0217@
+1 CHIL @I0218@
+1 CHIL @I0219@
+1 CHIL @I0220@
+1 MARR
+2 PLAC Fairfield County, SC
+0 @F014@ FAM
+1 HUSB @I0214@
+1 WIFE @I0221@
+1 CHIL @I0222@
+1 CHIL @I0223@
+1 CHIL @I0225@
+1 CHIL @I0226@
+1 CHIL @I0227@
+1 CHIL @I0228@
+1 CHIL @I0229@
+1 CHIL @I0231@
+1 CHIL @I0232@
+1 CHIL @I0044@
+0 @F015@ FAM
+1 HUSB @I0219@
+1 WIFE @I0233@
+1 CHIL @I0234@
+1 CHIL @I0003@
+1 CHIL @I0004@
+1 CHIL @I0006@
+1 CHIL @I0007@
+1 CHIL @I0008@
+1 CHIL @I0009@
+1 CHIL @I0010@
+1 CHIL @I0011@
+1 CHIL @I0114@
+1 CHIL @I0197@
+1 MARR
+2 DATE Oct 1893
+2 PLAC Fairfield County
+0 @F016@ FAM
+1 HUSB @I0015@
+1 WIFE @I0016@
+1 CHIL @I0017@
+1 CHIL @I0145@
+1 CHIL @I0147@
+0 @F017@ FAM
+1 HUSB @I0018@
+1 WIFE @I0222@
+1 CHIL @I0019@
+0 @F018@ FAM
+1 HUSB @I0020@
+1 WIFE @I0019@
+0 @F019@ FAM
+1 HUSB @I0223@
+1 WIFE @I0021@
+1 CHIL @I0022@
+1 CHIL @I0023@
+0 @F020@ FAM
+1 HUSB @I0025@
+1 WIFE @I0022@
+1 CHIL @I0026@
+1 CHIL @I0027@
+0 @F021@ FAM
+1 HUSB @I0035@
+1 WIFE @I0203@
+1 CHIL @I0057@
+1 CHIL @I0016@
+1 MARR
+2 PLAC COLUMBIA, SC
+0 @F022@ FAM
+1 HUSB @I0028@
+1 WIFE @I0225@
+1 CHIL @I0029@
+0 @F023@ FAM
+1 HUSB @I0226@
+1 WIFE @I0030@
+0 @F024@ FAM
+1 HUSB @I0031@
+1 WIFE @I0227@
+1 CHIL @I0032@
+0 @F025@ FAM
+1 HUSB @I0032@
+1 WIFE @I0033@
+0 @F026@ FAM
+1 HUSB @I0201@
+1 WIFE @I0205@
+1 CHIL @I0047@
+1 CHIL @I0048@
+1 CHIL @I0049@
+0 @F027@ FAM
+1 HUSB @I0012@
+1 WIFE @I0049@
+0 @F028@ FAM
+1 HUSB @I0051@
+1 WIFE @I0052@
+1 CHIL @I0053@
+1 CHIL @I0054@
+1 CHIL @I0055@
+1 CHIL @I0056@
+1 CHIL @I0058@
+0 @F029@ FAM
+1 HUSB @I0060@
+1 WIFE @I0061@
+0 @F030@ FAM
+1 HUSB @I0068@
+1 WIFE @I0024@
+1 CHIL @I0079@
+1 CHIL @I0090@
+1 CHIL @I0166@
+1 MARR
+2 PLAC COLUMBIA, SC
+0 @F031@ FAM
+1 HUSB @I0198@
+1 CHIL @I0067@
+1 CHIL @I0064@
+0 @F032@ FAM
+1 HUSB @I0231@
+1 WIFE @I0069@
+1 CHIL @I0070@
+1 CHIL @I0071@
+1 CHIL @I0072@
+1 CHIL @I0073@
+1 CHIL @I0074@
+1 CHIL @I0075@
+1 CHIL @I0076@
+1 CHIL @I0077@
+1 CHIL @I0078@
+1 CHIL @I0080@
+1 CHIL @I0081@
+0 @F033@ FAM
+1 HUSB @I0082@
+1 WIFE @I0070@
+1 CHIL @I0083@
+1 CHIL @I0084@
+0 @F034@ FAM
+1 HUSB @I0085@
+1 WIFE @I0071@
+1 CHIL @I0086@
+0 @F035@ FAM
+1 HUSB @I0087@
+1 WIFE @I0072@
+1 CHIL @I0088@
+1 CHIL @I0089@
+0 @F036@ FAM
+1 HUSB @I0091@
+1 WIFE @I0086@
+1 CHIL @I0092@
+1 CHIL @I0093@
+1 CHIL @I0094@
+1 CHIL @I0095@
+1 CHIL @I0096@
+0 @F037@ FAM
+1 HUSB @I0097@
+1 WIFE @I0098@
+1 CHIL @I0099@
+1 CHIL @I0100@
+1 CHIL @I0102@
+0 @F038@ FAM
+1 WIFE @I0048@
+1 CHIL @I0182@
+1 CHIL @I0103@
+1 CHIL @I0066@
+0 @F039@ FAM
+1 HUSB @I0075@
+1 WIFE @I0104@
+0 @F040@ FAM
+1 HUSB @I0004@
+1 WIFE @I0105@
+1 CHIL @I0106@
+1 CHIL @I0107@
+1 CHIL @I0108@
+1 CHIL @I0109@
+0 @F041@ FAM
+1 HUSB @I0111@
+1 WIFE @I0114@
+1 CHIL @I0115@
+1 CHIL @I0116@
+1 CHIL @I0117@
+1 CHIL @I0118@
+1 CHIL @I0119@
+0 @F042@ FAM
+1 HUSB @I0115@
+1 WIFE @I0120@
+1 CHIL @I0432@
+1 CHIL @I0433@
+0 @F043@ FAM
+1 HUSB @I0116@
+1 WIFE @I0121@
+1 CHIL @I0394@
+1 CHIL @I0393@
+1 CHIL @I0425@
+1 CHIL @I0426@
+1 CHIL @I0427@
+1 CHIL @I0428@
+1 CHIL @I0429@
+1 CHIL @I0430@
+1 CHIL @I0431@
+0 @F044@ FAM
+1 HUSB @I0037@
+1 WIFE @I0044@
+1 CHIL @I0040@
+1 CHIL @I0039@
+1 CHIL @I0038@
+1 CHIL @I0043@
+0 @F045@ FAM
+1 HUSB @I0119@
+1 WIFE @I0123@
+1 CHIL @I0125@
+1 CHIL @I0126@
+1 CHIL @I0127@
+1 CHIL @I0128@
+1 CHIL @I0129@
+0 @F046@ FAM
+1 HUSB @I0125@
+1 WIFE @I0131@
+0 @F047@ FAM
+1 WIFE @I0128@
+1 CHIL @I0133@
+0 @F048@ FAM
+1 HUSB @I0129@
+1 WIFE @I0134@
+1 CHIL @I0136@
+1 CHIL @I0137@
+0 @F049@ FAM
+1 HUSB @I0213@
+1 WIFE @I0146@
+1 CHIL @I0153@
+1 CHIL @I0154@
+1 MARR
+2 DATE 1 Jun 1975
+2 PLAC COLUMBIA, SC
+0 @F050@ FAM
+1 HUSB @I0138@
+1 WIFE @I0006@
+1 CHIL @I0139@
+1 CHIL @I0140@
+1 CHIL @I0141@
+1 CHIL @I0142@
+1 CHIL @I0706@
+1 CHIL @I0714@
+1 CHIL @I0143@
+0 @F051@ FAM
+1 HUSB @I0144@
+1 WIFE @I0139@
+1 CHIL @I0151@
+1 CHIL @I0715@
+1 CHIL @I0716@
+0 @F052@ FAM
+1 HUSB @I0148@
+1 WIFE @I0160@
+1 CHIL @I0149@
+1 CHIL @I0235@
+1 CHIL @I0236@
+0 @F053@ FAM
+1 WIFE @I0163@
+1 CHIL @I0152@
+0 @F054@ FAM
+1 HUSB @I0101@
+1 WIFE @I0013@
+1 CHIL @I0155@
+1 MARR
+2 PLAC COLUMBIA, SC
+0 @F055@ FAM
+1 HUSB @I0157@
+1 WIFE @I0224@
+1 CHIL @I0160@
+1 MARR
+2 PLAC COLUMBIA, SC
+0 @F056@ FAM
+1 HUSB @I0161@
+1 WIFE @I0002@
+1 CHIL @I0162@
+1 CHIL @I0163@
+1 CHIL @I0164@
+1 CHIL @I0165@
+0 @F057@ FAM
+1 HUSB @I0292@
+1 WIFE @I0224@
+1 CHIL @I0158@
+0 @F058@ FAM
+1 WIFE @I0637@
+1 CHIL @I1009@
+0 @F059@ FAM
+1 HUSB @I1009@
+1 WIFE @I1012@
+1 CHIL @I1010@
+1 CHIL @I1011@
+0 @F060@ FAM
+1 HUSB @I0989@
+1 WIFE @I0988@
+1 CHIL @I0990@
+1 CHIL @I0991@
+1 CHIL @I0992@
+0 @F061@ FAM
+1 HUSB @I0831@
+1 WIFE @I1087@
+1 CHIL @I1088@
+1 CHIL @I1089@
+0 @F062@ FAM
+1 HUSB @I0295@
+1 CHIL @I0877@
+1 CHIL @I0879@
+0 @F063@ FAM
+1 HUSB @I0877@
+1 CHIL @I0878@
+0 @F064@ FAM
+1 HUSB @I1060@
+1 WIFE @I1042@
+0 @F065@ FAM
+1 HUSB @I0162@
+1 WIFE @I1008@
+1 CHIL @I0239@
+1 CHIL @I1007@
+0 @F066@ FAM
+1 HUSB @I0348@
+1 WIFE @I1061@
+1 CHIL @I1062@
+1 CHIL @I1063@
+0 @F067@ FAM
+1 HUSB @I0934@
+1 WIFE @I0112@
+1 CHIL @I0897@
+0 @F068@ FAM
+1 HUSB @I0912@
+1 WIFE @I0013@
+1 CHIL @I0156@
+0 @F069@ FAM
+1 HUSB @I0915@
+1 WIFE @I0158@
+1 CHIL @I0237@
+0 @F070@ FAM
+1 HUSB @I0240@
+1 WIFE @I0079@
+1 CHIL @I0150@
+0 @F071@ FAM
+1 HUSB @I0244@
+1 WIFE @I0024@
+0 @F072@ FAM
+1 HUSB @I0242@
+1 WIFE @I0182@
+1 CHIL @I0063@
+1 CHIL @I0062@
+1 CHIL @I0135@
+0 @F073@ FAM
+1 HUSB @I0243@
+1 WIFE @I0182@
+0 @F074@ FAM
+1 HUSB @I0003@
+1 WIFE @I0377@
+1 CHIL @I0245@
+1 CHIL @I0246@
+1 CHIL @I0247@
+1 CHIL @I0248@
+1 CHIL @I0249@
+1 CHIL @I0250@
+1 CHIL @I0385@
+1 CHIL @I0387@
+1 CHIL @I0389@
+1 CHIL @I0392@
+0 @F075@ FAM
+1 HUSB @I0376@
+1 WIFE @I0710@
+1 CHIL @I0711@
+0 @F076@ FAM
+1 HUSB @I0059@
+1 WIFE @I0501@
+1 CHIL @I0369@
+1 CHIL @I0130@
+1 CHIL @I0132@
+0 @F077@ FAM
+1 HUSB @I0868@
+1 WIFE @I0867@
+1 CHIL @I0869@
+0 @F078@ FAM
+1 WIFE @I0045@
+1 CHIL @I0251@
+1 CHIL @I0252@
+0 @F079@ FAM
+1 HUSB @I0258@
+1 WIFE @I0199@
+1 CHIL @I0253@
+1 CHIL @I0254@
+1 CHIL @I0255@
+1 CHIL @I0256@
+1 CHIL @I0257@
+1 MARR
+2 DATE 1940
+2 PLAC Columbia, SC
+0 @F080@ FAM
+1 WIFE @I0354@
+1 CHIL @I1033@
+0 @F081@ FAM
+1 HUSB @I0254@
+1 CHIL @I0259@
+1 CHIL @I0260@
+1 CHIL @I0261@
+1 CHIL @I0262@
+0 @F082@ FAM
+1 HUSB @I0255@
+1 WIFE @I0264@
+1 CHIL @I0238@
+1 CHIL @I0014@
+1 CHIL @I0209@
+1 CHIL @I0263@
+0 @F083@ FAM
+1 HUSB @I0253@
+1 WIFE @I0265@
+1 CHIL @I0860@
+1 CHIL @I0861@
+1 CHIL @I0987@
+1 CHIL @I0988@
+0 @F084@ FAM
+1 HUSB @I0256@
+1 WIFE @I0266@
+1 MARR
+2 PLAC California
+0 @F085@ FAM
+1 HUSB @I0238@
+1 WIFE @I0267@
+1 CHIL @I0285@
+1 MARR
+2 DATE 26 Sep 1997
+2 PLAC Columbia, SC
+0 @F086@ FAM
+1 HUSB @I0007@
+1 WIFE @I0046@
+1 CHIL @I0268@
+1 CHIL @I0269@
+1 CHIL @I0270@
+1 CHIL @I0271@
+1 CHIL @I0272@
+1 CHIL @I0273@
+1 CHIL @I0274@
+1 CHIL @I0275@
+1 CHIL @I0276@
+1 CHIL @I0277@
+1 CHIL @I0278@
+1 CHIL @I0434@
+0 @F087@ FAM
+1 HUSB @I0943@
+1 WIFE @I0935@
+1 CHIL @I0181@
+1 CHIL @I0937@
+1 CHIL @I0938@
+1 CHIL @I0939@
+1 CHIL @I0940@
+1 CHIL @I0941@
+1 CHIL @I0942@
+0 @F088@ FAM
+1 HUSB @I0271@
+1 WIFE @I0279@
+1 CHIL @I0280@
+1 CHIL @I0281@
+1 CHIL @I0282@
+0 @F089@ FAM
+1 HUSB @I0283@
+1 WIFE @I0280@
+1 CHIL @I0284@
+1 CHIL @I0913@
+1 CHIL @I1019@
+1 MARR
+2 PLAC Columbia, SC
+0 @F090@ FAM
+1 HUSB @I0010@
+1 WIFE @I0286@
+1 CHIL @I0287@
+0 @F091@ FAM
+1 HUSB @I0288@
+1 WIFE @I0287@
+1 CHIL @I0289@
+1 CHIL @I0290@
+1 CHIL @I0328@
+1 CHIL @I0329@
+1 CHIL @I0330@
+1 CHIL @I0331@
+1 CHIL @I0332@
+1 CHIL @I0333@
+0 @F092@ FAM
+1 WIFE @I0188@
+1 CHIL @I0291@
+0 @F093@ FAM
+1 HUSB @I0008@
+1 WIFE @I0327@
+1 CHIL @I0293@
+1 CHIL @I0294@
+1 CHIL @I0295@
+1 CHIL @I0299@
+1 CHIL @I0306@
+1 CHIL @I0326@
+1 CHIL @I0298@
+1 CHIL @I0296@
+1 CHIL @I0875@
+0 @F094@ FAM
+1 HUSB @I0299@
+1 WIFE @I0300@
+1 CHIL @I0301@
+0 @F095@ FAM
+1 HUSB @I0301@
+1 CHIL @I0302@
+0 @F096@ FAM
+1 HUSB @I0108@
+1 WIFE @I0303@
+0 @F097@ FAM
+1 HUSB @I0106@
+1 WIFE @I0304@
+1 CHIL @I0309@
+1 CHIL @I0110@
+1 CHIL @I0305@
+1 CHIL @I0867@
+1 CHIL @I0870@
+1 CHIL @I0871@
+1 MARR
+2 DATE 23 Jul
+0 @F098@ FAM
+1 HUSB @I0109@
+1 CHIL @I0307@
+1 CHIL @I0308@
+0 @F099@ FAM
+1 HUSB @I1048@
+1 WIFE @I1070@
+1 CHIL @I0211@
+1 CHIL @I0122@
+1 CHIL @I0503@
+0 @F100@ FAM
+1 HUSB @I0502@
+1 WIFE @I0122@
+1 CHIL @I0501@
+1 CHIL @I0500@
+1 CHIL @I0499@
+0 @F101@ FAM
+1 HUSB @I0011@
+1 WIFE @I0310@
+0 @F102@ FAM
+1 HUSB @I0312@
+1 WIFE @I0009@
+1 CHIL @I0311@
+0 @F103@ FAM
+1 HUSB @I0270@
+1 WIFE @I0315@
+1 CHIL @I0313@
+1 CHIL @I0314@
+0 @F104@ FAM
+1 HUSB @I0272@
+1 WIFE @I0401@
+1 CHIL @I0844@
+1 CHIL @I0845@
+1 CHIL @I0846@
+1 CHIL @I0847@
+0 @F105@ FAM
+1 HUSB @I0073@
+1 WIFE @I0034@
+1 CHIL @I0230@
+1 CHIL @I0880@
+1 CHIL @I0881@
+0 @F106@ FAM
+1 HUSB @I0882@
+1 WIFE @I0232@
+1 CHIL @I0883@
+0 @F107@ FAM
+1 HUSB @I0884@
+1 WIFE @I0228@
+0 @F108@ FAM
+1 HUSB @I0885@
+1 WIFE @I0229@
+0 @F109@ FAM
+1 HUSB @I0886@
+1 WIFE @I0217@
+1 CHIL @I0887@
+0 @F110@ FAM
+1 HUSB @I0466@
+1 WIFE @I0042@
+1 CHIL @I1023@
+0 @F111@ FAM
+1 HUSB @I0321@
+1 WIFE @I0276@
+1 CHIL @I0322@
+1 CHIL @I0323@
+1 CHIL @I0324@
+1 CHIL @I0416@
+0 @F112@ FAM
+1 HUSB @I0325@
+1 WIFE @I0277@
+1 CHIL @I0417@
+1 CHIL @I0418@
+1 CHIL @I0419@
+1 CHIL @I0420@
+1 CHIL @I0421@
+1 MARR
+2 PLAC Columbia, SC
+0 @F113@ FAM
+1 WIFE @I0245@
+1 CHIL @I0334@
+1 CHIL @I0335@
+1 CHIL @I0336@
+0 @F114@ FAM
+1 HUSB @I0334@
+1 WIFE @I0337@
+1 MARR
+2 PLAC North Carolina
+0 @F115@ FAM
+1 HUSB @I0036@
+1 WIFE @I0464@
+1 CHIL @I0466@
+1 CHIL @I0467@
+0 @F116@ FAM
+1 HUSB @I0338@
+1 WIFE @I0336@
+1 CHIL @I0339@
+0 @F117@ FAM
+1 HUSB @I0378@
+1 WIFE @I0246@
+1 CHIL @I0340@
+1 CHIL @I0379@
+0 @F118@ FAM
+1 HUSB @I0340@
+1 WIFE @I0341@
+0 @F119@ FAM
+1 HUSB @I0247@
+1 WIFE @I0380@
+1 CHIL @I0342@
+1 CHIL @I0343@
+1 CHIL @I0344@
+1 CHIL @I0345@
+1 CHIL @I0712@
+0 @F120@ FAM
+1 HUSB @I0383@
+1 WIFE @I0250@
+1 CHIL @I0346@
+1 CHIL @I0347@
+1 CHIL @I0348@
+1 CHIL @I0384@
+0 @F121@ FAM
+1 HUSB @I0349@
+1 WIFE @I0347@
+1 CHIL @I1042@
+1 CHIL @I1043@
+1 CHIL @I1044@
+1 CHIL @I1051@
+0 @F122@ FAM
+1 HUSB @I0381@
+1 WIFE @I0248@
+1 CHIL @I0376@
+0 @F123@ FAM
+1 HUSB @I0359@
+1 WIFE @I0140@
+1 CHIL @I0351@
+1 CHIL @I0352@
+1 CHIL @I0368@
+0 @F124@ FAM
+1 HUSB @I0351@
+1 WIFE @I0353@
+1 CHIL @I0358@
+0 @F125@ FAM
+1 HUSB @I0360@
+1 WIFE @I0352@
+1 CHIL @I0355@
+1 CHIL @I0356@
+1 CHIL @I0357@
+0 @F126@ FAM
+1 HUSB @I0141@
+1 WIFE @I0732@
+1 CHIL @I0361@
+1 CHIL @I0365@
+1 CHIL @I0366@
+1 CHIL @I0367@
+1 CHIL @I0733@
+1 CHIL @I0734@
+1 CHIL @I0735@
+1 CHIL @I0736@
+1 CHIL @I0737@
+1 CHIL @I0738@
+1 CHIL @I0739@
+1 CHIL @I0740@
+1 CHIL @I0741@
+1 CHIL @I0742@
+0 @F127@ FAM
+1 HUSB @I0362@
+1 WIFE @I0361@
+1 CHIL @I0363@
+0 @F128@ FAM
+1 HUSB @I0822@
+1 WIFE @I0142@
+1 CHIL @I0370@
+1 CHIL @I0113@
+0 @F129@ FAM
+1 HUSB @I0607@
+1 WIFE @I0601@
+1 CHIL @I0606@
+1 CHIL @I0616@
+0 @F130@ FAM
+1 WIFE @I0878@
+1 CHIL @I0297@
+0 @F131@ FAM
+1 HUSB @I0218@
+1 WIFE @I1045@
+1 CHIL @I1046@
+1 CHIL @I1047@
+0 @F132@ FAM
+1 HUSB @I0234@
+1 WIFE @I0371@
+1 CHIL @I0372@
+1 CHIL @I0373@
+1 CHIL @I0707@
+1 CHIL @I0708@
+0 @F133@ FAM
+1 HUSB @I0350@
+1 WIFE @I0249@
+1 CHIL @I0382@
+0 @F134@ FAM
+1 HUSB @I0385@
+1 WIFE @I0386@
+1 CHIL @I1072@
+1 CHIL @I1073@
+1 CHIL @I1074@
+1 CHIL @I1075@
+1 CHIL @I1076@
+1 CHIL @I1077@
+1 CHIL @I1078@
+1 CHIL @I1079@
+1 CHIL @I1080@
+1 CHIL @I1081@
+1 CHIL @I1082@
+0 @F135@ FAM
+1 HUSB @I0387@
+1 WIFE @I0388@
+0 @F136@ FAM
+1 HUSB @I0390@
+1 WIFE @I0389@
+1 CHIL @I0391@
+0 @F137@ FAM
+1 HUSB @I0268@
+1 WIFE @I0395@
+0 @F138@ FAM
+1 HUSB @I0269@
+1 WIFE @I0396@
+1 CHIL @I0397@
+1 CHIL @I0398@
+1 CHIL @I0399@
+1 CHIL @I0400@
+0 @F139@ FAM
+1 HUSB @I0273@
+1 WIFE @I0408@
+1 CHIL @I0409@
+1 CHIL @I0410@
+1 CHIL @I0411@
+1 CHIL @I0412@
+0 @F140@ FAM
+1 WIFE @I0630@
+1 CHIL @I0639@
+1 CHIL @I0640@
+1 CHIL @I0641@
+0 @F141@ FAM
+1 HUSB @I0413@
+1 WIFE @I0409@
+0 @F142@ FAM
+1 HUSB @I0414@
+1 WIFE @I0274@
+1 CHIL @I0415@
+0 @F143@ FAM
+1 HUSB @I0422@
+1 WIFE @I0278@
+1 CHIL @I0423@
+1 CHIL @I0424@
+0 @F144@ FAM
+1 HUSB @I0494@
+1 CHIL @I0890@
+0 @F145@ FAM
+1 HUSB @I0495@
+1 CHIL @I0891@
+1 CHIL @I0892@
+0 @F146@ FAM
+1 HUSB @I0435@
+1 WIFE @I0434@
+1 CHIL @I0436@
+1 CHIL @I0441@
+1 CHIL @I0445@
+1 CHIL @I0456@
+1 CHIL @I0454@
+0 @F147@ FAM
+1 HUSB @I0436@
+1 WIFE @I0852@
+1 CHIL @I0438@
+1 CHIL @I0439@
+1 CHIL @I0440@
+0 @F148@ FAM
+1 HUSB @I0441@
+1 WIFE @I0442@
+1 CHIL @I0443@
+1 CHIL @I0444@
+0 @F149@ FAM
+1 HUSB @I0445@
+1 WIFE @I0446@
+1 CHIL @I0447@
+1 CHIL @I0448@
+1 CHIL @I0449@
+0 @F150@ FAM
+1 HUSB @I0457@
+1 WIFE @I0215@
+1 CHIL @I0458@
+0 @F151@ FAM
+1 HUSB @I0216@
+1 WIFE @I0459@
+1 CHIL @I0460@
+1 CHIL @I0492@
+1 CHIL @I0493@
+0 @F152@ FAM
+1 HUSB @I0461@
+1 WIFE @I0460@
+1 CHIL @I0462@
+1 CHIL @I0464@
+1 CHIL @I0471@
+1 CHIL @I0483@
+1 CHIL @I0487@
+0 @F153@ FAM
+1 HUSB @I0462@
+1 WIFE @I0463@
+1 CHIL @I0888@
+0 @F154@ FAM
+1 HUSB @I0465@
+1 WIFE @I0464@
+0 @F155@ FAM
+1 HUSB @I0468@
+1 WIFE @I0467@
+1 CHIL @I0469@
+1 CHIL @I0470@
+0 @F156@ FAM
+1 HUSB @I0472@
+1 WIFE @I0471@
+1 CHIL @I0473@
+1 CHIL @I0477@
+1 CHIL @I0480@
+1 CHIL @I0482@
+0 @F157@ FAM
+1 HUSB @I0474@
+1 WIFE @I0473@
+1 CHIL @I0475@
+1 CHIL @I0476@
+0 @F158@ FAM
+1 HUSB @I0477@
+1 WIFE @I0478@
+1 CHIL @I0479@
+0 @F159@ FAM
+1 HUSB @I0481@
+1 WIFE @I0480@
+0 @F160@ FAM
+1 HUSB @I0484@
+1 WIFE @I0483@
+1 CHIL @I0485@
+1 CHIL @I0486@
+0 @F161@ FAM
+1 HUSB @I0487@
+1 WIFE @I0488@
+1 CHIL @I0489@
+1 CHIL @I0490@
+1 CHIL @I0491@
+0 @F162@ FAM
+1 HUSB @I0889@
+1 WIFE @I0492@
+1 CHIL @I0494@
+1 CHIL @I0495@
+0 @F163@ FAM
+1 HUSB @I0496@
+1 WIFE @I0493@
+0 @F164@ FAM
+1 HUSB @I0497@
+1 WIFE @I0498@
+1 CHIL @I0504@
+0 @F165@ FAM
+1 HUSB @I0505@
+1 WIFE @I0220@
+1 CHIL @I0506@
+1 CHIL @I0507@
+1 CHIL @I0508@
+1 CHIL @I0526@
+1 CHIL @I0893@
+1 CHIL @I0533@
+1 CHIL @I0538@
+1 CHIL @I0543@
+1 CHIL @I0584@
+1 CHIL @I0895@
+0 @F166@ FAM
+1 WIFE @I0508@
+1 CHIL @I0509@
+0 @F167@ FAM
+1 HUSB @I0509@
+1 WIFE @I0510@
+1 CHIL @I0511@
+1 CHIL @I0512@
+1 CHIL @I0513@
+1 CHIL @I0514@
+1 CHIL @I0515@
+0 @F168@ FAM
+1 HUSB @I0511@
+1 WIFE @I0516@
+1 CHIL @I0517@
+1 CHIL @I0518@
+1 CHIL @I0519@
+1 CHIL @I0520@
+0 @F169@ FAM
+1 HUSB @I0521@
+1 WIFE @I0512@
+1 CHIL @I0522@
+1 CHIL @I0523@
+0 @F170@ FAM
+1 HUSB @I0513@
+1 WIFE @I0524@
+1 CHIL @I0930@
+1 CHIL @I0931@
+0 @F171@ FAM
+1 HUSB @I0525@
+1 WIFE @I0515@
+0 @F172@ FAM
+1 HUSB @I0511@
+1 WIFE @I1083@
+0 @F173@ FAM
+1 HUSB @I0529@
+1 WIFE @I0528@
+1 CHIL @I0530@
+1 CHIL @I0531@
+0 @F174@ FAM
+1 WIFE @I0530@
+1 CHIL @I0532@
+0 @F175@ FAM
+1 HUSB @I0533@
+1 WIFE @I0534@
+1 CHIL @I0535@
+1 CHIL @I0537@
+0 @F176@ FAM
+1 HUSB @I0536@
+1 WIFE @I0535@
+0 @F177@ FAM
+1 HUSB @I0538@
+1 WIFE @I0894@
+1 CHIL @I0539@
+0 @F178@ FAM
+1 HUSB @I0539@
+1 WIFE @I0540@
+1 CHIL @I0541@
+1 CHIL @I0542@
+0 @F179@ FAM
+1 HUSB @I0544@
+1 WIFE @I0543@
+1 CHIL @I0545@
+1 CHIL @I0559@
+1 CHIL @I0571@
+1 CHIL @I0574@
+1 CHIL @I0578@
+1 CHIL @I0581@
+0 @F180@ FAM
+1 HUSB @I0546@
+1 WIFE @I0545@
+1 CHIL @I0547@
+1 CHIL @I0552@
+1 CHIL @I0554@
+0 @F181@ FAM
+1 HUSB @I0191@
+1 WIFE @I0944@
+1 CHIL @I0945@
+1 CHIL @I0946@
+0 @F182@ FAM
+1 HUSB @I0947@
+1 WIFE @I0948@
+1 CHIL @I0191@
+1 CHIL @I0950@
+1 CHIL @I0951@
+1 CHIL @I0952@
+0 @F183@ FAM
+1 HUSB @I0550@
+1 WIFE @I0547@
+1 CHIL @I0549@
+1 CHIL @I0551@
+0 @F184@ FAM
+1 WIFE @I0552@
+1 CHIL @I0553@
+0 @F185@ FAM
+1 HUSB @I0555@
+1 WIFE @I0554@
+1 CHIL @I0556@
+1 CHIL @I0557@
+1 CHIL @I0558@
+0 @F186@ FAM
+1 HUSB @I0559@
+1 WIFE @I0560@
+1 CHIL @I0561@
+1 CHIL @I0565@
+1 CHIL @I0569@
+0 @F187@ FAM
+1 HUSB @I0561@
+1 WIFE @I0562@
+1 CHIL @I0563@
+1 CHIL @I0564@
+0 @F188@ FAM
+1 HUSB @I0566@
+1 WIFE @I0565@
+1 CHIL @I0567@
+1 CHIL @I0568@
+0 @F189@ FAM
+1 HUSB @I0569@
+1 CHIL @I0570@
+0 @F190@ FAM
+1 HUSB @I0571@
+1 WIFE @I0572@
+1 CHIL @I0573@
+0 @F191@ FAM
+1 HUSB @I0575@
+1 WIFE @I0574@
+1 CHIL @I0576@
+0 @F192@ FAM
+1 HUSB @I1027@
+1 WIFE @I0576@
+1 CHIL @I0577@
+0 @F193@ FAM
+1 WIFE @I0578@
+1 CHIL @I0579@
+0 @F194@ FAM
+1 WIFE @I0579@
+1 CHIL @I0580@
+0 @F195@ FAM
+1 HUSB @I0581@
+1 WIFE @I0582@
+1 CHIL @I0583@
+0 @F196@ FAM
+1 HUSB @I0124@
+1 WIFE @I0151@
+1 CHIL @I0730@
+1 CHIL @I0731@
+0 @F197@ FAM
+1 HUSB @I0358@
+1 CHIL @I0190@
+0 @F198@ FAM
+1 WIFE @I0130@
+1 CHIL @I0041@
+0 @F199@ FAM
+1 WIFE @I0132@
+1 CHIL @I0207@
+0 @F200@ FAM
+1 WIFE @I0207@
+1 CHIL @I0206@
+1 CHIL @I0202@
+1 CHIL @I0585@
+1 CHIL @I0586@
+1 CHIL @I1040@
+0 @F201@ FAM
+1 HUSB @I0206@
+1 CHIL @I0587@
+0 @F202@ FAM
+1 HUSB @I0202@
+1 WIFE @I1069@
+1 CHIL @I0588@
+1 CHIL @I0589@
+1 CHIL @I0590@
+1 CHIL @I0591@
+1 CHIL @I0592@
+1 CHIL @I0593@
+1 CHIL @I0594@
+1 CHIL @I0599@
+1 CHIL @I1067@
+0 @F203@ FAM
+1 WIFE @I0585@
+1 CHIL @I0595@
+0 @F204@ FAM
+1 HUSB @I1037@
+1 WIFE @I0586@
+1 CHIL @I0596@
+1 CHIL @I0597@
+1 CHIL @I0598@
+1 CHIL @I1036@
+1 CHIL @I1038@
+1 CHIL @I1039@
+0 @F205@ FAM
+1 WIFE @I0500@
+1 CHIL @I0600@
+1 CHIL @I0601@
+1 CHIL @I0602@
+1 CHIL @I0603@
+1 CHIL @I0604@
+1 CHIL @I0605@
+1 CHIL @I0610@
+0 @F206@ FAM
+1 HUSB @I1044@
+1 WIFE @I1054@
+1 CHIL @I1052@
+1 CHIL @I1053@
+0 @F207@ FAM
+1 HUSB @I0606@
+1 CHIL @I0608@
+1 CHIL @I0609@
+1 MARR
+2 PLAC Capitol Heights, Maryland
+0 @F208@ FAM
+1 HUSB @I0611@
+1 WIFE @I0600@
+1 CHIL @I0612@
+1 CHIL @I0613@
+1 CHIL @I0614@
+1 CHIL @I0615@
+0 @F209@ FAM
+1 HUSB @I0900@
+1 WIFE @I0169@
+1 CHIL @I0898@
+1 CHIL @I0899@
+0 @F210@ FAM
+1 WIFE @I0871@
+1 CHIL @I0872@
+0 @F211@ FAM
+1 HUSB @I0351@
+1 WIFE @I0873@
+1 CHIL @I0354@
+0 @F212@ FAM
+1 HUSB @I0503@
+1 WIFE @I0617@
+1 CHIL @I0618@
+1 CHIL @I0619@
+1 CHIL @I0620@
+1 CHIL @I0621@
+1 CHIL @I0622@
+1 CHIL @I0623@
+1 CHIL @I0624@
+1 CHIL @I0625@
+0 @F213@ FAM
+1 HUSB @I0626@
+1 WIFE @I0618@
+1 CHIL @I0627@
+1 CHIL @I0628@
+1 CHIL @I0629@
+1 CHIL @I0630@
+1 CHIL @I0631@
+1 CHIL @I0632@
+0 @F214@ FAM
+1 HUSB @I1018@
+1 WIFE @I0629@
+1 CHIL @I0633@
+1 CHIL @I0634@
+1 CHIL @I0635@
+1 CHIL @I0636@
+1 CHIL @I0637@
+1 CHIL @I0638@
+0 @F215@ FAM
+1 HUSB @I0631@
+1 WIFE @I0642@
+0 @F216@ FAM
+1 HUSB @I0632@
+1 WIFE @I0643@
+1 CHIL @I0644@
+1 CHIL @I0645@
+1 CHIL @I0646@
+1 CHIL @I0647@
+0 @F217@ FAM
+1 WIFE @I0644@
+1 CHIL @I0648@
+1 CHIL @I0649@
+0 @F218@ FAM
+1 HUSB @I0650@
+1 WIFE @I0619@
+1 CHIL @I0651@
+1 CHIL @I0652@
+0 @F219@ FAM
+1 WIFE @I0651@
+1 CHIL @I0653@
+1 CHIL @I0654@
+1 CHIL @I0655@
+1 CHIL @I0656@
+1 CHIL @I0657@
+0 @F220@ FAM
+1 WIFE @I0653@
+1 CHIL @I0658@
+1 CHIL @I0659@
+0 @F221@ FAM
+1 HUSB @I0660@
+1 WIFE @I0654@
+1 CHIL @I0661@
+1 CHIL @I0662@
+0 @F222@ FAM
+1 HUSB @I0661@
+1 CHIL @I0663@
+0 @F223@ FAM
+1 HUSB @I0655@
+1 WIFE @I0664@
+0 @F224@ FAM
+1 WIFE @I0656@
+1 CHIL @I0665@
+0 @F225@ FAM
+1 WIFE @I0665@
+1 CHIL @I0666@
+1 CHIL @I0667@
+1 CHIL @I0668@
+0 @F226@ FAM
+1 WIFE @I0657@
+1 CHIL @I0669@
+1 CHIL @I0670@
+0 @F227@ FAM
+1 WIFE @I0652@
+1 CHIL @I0671@
+0 @F228@ FAM
+1 WIFE @I0671@
+1 CHIL @I0672@
+1 CHIL @I0673@
+0 @F229@ FAM
+1 HUSB @I0674@
+1 WIFE @I0620@
+1 CHIL @I0675@
+0 @F230@ FAM
+1 WIFE @I0621@
+1 CHIL @I0676@
+1 CHIL @I0682@
+0 @F231@ FAM
+1 HUSB @I0676@
+1 CHIL @I0677@
+1 CHIL @I0681@
+0 @F232@ FAM
+1 WIFE @I0677@
+1 CHIL @I0678@
+1 CHIL @I0679@
+0 @F233@ FAM
+1 HUSB @I0678@
+1 CHIL @I0680@
+0 @F234@ FAM
+1 WIFE @I0682@
+1 CHIL @I0683@
+1 CHIL @I0684@
+0 @F235@ FAM
+1 HUSB @I0896@
+1 WIFE @I0683@
+1 CHIL @I0685@
+1 CHIL @I0686@
+0 @F236@ FAM
+1 HUSB @I0687@
+1 WIFE @I0623@
+1 CHIL @I0688@
+1 CHIL @I0689@
+1 CHIL @I0690@
+0 @F237@ FAM
+1 WIFE @I0690@
+1 CHIL @I0691@
+1 CHIL @I0692@
+0 @F238@ FAM
+1 HUSB @I0693@
+1 WIFE @I0624@
+1 CHIL @I0694@
+1 CHIL @I0695@
+1 CHIL @I0696@
+0 @F239@ FAM
+1 WIFE @I0695@
+1 CHIL @I0697@
+0 @F240@ FAM
+1 WIFE @I0696@
+1 CHIL @I0698@
+1 CHIL @I0699@
+1 CHIL @I0700@
+0 @F241@ FAM
+1 HUSB @I0701@
+1 WIFE @I0368@
+1 CHIL @I0702@
+1 CHIL @I0703@
+1 CHIL @I0704@
+0 @F242@ FAM
+1 WIFE @I0704@
+1 CHIL @I0705@
+0 @F243@ FAM
+1 HUSB @I0374@
+1 WIFE @I0373@
+0 @F244@ FAM
+1 HUSB @I0375@
+1 WIFE @I0707@
+1 CHIL @I0709@
+0 @F245@ FAM
+1 HUSB @I0717@
+1 WIFE @I0715@
+1 CHIL @I0718@
+1 CHIL @I0719@
+0 @F246@ FAM
+1 HUSB @I0843@
+1 WIFE @I0718@
+1 CHIL @I0720@
+1 CHIL @I0721@
+0 @F247@ FAM
+1 HUSB @I0722@
+1 WIFE @I0716@
+1 CHIL @I0723@
+1 CHIL @I0724@
+1 CHIL @I0725@
+1 CHIL @I0726@
+1 CHIL @I0727@
+0 @F248@ FAM
+1 HUSB @I0724@
+1 CHIL @I0728@
+1 CHIL @I0729@
+0 @F249@ FAM
+1 WIFE @I0363@
+1 CHIL @I0364@
+1 CHIL @I0743@
+1 CHIL @I0744@
+0 @F250@ FAM
+1 HUSB @I0365@
+1 CHIL @I0745@
+1 CHIL @I0746@
+1 CHIL @I0747@
+0 @F251@ FAM
+1 HUSB @I0748@
+1 WIFE @I0747@
+1 CHIL @I0749@
+1 CHIL @I0750@
+0 @F252@ FAM
+1 HUSB @I0366@
+1 WIFE @I0751@
+1 CHIL @I0752@
+1 CHIL @I0753@
+1 CHIL @I0754@
+1 CHIL @I0755@
+1 CHIL @I0756@
+1 CHIL @I0762@
+0 @F253@ FAM
+1 HUSB @I0752@
+1 CHIL @I0757@
+1 CHIL @I0758@
+0 @F254@ FAM
+1 HUSB @I0759@
+1 WIFE @I0756@
+1 CHIL @I0760@
+1 CHIL @I0761@
+0 @F255@ FAM
+1 HUSB @I0763@
+1 WIFE @I0367@
+1 CHIL @I0764@
+1 CHIL @I0765@
+1 CHIL @I0766@
+0 @F256@ FAM
+1 HUSB @I0764@
+1 CHIL @I0767@
+1 CHIL @I0768@
+1 CHIL @I0769@
+0 @F257@ FAM
+1 HUSB @I0770@
+1 WIFE @I0733@
+1 CHIL @I0771@
+1 CHIL @I0772@
+1 CHIL @I0773@
+1 CHIL @I0774@
+0 @F258@ FAM
+1 HUSB @I0772@
+1 CHIL @I0775@
+1 CHIL @I0776@
+0 @F259@ FAM
+1 WIFE @I0773@
+1 CHIL @I0777@
+1 CHIL @I0778@
+1 CHIL @I0779@
+0 @F260@ FAM
+1 WIFE @I0774@
+1 CHIL @I0780@
+0 @F261@ FAM
+1 HUSB @I0734@
+1 CHIL @I0781@
+1 CHIL @I0782@
+1 CHIL @I0783@
+1 CHIL @I0784@
+0 @F262@ FAM
+1 HUSB @I0735@
+1 CHIL @I0785@
+1 CHIL @I0786@
+1 CHIL @I0787@
+1 CHIL @I0788@
+1 CHIL @I0789@
+1 CHIL @I0790@
+1 CHIL @I0791@
+0 @F263@ FAM
+1 WIFE @I0785@
+1 CHIL @I0792@
+0 @F264@ FAM
+1 WIFE @I0786@
+1 CHIL @I0793@
+0 @F265@ FAM
+1 HUSB @I0787@
+1 CHIL @I0794@
+0 @F266@ FAM
+1 WIFE @I0789@
+1 CHIL @I0795@
+1 CHIL @I0796@
+0 @F267@ FAM
+1 WIFE @I0790@
+1 CHIL @I0797@
+0 @F268@ FAM
+1 WIFE @I0791@
+1 CHIL @I0798@
+1 CHIL @I0799@
+1 CHIL @I0800@
+1 CHIL @I0801@
+1 CHIL @I0802@
+1 CHIL @I0803@
+0 @F269@ FAM
+1 HUSB @I0736@
+1 WIFE @I0804@
+1 CHIL @I0805@
+1 CHIL @I0806@
+1 CHIL @I0807@
+0 @F270@ FAM
+1 HUSB @I0737@
+1 CHIL @I0808@
+1 CHIL @I0809@
+1 CHIL @I0810@
+0 @F271@ FAM
+1 HUSB @I0738@
+1 CHIL @I0811@
+1 CHIL @I0812@
+1 CHIL @I0813@
+1 CHIL @I0814@
+1 CHIL @I0815@
+0 @F272@ FAM
+1 WIFE @I0739@
+1 CHIL @I0816@
+1 CHIL @I0817@
+1 CHIL @I0818@
+0 @F273@ FAM
+1 HUSB @I0741@
+1 CHIL @I0819@
+1 CHIL @I0820@
+0 @F274@ FAM
+1 HUSB @I0821@
+1 WIFE @I0742@
+0 @F275@ FAM
+1 HUSB @I0823@
+1 WIFE @I0142@
+1 CHIL @I0824@
+1 CHIL @I0825@
+0 @F276@ FAM
+1 HUSB @I0826@
+1 WIFE @I0370@
+1 CHIL @I0827@
+1 CHIL @I0830@
+1 CHIL @I0831@
+0 @F277@ FAM
+1 WIFE @I0827@
+1 CHIL @I0828@
+1 CHIL @I0829@
+0 @F278@ FAM
+1 HUSB @I0113@
+1 WIFE @I0832@
+1 CHIL @I0833@
+1 CHIL @I0834@
+1 CHIL @I0835@
+1 CHIL @I0836@
+1 CHIL @I0837@
+0 @F279@ FAM
+1 HUSB @I0824@
+1 WIFE @I0838@
+1 CHIL @I0839@
+1 CHIL @I0840@
+0 @F280@ FAM
+1 HUSB @I0841@
+1 WIFE @I0825@
+1 CHIL @I0842@
+0 @F281@ FAM
+1 WIFE @I0293@
+1 CHIL @I0874@
+0 @F282@ FAM
+1 WIFE @I0875@
+1 CHIL @I0876@
+0 @F283@ FAM
+1 HUSB @I0272@
+1 WIFE @I0404@
+1 CHIL @I0406@
+1 CHIL @I0405@
+1 CHIL @I0320@
+1 CHIL @I0319@
+1 CHIL @I0318@
+1 CHIL @I0316@
+1 CHIL @I0317@
+0 @F284@ FAM
+1 HUSB @I0844@
+1 WIFE @I0848@
+1 CHIL @I0849@
+0 @F285@ FAM
+1 WIFE @I1014@
+1 CHIL @I1022@
+0 @F286@ FAM
+1 HUSB @I0403@
+1 WIFE @I0320@
+0 @F287@ FAM
+1 WIFE @I0323@
+1 CHIL @I0850@
+1 CHIL @I0851@
+0 @F288@ FAM
+1 HUSB @I0436@
+1 WIFE @I0437@
+0 @F289@ FAM
+1 WIFE @I0456@
+1 CHIL @I0453@
+1 CHIL @I0452@
+1 CHIL @I0451@
+1 CHIL @I0450@
+0 @F290@ FAM
+1 WIFE @I0454@
+1 CHIL @I0853@
+1 CHIL @I0854@
+1 CHIL @I0855@
+1 CHIL @I0856@
+0 @F291@ FAM
+1 HUSB @I0857@
+1 WIFE @I0311@
+1 CHIL @I0858@
+1 CHIL @I0859@
+0 @F292@ FAM
+1 HUSB @I0257@
+1 CHIL @I0862@
+0 @F293@ FAM
+1 HUSB @I0866@
+1 WIFE @I0002@
+0 @F294@ FAM
+1 HUSB @I0893@
+1 WIFE @I0527@
+1 CHIL @I0528@
+0 @F295@ FAM
+1 WIFE @I0985@
+1 CHIL @I0984@
+0 @F296@ FAM
+1 WIFE @I0986@
+1 CHIL @I0985@
+0 @F297@ FAM
+1 HUSB @I0181@
+1 WIFE @I0936@
+0 @F298@ FAM
+1 WIFE @I0916@
+1 CHIL @I0866@
+1 CHIL @I0961@
+1 CHIL @I0962@
+0 @F299@ FAM
+1 HUSB @I0901@
+1 WIFE @I0169@
+0 @F300@ FAM
+1 HUSB @I0902@
+1 WIFE @I0547@
+0 @F301@ FAM
+1 HUSB @I0998@
+1 WIFE @I0429@
+0 @F302@ FAM
+1 HUSB @I1000@
+1 WIFE @I0160@
+1 CHIL @I1001@
+0 @F303@ FAM
+1 HUSB @I0090@
+1 WIFE @I1003@
+1 CHIL @I0999@
+1 CHIL @I1002@
+0 @F304@ FAM
+1 WIFE @I1004@
+1 CHIL @I0068@
+0 @F305@ FAM
+1 HUSB @I0068@
+1 WIFE @I1005@
+1 CHIL @I1006@
+0 @F306@ FAM
+1 HUSB @I0907@
+1 CHIL @I0210@
+0 @F307@ FAM
+1 HUSB @I0908@
+1 WIFE @I0904@
+1 CHIL @I0909@
+1 CHIL @I0910@
+1 CHIL @I0911@
+0 @F308@ FAM
+1 WIFE @I0914@
+1 CHIL @I0283@
+0 @F309@ FAM
+1 HUSB @I0966@
+1 WIFE @I0917@
+1 CHIL @I0916@
+1 CHIL @I0918@
+1 CHIL @I0919@
+1 CHIL @I0920@
+1 CHIL @I0921@
+1 CHIL @I0922@
+1 CHIL @I0923@
+1 CHIL @I0924@
+1 CHIL @I0925@
+0 @F310@ FAM
+1 WIFE @I0357@
+1 CHIL @I0926@
+1 CHIL @I0927@
+0 @F311@ FAM
+1 HUSB @I0110@
+1 WIFE @I1041@
+1 MARR
+2 DATE 23 Jul
+0 @F312@ FAM
+1 HUSB @I0928@
+1 WIFE @I0016@
+1 CHIL @I0929@
+0 @F313@ FAM
+1 HUSB @I0932@
+1 WIFE @I0158@
+1 CHIL @I0933@
+0 @F314@ FAM
+1 HUSB @I0949@
+1 WIFE @I0948@
+0 @F315@ FAM
+1 WIFE @I0953@
+1 CHIL @I0035@
+1 CHIL @I0954@
+1 CHIL @I0955@
+1 CHIL @I0956@
+1 CHIL @I0957@
+1 CHIL @I0958@
+1 CHIL @I0959@
+1 CHIL @I0960@
+0 @F316@ FAM
+1 HUSB @I0963@
+1 WIFE @I0916@
+1 CHIL @I0964@
+1 CHIL @I0965@
+0 @F317@ FAM
+1 HUSB @I0968@
+1 WIFE @I0967@
+1 CHIL @I0917@
+0 @F318@ FAM
+1 HUSB @I0970@
+1 WIFE @I0962@
+1 CHIL @I0969@
+1 CHIL @I0971@
+0 @F319@ FAM
+1 WIFE @I0964@
+1 CHIL @I0972@
+0 @F320@ FAM
+1 HUSB @I0976@
+1 WIFE @I0973@
+1 CHIL @I0146@
+1 CHIL @I0974@
+1 CHIL @I0975@
+1 CHIL @I0977@
+1 CHIL @I0978@
+1 CHIL @I0979@
+0 @F321@ FAM
+1 HUSB @I0980@
+1 WIFE @I0974@
+1 CHIL @I0981@
+1 CHIL @I0982@
+1 CHIL @I0983@
+0 @F322@ FAM
+1 HUSB @I0153@
+1 WIFE @I0984@
+1 CHIL @I1086@
+1 MARR
+2 DATE 14 Nov 1998
+2 PLAC Columbia, SC
+0 @F323@ FAM
+1 WIFE @I0026@
+1 CHIL @I0993@
+1 CHIL @I0994@
+1 CHIL @I0995@
+0 @F324@ FAM
+1 HUSB @I0996@
+1 WIFE @I0997@
+1 CHIL @I0546@
+0 @F325@ FAM
+1 HUSB @I1043@
+1 WIFE @I1056@
+1 CHIL @I1055@
+1 CHIL @I1057@
+1 CHIL @I1058@
+1 CHIL @I1059@
+0 @F326@ FAM
+1 HUSB @I0638@
+1 WIFE @I1032@
+1 CHIL @I1013@
+1 CHIL @I1014@
+0 @F327@ FAM
+1 WIFE @I0634@
+1 CHIL @I1015@
+1 CHIL @I1016@
+0 @F328@ FAM
+1 HUSB @I0633@
+1 CHIL @I1017@
+0 @F329@ FAM
+1 HUSB @I0282@
+1 WIFE @I1021@
+1 CHIL @I1020@
+0 @F330@ FAM
+1 HUSB @I1025@
+1 WIFE @I1030@
+1 CHIL @I0042@
+1 CHIL @I1024@
+0 @F331@ FAM
+1 WIFE @I1013@
+1 CHIL @I1026@
+1 CHIL @I1029@
+1 CHIL @I1031@
+0 @F332@ FAM
+1 HUSB @I1035@
+1 WIFE @I0576@
+1 CHIL @I1028@
+1 CHIL @I1034@
+0 @F333@ FAM
+1 WIFE @I0326@
+1 CHIL @I1049@
+0 @F334@ FAM
+1 HUSB @I1071@
+1 WIFE @I0499@
+0 @F335@ FAM
+1 HUSB @I1084@
+1 WIFE @I0205@
+1 CHIL @I0050@
+0 @F336@ FAM
+1 HUSB @I0384@
+1 CHIL @I1050@
+0 @F337@ FAM
+1 HUSB @I0342@
+1 CHIL @I1064@
+0 @F338@ FAM
+1 HUSB @I1066@
+1 WIFE @I0212@
+0 @F339@ FAM
+1 HUSB @I1065@
+1 WIFE @I0205@
+1 CHIL @I0045@
+2 ADOP
+0 @F340@ FAM
+1 WIFE @I0590@
+1 CHIL @I1068@
+0 @F341@ FAM
+1 WIFE @I0290@
+1 CHIL @I1085@
+0 TRLR
