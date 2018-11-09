@@ -19,6 +19,7 @@ bad line missing level number
 1NOSPACE
 2 TEXT tironian et: ⁊
 2 @@FOOL@@ NOTE the @@FOOL@@ should not be parsed as an ID
+3 DATA @I1@
 0 TAG
 
 
@@ -80,9 +81,11 @@ line
 1 @ID21@   TAG   @ID11@  
 1 @ID2@ TAG @ID1@
 1 @ID31@   TAG   multiline 
+value   
+  here!
 1 @ID41@   TAG 
 1 @ID4@ TAG
-1 @ID@ TAG @PTR@
+1 @ID5@ TAG @PTR@
 1 @X@B@
 1 @XYZ@
 1 @Y@@
@@ -96,7 +99,10 @@ line
 1 AB@@CD@
 1 ABCD@@
 1 ABCD@@@
+1 TAG
+1 TAG 
 1 TAG  
+1 TAG   
 1 TAG   @ID4@  
 1 TAG   v@@l  
 1 TAG  val 
