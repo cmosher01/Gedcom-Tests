@@ -1,0 +1,110 @@
+0 HEAD
+1 CHAR UTF-8
+1 GEDC 
+
+2 VERS 5.5.1     
+    
+2 FORM    LINEAGE-LINKED
+1    SOUR MINIMAL
+   1 SUBM @M0@
+0 @M0@    SUBM
+4 CONC bad level
+1 NAME @@notAnId@@
+bad line missing level number
+0 @I1@ INDI
+1 _CUST custom tag OK
+1 THIS is a bad tag
+2
+3 
+1NOSPACE
+2 TEXT tironian et: ⁊
+2 @@FOOL@@ NOTE the @@FOOL@@ should not be parsed as an ID
+0 TAG
+
+
+0 TAG val
+
+
+0 TAG @A@
+
+
+0 LINES
+these
+are
+lines
+without
+levels
+ that
+will
+each
+get
+appended
+to
+the
+previous
+line
+0 DEEP
+101 LEVELS but the standard only allows 99
+0 TORTURE
+1 @
+1 @@
+1 @@@
+1 @@@@
+1 @@@@@
+1 @@@@@@
+1 @@@A001
+1 @@@A002@@
+1 @@A@
+1 @@B@@
+1 @@A003
+1 @@A004@
+1 @@A005@@
+1 @@A006@@@
+1 @A 	 7@
+1 @A 8@
+1 @C@
+1 @D@@
+1 @E@B
+1 @F@G@
+1 @H1@@CD
+1 @H2@@CD@
+1 @H3@@CDE@
+1 @H4@@CDE@
+1 @A10@
+1 @A11@ @A12@
+1 @A0013@@
+1 @I  D  9@TAG
+1 @I<2@   T<G   @I<1@  
+1 @ID11@   TAG   v@@l  
+1 @ID1@ TAG v@@l
+1 @ID21@   TAG   @ID11@  
+1 @ID2@ TAG @ID1@
+1 @ID31@   TAG   multiline 
+1 @ID41@   TAG 
+1 @ID4@ TAG
+1 @ID@ TAG @PTR@
+1 @X@B@
+1 @XYZ@
+1 @Y@@
+1 @Z@B
+1 @.@
+1 @1.BAD.ID.4.U@
+1 @2@
+1 _OOPS fool xml & < > ' " ]]> &amp;
+1 A@B@C
+1 AB@@CD
+1 AB@@CD@
+1 ABCD@@
+1 ABCD@@@
+1 TAG  
+1 TAG   @ID4@  
+1 TAG   v@@l  
+1 TAG  val 
+1 TAG @P  T  R@
+1 TAG @PTR@
+1 TAG A]]>B
+1 TAG v@@l
+1 TAG val
+1 THIS is a bad @@ tag
+1 v@@l  
+0 TRLR
