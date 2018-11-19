@@ -27,4 +27,9 @@
 2 CONC [child level 2]
 3 CONC [child level 3]
 1 CONT Level 1 cont.
+1 SOUR @A
+2 CONC B
+2 CONC C@
+0 @ABC@ SOUR
+1 TITL Cont/Conc should happen before parsing pointers
 0 TRLR
