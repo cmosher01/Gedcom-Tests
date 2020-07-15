@@ -164,6 +164,13 @@
 2 PLAC ìAìBìCìDìEìFìGìHìIìJìKìLìMìNìOìPìQìRìSìTìUìVìWìXìYìZ
 1 DEAT
 2 PLAC ìaìbìcìdìeìfìgìhìiìjìkìlìmìnìoìpìqìrìsìtìuìvìwìxìyìz
+0 @CHILD1516@ INDI
+1 FAMC @FAMILY@
+1 NAME code: EB (Unicode: ligature, 0361)/ligature/
+1 BIRT
+2 PLAC ëAìA ëBìB ëCìC ëDìD ëEìE ëFìF ëGìG ëHìH ëIìI ëJìJ ëKìK ëLìL ëMìM ëNìN ëOìO ëPìP ëQìQ ëRìR ëSìS ëTìT ëUìU ëVìV ëWìW ëXìX ëYìY ëZìZ
+1 DEAT
+2 PLAC ëaìa ëbìb ëcìc ëdìd ëeìe ëfìf ëgìg ëhìh ëiìi ëjìj ëkìk ëlìl ëmìm ënìn ëoìo ëpìp ëqìq ërìr ësìs ëtìt ëuìu ëvìv ëwìw ëxìx ëyìy ëzìz
 0 @CHILD17@ INDI
 1 FAMC @FAMILY@
 1 NAME code: ED (Unicode: comma above right, 0315)/high comma, off center/
@@ -261,7 +268,7 @@
 1 BIRT
 2 PLAC úAúBúCúDúEúFúGúHúIúJúKúLúMúNúOúPúQúRúSúTúUúVúWúXúYúZ
 1 DEAT
-2 PLAC úaûa úaa úbbúccúdúeúfúgúhúiújúkúlúmúnúoúpúqúrúsútúuúvúwúxúyúz
+2 PLAC úaúbúcúdúeúfúgúhúiújúkúlúmúnúoúpúqúrúsútúuúvúwúxúyúz
 0 @CHILD31@ INDI
 1 FAMC @FAMILY@
 1 NAME code: FB (Unicode: double tilde right half, FE23)/double tilde, right half/
@@ -269,6 +276,13 @@
 2 PLAC ûAûBûCûDûEûFûGûHûIûJûKûLûMûNûOûPûQûRûSûTûUûVûWûXûYûZ
 1 DEAT
 2 PLAC ûaûbûcûdûeûfûgûhûiûjûkûlûmûnûoûpûqûrûsûtûuûvûwûxûyûz
+0 @CHILD3031@ INDI
+1 FAMC @FAMILY@
+1 NAME code: FAFB (Unicode: double tilde 0360)/double tilde/
+1 BIRT
+2 PLAC úAûA úBûB úCûC úDûD úEûE úFûF úGûG úHûH úIûI úJûJ úKûK úLûL úMûM úNûN úOûO úPûP úQûQ úRûR úSûS úTûT úUûU úVûV úWûW úXûX úYûY úZûZ
+1 DEAT
+2 PLAC úaûa úbûb úcûc údûd úeûe úfûf úgûg úhûh úiûi újûj úkûk úlûl úmûm únûn úoûo úpûp úqûq úrûr úsûs útût úuûu úvûv úwûw úxûx úyûy úzûz
 0 @CHILD32@ INDI
 1 FAMC @FAMILY@
 1 NAME code: FE (Unicode: comma above, 0313)/high comma, centered/
@@ -296,6 +310,7 @@
 1 CHIL @CHILD14@
 1 CHIL @CHILD15@
 1 CHIL @CHILD16@
+1 CHIL @CHILD1516@
 1 CHIL @CHILD17@
 1 CHIL @CHILD18@
 1 CHIL @CHILD19@
@@ -311,5 +326,6 @@
 1 CHIL @CHILD29@
 1 CHIL @CHILD30@
 1 CHIL @CHILD31@
+1 CHIL @CHILD3031@
 1 CHIL @CHILD32@
 0 TRLR
